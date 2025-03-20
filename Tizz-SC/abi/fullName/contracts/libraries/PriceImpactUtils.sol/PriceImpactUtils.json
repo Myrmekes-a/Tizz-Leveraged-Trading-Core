@@ -1,0 +1,18 @@
+[
+  "event OiWindowsSettingsInitialized(uint48 indexed windowsDuration, uint48 indexed windowsCount)",
+  "event OnePercentDepthUpdated(uint256 indexed pairIndex, uint128 valueAboveUsd, uint128 valueBelowUsd)",
+  "event PriceImpactOiTransferredPair(uint256 indexed pairIndex, tuple(uint128 oiLongUsd, uint128 oiShortUsd) totalPairOi)",
+  "event PriceImpactOiTransferredPairs(uint256 pairsCount, uint256 prevCurrentWindowId, uint256 prevEarliestWindowId, uint256 newCurrentWindowId)",
+  "event PriceImpactOpenInterestAdded(tuple(uint48 windowsDuration, uint256 pairIndex, uint256 windowId, bool long, uint128 openInterestUsd) oiWindowUpdate)",
+  "event PriceImpactOpenInterestRemoved(tuple(uint48 windowsDuration, uint256 pairIndex, uint256 windowId, bool long, uint128 openInterestUsd) oiWindowUpdate, bool notOutdated)",
+  "event PriceImpactWindowsCountUpdated(uint48 indexed windowsCount)",
+  "event PriceImpactWindowsDurationUpdated(uint48 indexed windowsDuration)",
+  "function getCurrentWindowId(tuple(uint48 startTs, uint48 windowsDuration, uint48 windowsCount) _settings) view returns (uint256)",
+  "function getEarliestActiveWindowId(uint256 _currentWindowId, uint48 _windowsCount) pure returns (uint256)",
+  "function getPriceImpactOi(uint256 _pairIndex, bool _long) view returns (uint256 activeOi)",
+  "function getSlot() pure returns (uint256)",
+  "function getTradePriceImpact(uint256 _openPrice, bool _long, uint256 _startOpenInterestUsd, uint256 _tradeOpenInterestUsd, uint256 _onePercentDepthUsd) pure returns (uint256 priceImpactP, uint256 priceAfterImpact)",
+  "function getTradePriceImpact(uint256 _openPrice, uint256 _pairIndex, bool _long, uint256 _tradeOpenInterestUsd) view returns (uint256 priceImpactP, uint256 priceAfterImpact)",
+  "function getWindowId(uint256 _timestamp, tuple(uint48 startTs, uint48 windowsDuration, uint48 windowsCount) _settings) pure returns (uint256)",
+  "function isWindowPotentiallyActive(uint256 _windowId, uint256 _currentWindowId) pure returns (bool)"
+]

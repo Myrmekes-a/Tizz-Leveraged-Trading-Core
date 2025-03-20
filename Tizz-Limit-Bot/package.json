@@ -1,0 +1,30 @@
+{
+  "name": "tizz-limit-bot",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "https://github.com/TizzHive/Tizz-Limit-Bot.git",
+  "description": "Handles closing and opening of trades by limit orders, stop orders, and take profits.",
+  "scripts": {
+    "sdk:generate-types": "cd ./sdk && yarn generate-types",
+    "build:db": " cd ./database && yarn build",
+    "prebuild": "yarn sdk:generate-types && yarn build:db && cd ./sdk && yarn build",
+    "dev": "cd ./limit-bot && yarn dev",
+    "build": "yarn prebuild && cd ./limit-bot && yarn build",
+    "prod": "cd ./limit-bot && yarn start"
+  },
+  "author": "Leggo Builders",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@tizz/database": "*",
+    "@tizz/limit-bot": "*",
+    "@tizz/sdk": "*"
+  },
+  "workspaces": {
+    "packages": [
+      "database",
+      "sdk",
+      "limit-bot"
+    ]
+  }
+}

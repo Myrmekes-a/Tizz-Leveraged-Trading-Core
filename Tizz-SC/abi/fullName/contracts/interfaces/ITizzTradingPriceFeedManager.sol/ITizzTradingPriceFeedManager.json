@@ -1,0 +1,17 @@
+[
+  "event NewEpoch(uint256 indexed newEpoch, uint256 indexed requestId, int256[] epochMedianValues, int256 epochAverageValue, uint256 newEpochPositiveOpenPnl)",
+  "event NewEpochForced(uint256 indexed newEpoch)",
+  "event NextEpochValuesReset(uint256 indexed currEpoch, uint256 requestsResetCount)",
+  "event NumberParamUpdated(string name, uint256 newValue)",
+  "event OracleStorageUpdated(address indexed newValue)",
+  "event OracleUpdated(address indexed newValue)",
+  "event RequestMedianValueSet(uint256 indexed currEpoch, int256[] requestValues, int256 medianValue)",
+  "function forceNewEpoch()",
+  "function newOpenPnlRequestOrEpoch(bytes _bytesProof)",
+  "function nextEpochValuesRequestCount() view returns (uint256)",
+  "function resetNextEpochValueRequests()",
+  "function updateRequestsCount(uint256 _newValue)",
+  "function updateRequestsEvery(uint256 _newValue)",
+  "function updateRequestsInfoBatch(uint256 _newRequestsStart, uint256 _newRequestsEvery, uint256 _newRequestsCount)",
+  "function updateRequestsStart(uint256 _newValue)"
+]

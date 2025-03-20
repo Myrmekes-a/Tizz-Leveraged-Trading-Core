@@ -1,0 +1,18 @@
+[
+  "event Initialized(uint8)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function claim(address)",
+  "function claimAll()",
+  "function claimableAmounts(address,address) view returns (uint256)",
+  "function getClaimableTokens(address) view returns (tuple(address,uint256)[])",
+  "function initialize()",
+  "function initializeV2(address)",
+  "function owner() view returns (address)",
+  "function receiveAssets(address,address,uint256)",
+  "function renounceOwnership()",
+  "function tizzTradingCallbacks() view returns (address)",
+  "function totalAmounts(address) view returns (uint256)",
+  "function transferOwnership(address)",
+  "function updateTizzTradingCallbacks(address)",
+  "function withdraw(address)"
+]

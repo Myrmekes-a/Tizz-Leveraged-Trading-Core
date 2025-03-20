@@ -1,0 +1,19 @@
+[
+  "event AllyRewardDistributed(address indexed ally, address indexed trader, uint256 volumeUsd, uint256 amountToken, uint256 amountValueUsd)",
+  "event AllyRewardsClaimed(address indexed ally, uint256 amountToken)",
+  "event AllyUnwhitelisted(address indexed ally)",
+  "event AllyWhitelisted(address indexed ally)",
+  "event ReferrerRegistered(address indexed trader, address indexed referrer)",
+  "event ReferrerRewardDistributed(address indexed referrer, address indexed trader, uint256 volumeUsd, uint256 amountToken, uint256 amountValueUsd)",
+  "event ReferrerRewardsClaimed(address indexed referrer, uint256 amountToken)",
+  "event ReferrerUnwhitelisted(address indexed referrer)",
+  "event ReferrerWhitelisted(address indexed referrer, address indexed ally)",
+  "event UpdatedAllyFeeP(uint256 value)",
+  "event UpdatedOpenFeeP(uint256 value)",
+  "event UpdatedStartReferrerFeeP(uint256 value)",
+  "event UpdatedTargetVolumeUsd(uint256 value)",
+  "function distributeReferralReward(address trader, uint256 volumeUsd, uint256 pairOpenFeeP, uint256 tokenPriceUsd) returns (uint256)",
+  "function getReferralsPercentOfOpenFeeP(address trader) view returns (uint256)",
+  "function getTraderReferrer(address trader) view returns (address referrer)",
+  "function registerPotentialReferrer(address trader, address referral)"
+]

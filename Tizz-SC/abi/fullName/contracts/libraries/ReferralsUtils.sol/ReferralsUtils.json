@@ -1,0 +1,18 @@
+[
+  "event AllyRewardDistributed(address indexed ally, address indexed trader, uint256 volumeUsd, uint256 amountToken, uint256 amountValueUsd)",
+  "event AllyRewardsClaimed(address indexed ally, uint256 amountToken)",
+  "event AllyUnwhitelisted(address indexed ally)",
+  "event AllyWhitelisted(address indexed ally)",
+  "event ReferrerRegistered(address indexed trader, address indexed referrer)",
+  "event ReferrerRewardDistributed(address indexed referrer, address indexed trader, uint256 volumeUsd, uint256 amountToken, uint256 amountValueUsd)",
+  "event ReferrerRewardsClaimed(address indexed referrer, uint256 amountToken)",
+  "event ReferrerUnwhitelisted(address indexed referrer)",
+  "event ReferrerWhitelisted(address indexed referrer, address indexed ally)",
+  "event UpdatedAllyFeeP(uint256 value)",
+  "event UpdatedOpenFeeP(uint256 value)",
+  "event UpdatedStartReferrerFeeP(uint256 value)",
+  "event UpdatedTargetVolumeUsd(uint256 value)",
+  "function getPercentOfOpenFeeP_calc(uint256 _volumeReferredUsd) view returns (uint256 resultP)",
+  "function getReferrerFeeP(uint256 _pairOpenFeeP, uint256 _volumeReferredUsd) view returns (uint256)",
+  "function getSlot() pure returns (uint256)"
+]

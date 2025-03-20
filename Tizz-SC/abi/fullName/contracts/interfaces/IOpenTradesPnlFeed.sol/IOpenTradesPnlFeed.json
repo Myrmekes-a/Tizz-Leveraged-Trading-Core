@@ -1,0 +1,4 @@
+[
+  "function newOpenPnlRequestOrEpoch()",
+  "function nextEpochValuesRequestCount() view returns (uint256)"
+]

@@ -1,0 +1,5 @@
+{
+  "singleQuote": true,
+  "tailingComma": "es2016",
+  "printWidth": 130
+}

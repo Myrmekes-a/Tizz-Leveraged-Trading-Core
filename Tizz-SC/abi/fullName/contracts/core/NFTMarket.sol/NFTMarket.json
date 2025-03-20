@@ -1,0 +1,22 @@
+[
+  "event BuyNFT(address indexed user, uint256 indexed cardId, uint256 indexed tokenId)",
+  "event Initialized(uint8 version)",
+  "event OwnershipTransferStarted(address indexed previousOwner, address indexed newOwner)",
+  "event OwnershipTransferred(address indexed previousOwner, address indexed newOwner)",
+  "function USDT() view returns (address)",
+  "function WALLET() view returns (address)",
+  "function acceptOwnership()",
+  "function buyNFTWithUSDT(uint256 cardId_)",
+  "function init()",
+  "function nftPrice(uint256 cardId_) view returns (uint256)",
+  "function owner() view returns (address)",
+  "function pendingOwner() view returns (address)",
+  "function renounceOwnership()",
+  "function setMsw721(address msw721_)",
+  "function setUSDT(address usdt_)",
+  "function setWallet(address wallet_)",
+  "function transferOwnership(address newOwner)",
+  "function unions() view returns (address)",
+  "function unionsAddress() view returns (address)",
+  "function userBuyNFTs(address, uint256) view returns (uint256)"
+]

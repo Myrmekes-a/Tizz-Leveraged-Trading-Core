@@ -1,0 +1,14 @@
+[
+  "function WALLET() view returns (address)",
+  "function cardIdMap(uint256) view returns (uint256)",
+  "function cardInfoes(uint256) view returns (uint256, uint256, uint256, uint256, string)",
+  "function cardOwners(uint256) view returns (address)",
+  "function mint(address, uint256, uint256) returns (bool)",
+  "function minters(address, uint256) view returns (uint256)",
+  "function myBaseURI() view returns (string)",
+  "function safeTransferFrom(address, address, uint256)",
+  "function superMinter() view returns (address)",
+  "function superMinters(address) view returns (bool)",
+  "function transferFrom(address, address, uint256)",
+  "function upgrade(uint256, uint256) returns (bool)"
+]

@@ -1,0 +1,16 @@
+{
+  "mumbai": {
+    "EACAggregatorProxyBTCUSDOnMumbai": {
+      "address": "0x11E187fd2c832a95BdD78A46DdA774d5821E7569",
+      "startBlock": 28781888
+    },
+    "EACAggregatorProxyETHUSDOnMumbai": {
+      "address": "0xB4cCB58dD3d35530E54B631AC0561F0c6D424D38",
+      "startBlock": 28781889
+    },
+    "EACAggregatorProxyDAIUSDOnMumbai": {
+      "address": "0xe0Ef78E847dc1A6aA410897B053E3C8a2B411828",
+      "startBlock": 28781888
+    }
+  }
+}

@@ -1,0 +1,10 @@
+[
+  "error InitError()",
+  "error InvalidInputLength()",
+  "error NotAllowed()",
+  "error WrongAccess()",
+  "error WrongSlot()",
+  "event AccessControlUpdated(address target, uint8 role, bool access)",
+  "event AddressesUpdated(tuple(address tizz) addresses)",
+  "function hasRole(address _account, uint8 _role) view returns (bool)"
+]

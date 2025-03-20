@@ -1,0 +1,13 @@
+[
+  "event CouldNotCloseTrade(address indexed,uint256 indexed,uint256)",
+  "event Done(bool)",
+  "event MarketOrderInitiated(uint256 indexed,address indexed,uint256 indexed,bool)",
+  "event NumberUpdated(string,uint256)",
+  "event OpenLimitCanceled(address indexed,uint256 indexed,uint256)",
+  "event OpenLimitPlaced(address indexed,uint256 indexed,uint256)",
+  "event OpenLimitUpdated(address indexed,uint256 indexed,uint256,uint256,uint256,uint256,uint256)",
+  "event OrderTriggered(uint256,address indexed,uint256 indexed,uint8)",
+  "event Paused(bool)",
+  "event SlUpdated(address indexed,uint256 indexed,uint256,uint256)",
+  "event TpUpdated(address indexed,uint256 indexed,uint256,uint256)"
+]

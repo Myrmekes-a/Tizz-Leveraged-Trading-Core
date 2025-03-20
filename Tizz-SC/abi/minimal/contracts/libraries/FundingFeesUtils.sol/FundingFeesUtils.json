@@ -1,0 +1,6 @@
+[
+  "error BlockOrder()",
+  "error Overflow()",
+  "function getPendingAccFees(tuple(uint64,uint64,uint32,uint256,uint256),bool) pure returns (uint64, uint64, uint64)",
+  "function getTradeLiquidationPrice(uint256,bool,uint256,uint256,uint256,uint128) pure returns (uint256)"
+]

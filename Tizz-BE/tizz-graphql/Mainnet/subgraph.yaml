@@ -1,0 +1,47 @@
+specVersion: 1.0.0
+indexerHints:
+  prune: auto
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum
+    name: EACAggregatorProxy
+    network: mainnet
+    source:
+      address: "0xA39434A63A52E749F02807ae27335515BA4b07F7" 
+      abi: EACAggregatorProxy
+      startBlock: 10606501
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - PricePair
+      abis:
+        - name: EACAggregatorProxy
+          file: ./abis/EACAggregatorProxy.json
+      eventHandlers:
+        - event: AnswerUpdated(indexed int256,indexed uint256,uint256)
+          handler: handleAnswerUpdated
+      file: ./src/eac-aggregator-proxy.ts
+  - kind: ethereum 
+    name: EACAggregatorProxyETHUSD
+    network: mainnet
+    source:
+      address: "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419" 
+      abi: EACAggregatorProxy
+      startBlock: 10606501
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - PricePair
+      abis:
+        - name: EACAggregatorProxy
+          file: ./abis/EACAggregatorProxy.json
+      eventHandlers:
+        - event: AnswerUpdated(indexed int256,indexed uint256,uint256)
+          handler: handleAnswerUpdated
+      file: ./src/eac-aggregator-proxy.ts
+

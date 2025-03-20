@@ -1,0 +1,7 @@
+[
+  "function _msgSender() view returns (address)",
+  "function delegatedAction(address trader, bytes call_data) returns (bytes)",
+  "function delegations(address) view returns (address)",
+  "function removeDelegate()",
+  "function setDelegate(address delegate)"
+]

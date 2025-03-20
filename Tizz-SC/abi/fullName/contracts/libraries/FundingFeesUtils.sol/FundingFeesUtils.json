@@ -1,0 +1,6 @@
+[
+  "error BlockOrder()",
+  "error Overflow()",
+  "function getPendingAccFees(tuple(uint64 accFeeLong, uint64 accFeeShort, uint32 feePerBlock, uint256 currentBlock, uint256 accLastUpdatedBlock) input, bool isBullish) pure returns (uint64 newAccFeeLong, uint64 newAccFeeShort, uint64 delta)",
+  "function getTradeLiquidationPrice(uint256 openPrice, bool long, uint256 collateral, uint256 leverage, uint256 fundingFee, uint128 collateralPrecisionDelta) pure returns (uint256)"
+]

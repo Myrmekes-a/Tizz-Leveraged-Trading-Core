@@ -1,0 +1,10 @@
+[
+  "function deposit(uint256 _assets, address _receiver) returns (uint256)",
+  "function depositWithDiscountAndLock(uint256 _assets, uint256 _lockDuration, address _receiver) returns (uint256)",
+  "function mint(uint256 _shares, address _receiver) returns (uint256)",
+  "function mintWithDiscountAndLock(uint256 _shares, uint256 _lockDuration, address _receiver) returns (uint256)",
+  "function previewMint(uint256 _shares) view returns (uint256)",
+  "function previewRedeem(uint256 shares) view returns (uint256)",
+  "function redeem(uint256 _shares, address _receiver, address _owner) returns (uint256)",
+  "function withdraw(uint256 _assets, address _receiver, address _owner) returns (uint256)"
+]

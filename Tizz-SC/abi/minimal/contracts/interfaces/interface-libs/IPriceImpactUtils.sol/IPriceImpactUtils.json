@@ -1,0 +1,13 @@
+[
+  "event OiWindowsSettingsInitialized(uint48 indexed,uint48 indexed)",
+  "event OnePercentDepthUpdated(uint256 indexed,uint128,uint128)",
+  "event PriceImpactOiTransferredPair(uint256 indexed,tuple(uint128,uint128))",
+  "event PriceImpactOiTransferredPairs(uint256,uint256,uint256,uint256)",
+  "event PriceImpactOpenInterestAdded(tuple(uint48,uint256,uint256,bool,uint128))",
+  "event PriceImpactOpenInterestRemoved(tuple(uint48,uint256,uint256,bool,uint128),bool)",
+  "event PriceImpactWindowsCountUpdated(uint48 indexed)",
+  "event PriceImpactWindowsDurationUpdated(uint48 indexed)",
+  "function addPriceImpactOpenInterest(uint256,uint256,bool)",
+  "function getTradePriceImpact(uint256,uint256,bool,uint256) view returns (uint256, uint256)",
+  "function removePriceImpactOpenInterest(uint256,uint256,bool,uint256)"
+]

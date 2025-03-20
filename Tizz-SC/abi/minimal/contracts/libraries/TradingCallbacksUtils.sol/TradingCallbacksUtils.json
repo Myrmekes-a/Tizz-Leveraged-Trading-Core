@@ -1,0 +1,11 @@
+[
+  "function correctSl(uint256,uint256,uint256,bool) pure returns (uint256)",
+  "function correctTp(uint256,uint256,uint256,bool) pure returns (uint256)",
+  "function currentPercentProfit(uint256,uint256,bool,uint256) pure returns (int256)",
+  "function getTradeValue(tuple(address,uint256,uint256,uint256,uint256,uint256,bool,uint256,uint256,uint256),uint256,int256,uint256,uint128,ITizzFundingFees) view returns (uint256, uint256)",
+  "function getTradeValuePure(uint256,int256,uint256,uint256,uint128) pure returns (uint256)",
+  "function handleTradeSlTp(tuple(address,uint256,uint256,uint256,uint256,uint256,bool,uint256,uint256,uint256)) pure returns (uint256, uint256)",
+  "function marketExecutionPrice(uint256,uint256,bool) pure returns (uint256)",
+  "function openTradePrep(tuple(bool,uint256,uint256,uint256,uint256,bool,uint256,uint256,uint256,uint256,uint256,uint256),ITizzFundingFees,ITizzTradingStorage,ITizzMultiCollatDiamond,ITizzPriceAggregator) view returns (uint256, uint256, ITizzTradingCallbacks.CancelReason)",
+  "function withinExposureLimits(uint256,bool,uint256,uint256,ITizzTradingStorage,ITizzFundingFees) view returns (bool)"
+]

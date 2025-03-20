@@ -1,0 +1,9 @@
+{
+
+  "sepolia": {
+    "EACAggregatorProxyBTCUSDOnSepolia": {
+      "address": "0x1b44F3514812d835EB1BDB0acB33d3fA3351Ee43",
+      "startBlock": 2675144
+    }
+  }
+}

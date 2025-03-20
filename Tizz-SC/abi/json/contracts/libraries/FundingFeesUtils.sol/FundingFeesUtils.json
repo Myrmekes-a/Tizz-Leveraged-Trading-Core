@@ -1,0 +1,117 @@
+[
+  {
+    "inputs": [],
+    "name": "BlockOrder",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "Overflow",
+    "type": "error"
+  },
+  {
+    "inputs": [
+      {
+        "components": [
+          {
+            "internalType": "uint64",
+            "name": "accFeeLong",
+            "type": "uint64"
+          },
+          {
+            "internalType": "uint64",
+            "name": "accFeeShort",
+            "type": "uint64"
+          },
+          {
+            "internalType": "uint32",
+            "name": "feePerBlock",
+            "type": "uint32"
+          },
+          {
+            "internalType": "uint256",
+            "name": "currentBlock",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "accLastUpdatedBlock",
+            "type": "uint256"
+          }
+        ],
+        "internalType": "struct ITizzFundingFees.PendingAccFeesInput",
+        "name": "input",
+        "type": "tuple"
+      },
+      {
+        "internalType": "bool",
+        "name": "isBullish",
+        "type": "bool"
+      }
+    ],
+    "name": "getPendingAccFees",
+    "outputs": [
+      {
+        "internalType": "uint64",
+        "name": "newAccFeeLong",
+        "type": "uint64"
+      },
+      {
+        "internalType": "uint64",
+        "name": "newAccFeeShort",
+        "type": "uint64"
+      },
+      {
+        "internalType": "uint64",
+        "name": "delta",
+        "type": "uint64"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "openPrice",
+        "type": "uint256"
+      },
+      {
+        "internalType": "bool",
+        "name": "long",
+        "type": "bool"
+      },
+      {
+        "internalType": "uint256",
+        "name": "collateral",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "leverage",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "fundingFee",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint128",
+        "name": "collateralPrecisionDelta",
+        "type": "uint128"
+      }
+    ],
+    "name": "getTradeLiquidationPrice",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  }
+]

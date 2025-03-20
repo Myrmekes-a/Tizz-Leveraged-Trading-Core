@@ -1,0 +1,9 @@
+[
+  "constructor(address _tizzFundingFees, address _tizzMultiCollatDiamond, address _storageT, address _tradingCallbacks)",
+  "function PRECISION() view returns (uint256)",
+  "function predictFees(address _trader, uint256 _collateral, uint256 _leverage, uint256 _pairIndex) view returns (uint256 fees, uint256 fundingRate)",
+  "function storageT() view returns (address)",
+  "function tizzFundingFees() view returns (address)",
+  "function tizzMultiCollatDiamond() view returns (address)",
+  "function tradingCallbacks() view returns (address)"
+]

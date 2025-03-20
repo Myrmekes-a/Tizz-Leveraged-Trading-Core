@@ -1,0 +1,2277 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1275pt" height="8641pt" viewBox="0.00 0.00 1274.56 8641">
+<g id="graph0" class="graph" transform="translate(4,8637) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-8637 1270.56,-8637 1270.56,4 -4,4"/>
+<g id="clust1" class="cluster" data-name="clusterTizzTrading">
+
+<path fill="#445773" stroke="#445773" d="M63.44,-3025C63.44,-3025 857.04,-3025 857.04,-3025 863.04,-3025 869.04,-3031 869.04,-3037 869.04,-3037 869.04,-3670 869.04,-3670 869.04,-3676 863.04,-3682 857.04,-3682 857.04,-3682 63.44,-3682 63.44,-3682 57.44,-3682 51.44,-3676 51.44,-3670 51.44,-3670 51.44,-3037 51.44,-3037 51.44,-3031 57.44,-3025 63.44,-3025" style=""/>
+<text text-anchor="middle" x="460.24" y="-3665.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TizzTrading</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterInitializable">
+
+<path fill="#445773" stroke="#445773" d="M656.86,-3950C656.86,-3950 1108.18,-3950 1108.18,-3950 1114.18,-3950 1120.18,-3956 1120.18,-3962 1120.18,-3962 1120.18,-4309 1120.18,-4309 1120.18,-4315 1114.18,-4321 1108.18,-4321 1108.18,-4321 656.86,-4321 656.86,-4321 650.86,-4321 644.86,-4315 644.86,-4309 644.86,-4309 644.86,-3962 644.86,-3962 644.86,-3956 650.86,-3950 656.86,-3950" style=""/>
+<text text-anchor="middle" x="882.52" y="-4304.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Initializable</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterAddressUpgradeable">
+
+<path fill="#445773" stroke="#445773" d="M112.77,-3775C112.77,-3775 1131.25,-3775 1131.25,-3775 1137.25,-3775 1143.25,-3781 1143.25,-3787 1143.25,-3787 1143.25,-3930 1143.25,-3930 1143.25,-3936 1137.25,-3942 1131.25,-3942 1131.25,-3942 112.77,-3942 112.77,-3942 106.77,-3942 100.77,-3936 100.77,-3930 100.77,-3930 100.77,-3787 100.77,-3787 100.77,-3781 106.77,-3775 112.77,-3775" style=""/>
+<text text-anchor="middle" x="622.01" y="-3925.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">AddressUpgradeable  (lib)</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterIERC20">
+
+<path fill="#445773" stroke="#445773" d="M110.63,-3950C110.63,-3950 225.54,-3950 225.54,-3950 231.54,-3950 237.54,-3956 237.54,-3962 237.54,-3962 237.54,-4447 237.54,-4447 237.54,-4453 231.54,-4459 225.54,-4459 225.54,-4459 110.63,-4459 110.63,-4459 104.63,-4459 98.63,-4453 98.63,-4447 98.63,-4447 98.63,-3962 98.63,-3962 98.63,-3956 104.63,-3950 110.63,-3950" style=""/>
+<text text-anchor="middle" x="168.09" y="-4442.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20  (iface)</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterIERC20Metadata">
+
+<path fill="#445773" stroke="#445773" d="M101.73,-4467C101.73,-4467 234.44,-4467 234.44,-4467 240.44,-4467 246.44,-4473 246.44,-4479 246.44,-4479 246.44,-4640 246.44,-4640 246.44,-4646 240.44,-4652 234.44,-4652 234.44,-4652 101.73,-4652 101.73,-4652 95.73,-4652 89.73,-4646 89.73,-4640 89.73,-4640 89.73,-4479 89.73,-4479 89.73,-4473 95.73,-4467 101.73,-4467" style=""/>
+<text text-anchor="middle" x="168.09" y="-4635.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20Metadata  (iface)</text>
+</g>
+<g id="edge1" class="edge" data-name="TizzTrading.&lt;Constructor&gt;-&gt;TizzTrading._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M236.93,-3631C276.29,-3631 326.54,-3631 370.12,-3631"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="370.09,-3634.5 380.09,-3631 370.09,-3627.5 370.09,-3634.5"/>
+</g><g id="clust7" class="cluster" data-name="clusterITizzTradingStorage">
+
+<path fill="#445773" stroke="#445773" d="M637.54,-8C637.54,-8 862.95,-8 862.95,-8 868.95,-8 874.95,-14 874.95,-20 874.95,-20 874.95,-1963 874.95,-1963 874.95,-1969 868.95,-1975 862.95,-1975 862.95,-1975 637.54,-1975 637.54,-1975 631.54,-1975 625.54,-1969 625.54,-1963 625.54,-1963 625.54,-20 625.54,-20 625.54,-14 631.54,-8 637.54,-8" style=""/>
+<text text-anchor="middle" x="750.25" y="-1958.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzTradingStorage  (iface)</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterITizzPriceAggregator">
+
+<path fill="#445773" stroke="#445773" d="M922.48,-2731C922.48,-2731 1246.56,-2731 1246.56,-2731 1252.56,-2731 1258.56,-2737 1258.56,-2743 1258.56,-2743 1258.56,-3120 1258.56,-3120 1258.56,-3126 1252.56,-3132 1246.56,-3132 1246.56,-3132 922.48,-3132 922.48,-3132 916.48,-3132 910.48,-3126 910.48,-3120 910.48,-3120 910.48,-2743 910.48,-2743 910.48,-2737 916.48,-2731 922.48,-2731" style=""/>
+<text text-anchor="middle" x="1084.52" y="-3115.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzPriceAggregator  (iface)</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusterITizzMultiCollatDiamond">
+
+<path fill="#445773" stroke="#445773" d="M647.76,-2670C647.76,-2670 852.73,-2670 852.73,-2670 858.73,-2670 864.73,-2676 864.73,-2682 864.73,-2682 864.73,-3005 864.73,-3005 864.73,-3011 858.73,-3017 852.73,-3017 852.73,-3017 647.76,-3017 647.76,-3017 641.76,-3017 635.76,-3011 635.76,-3005 635.76,-3005 635.76,-2682 635.76,-2682 635.76,-2676 641.76,-2670 647.76,-2670" style=""/>
+<text text-anchor="middle" x="750.25" y="-3000.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzMultiCollatDiamond  (iface)</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterIAddressStoreUtils">
+
+<path fill="#445773" stroke="#445773" d="M96.94,-4660C96.94,-4660 239.23,-4660 239.23,-4660 245.23,-4660 251.23,-4666 251.23,-4672 251.23,-4672 251.23,-4725 251.23,-4725 251.23,-4731 245.23,-4737 239.23,-4737 239.23,-4737 96.94,-4737 96.94,-4737 90.94,-4737 84.94,-4731 84.94,-4725 84.94,-4725 84.94,-4672 84.94,-4672 84.94,-4666 90.94,-4660 96.94,-4660" style=""/>
+<text text-anchor="middle" x="168.09" y="-4720.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IAddressStoreUtils  (iface)</text>
+</g>
+<g id="clust11" class="cluster" data-name="clusterIPairsStorageUtils">
+
+<path fill="#445773" stroke="#445773" d="M69.87,-4745C69.87,-4745 266.3,-4745 266.3,-4745 272.3,-4745 278.3,-4751 278.3,-4757 278.3,-4757 278.3,-5404 278.3,-5404 278.3,-5410 272.3,-5416 266.3,-5416 266.3,-5416 69.87,-5416 69.87,-5416 63.87,-5416 57.87,-5410 57.87,-5404 57.87,-5404 57.87,-4757 57.87,-4757 57.87,-4751 63.87,-4745 69.87,-4745" style=""/>
+<text text-anchor="middle" x="168.09" y="-5399.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IPairsStorageUtils  (iface)</text>
+</g>
+<g id="clust12" class="cluster" data-name="clusterIReferralsUtils">
+
+<path fill="#445773" stroke="#445773" d="M34.49,-5424C34.49,-5424 301.69,-5424 301.69,-5424 307.69,-5424 313.69,-5430 313.69,-5436 313.69,-5436 313.69,-5651 313.69,-5651 313.69,-5657 307.69,-5663 301.69,-5663 301.69,-5663 34.49,-5663 34.49,-5663 28.49,-5663 22.49,-5657 22.49,-5651 22.49,-5651 22.49,-5436 22.49,-5436 22.49,-5430 28.49,-5424 34.49,-5424" style=""/>
+<text text-anchor="middle" x="168.09" y="-5646.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IReferralsUtils  (iface)</text>
+</g>
+<g id="clust13" class="cluster" data-name="clusterIFeeTiersUtils">
+
+<path fill="#445773" stroke="#445773" d="M81.14,-5671C81.14,-5671 255.03,-5671 255.03,-5671 261.03,-5671 267.03,-5677 267.03,-5683 267.03,-5683 267.03,-5790 267.03,-5790 267.03,-5796 261.03,-5802 255.03,-5802 255.03,-5802 81.14,-5802 81.14,-5802 75.14,-5802 69.14,-5796 69.14,-5790 69.14,-5790 69.14,-5683 69.14,-5683 69.14,-5677 75.14,-5671 81.14,-5671" style=""/>
+<text text-anchor="middle" x="168.09" y="-5785.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IFeeTiersUtils  (iface)</text>
+</g>
+<g id="clust14" class="cluster" data-name="clusterIPriceImpactUtils">
+
+<path fill="#445773" stroke="#445773" d="M35.57,-5810C35.57,-5810 300.61,-5810 300.61,-5810 306.61,-5810 312.61,-5816 312.61,-5822 312.61,-5822 312.61,-5983 312.61,-5983 312.61,-5989 306.61,-5995 300.61,-5995 300.61,-5995 35.57,-5995 35.57,-5995 29.57,-5995 23.57,-5989 23.57,-5983 23.57,-5983 23.57,-5822 23.57,-5822 23.57,-5816 29.57,-5810 35.57,-5810" style=""/>
+<text text-anchor="middle" x="168.09" y="-5978.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IPriceImpactUtils  (iface)</text>
+</g>
+<g id="edge3" class="edge" data-name="TizzTrading.initializeV2-&gt;ITizzTradingStorage.baseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.57,-3036.81C244.98,-3023.46 303.6,-3003.66 355.68,-2991 405.34,-2978.92 549.25,-2991.81 582.5,-2953 663.63,-2858.33 530.1,-804.7 610.01,-709 628.69,-686.63 659.87,-679.17 687.99,-677.62"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="687.7,-681.13 697.61,-677.37 687.52,-674.13 687.7,-681.13"/>
+</g><g id="clust15" class="cluster" data-name="clusterITizzTradingCallbacks">
+
+<path fill="#445773" stroke="#445773" d="M622.01,-5841C622.01,-5841 878.48,-5841 878.48,-5841 884.48,-5841 890.48,-5847 890.48,-5853 890.48,-5853 890.48,-6446 890.48,-6446 890.48,-6452 884.48,-6458 878.48,-6458 878.48,-6458 622.01,-6458 622.01,-6458 616.01,-6458 610.01,-6452 610.01,-6446 610.01,-6446 610.01,-5853 610.01,-5853 610.01,-5847 616.01,-5841 622.01,-5841" style=""/>
+<text text-anchor="middle" x="750.25" y="-6441.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzTradingCallbacks  (iface)</text>
+</g>
+<g id="clust17" class="cluster" data-name="clusterIUniswapV3PoolImmutables">
+
+<path fill="#445773" stroke="#445773" d="M68.91,-6250C68.91,-6250 267.26,-6250 267.26,-6250 273.26,-6250 279.26,-6256 279.26,-6262 279.26,-6262 279.26,-6585 279.26,-6585 279.26,-6591 273.26,-6597 267.26,-6597 267.26,-6597 68.91,-6597 68.91,-6597 62.91,-6597 56.91,-6591 56.91,-6585 56.91,-6585 56.91,-6262 56.91,-6262 56.91,-6256 62.91,-6250 68.91,-6250" style=""/>
+<text text-anchor="middle" x="168.09" y="-6580.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV3PoolImmutables  (iface)</text>
+</g>
+<g id="clust18" class="cluster" data-name="clusterIUniswapV3PoolState">
+
+<path fill="#445773" stroke="#445773" d="M67.19,-6605C67.19,-6605 268.98,-6605 268.98,-6605 274.98,-6605 280.98,-6611 280.98,-6617 280.98,-6617 280.98,-7102 280.98,-7102 280.98,-7108 274.98,-7114 268.98,-7114 268.98,-7114 67.19,-7114 67.19,-7114 61.19,-7114 55.19,-7108 55.19,-7102 55.19,-7102 55.19,-6617 55.19,-6617 55.19,-6611 61.19,-6605 67.19,-6605" style=""/>
+<text text-anchor="middle" x="168.09" y="-7097.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV3PoolState  (iface)</text>
+</g>
+<g id="clust19" class="cluster" data-name="clusterIUniswapV3PoolDerivedState">
+
+<path fill="#445773" stroke="#445773" d="M54.83,-7122C54.83,-7122 281.34,-7122 281.34,-7122 287.34,-7122 293.34,-7128 293.34,-7134 293.34,-7134 293.34,-7241 293.34,-7241 293.34,-7247 287.34,-7253 281.34,-7253 281.34,-7253 54.83,-7253 54.83,-7253 48.83,-7253 42.83,-7247 42.83,-7241 42.83,-7241 42.83,-7134 42.83,-7134 42.83,-7128 48.83,-7122 54.83,-7122" style=""/>
+<text text-anchor="middle" x="168.09" y="-7236.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV3PoolDerivedState  (iface)</text>
+</g>
+<g id="edge2" class="edge" data-name="TizzTrading.initializeV2-&gt;CollateralUtils.getCollateralConfig">
+
+<path fill="none" stroke="white" stroke-width="2" d="M199.33,-3034.78C236.12,-3015.12 300.2,-2981.13 355.68,-2953 376.64,-2942.37 399.95,-2930.91 419.89,-2921.21"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="421.32,-2924.41 428.79,-2916.89 418.26,-2918.11 421.32,-2924.41"/>
+</g><g id="clust20" class="cluster" data-name="clusterIUniswapV3PoolActions">
+
+<path fill="#445773" stroke="#445773" d="M20,-7261C20,-7261 316.17,-7261 316.17,-7261 322.17,-7261 328.17,-7267 328.17,-7273 328.17,-7273 328.17,-7650 328.17,-7650 328.17,-7656 322.17,-7662 316.17,-7662 316.17,-7662 20,-7662 20,-7662 14,-7662 8,-7656 8,-7650 8,-7650 8,-7273 8,-7273 8,-7267 14,-7261 20,-7261" style=""/>
+<text text-anchor="middle" x="168.09" y="-7645.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV3PoolActions  (iface)</text>
+</g>
+<g id="clust21" class="cluster" data-name="clusterIUniswapV3PoolOwnerActions">
+
+<path fill="#445773" stroke="#445773" d="M61.59,-7670C61.59,-7670 275.58,-7670 275.58,-7670 281.58,-7670 287.58,-7676 287.58,-7682 287.58,-7682 287.58,-7789 287.58,-7789 287.58,-7795 281.58,-7801 275.58,-7801 275.58,-7801 61.59,-7801 61.59,-7801 55.59,-7801 49.59,-7795 49.59,-7789 49.59,-7789 49.59,-7682 49.59,-7682 49.59,-7676 55.59,-7670 61.59,-7670" style=""/>
+<text text-anchor="middle" x="168.59" y="-7784.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV3PoolOwnerActions  (iface)</text>
+</g>
+<g id="clust24" class="cluster" data-name="clusterITizzBorrowingFees">
+
+<path fill="#445773" stroke="#445773" d="M643.99,-2261C643.99,-2261 856.5,-2261 856.5,-2261 862.5,-2261 868.5,-2267 868.5,-2273 868.5,-2273 868.5,-2650 868.5,-2650 868.5,-2656 862.5,-2662 856.5,-2662 856.5,-2662 643.99,-2662 643.99,-2662 637.99,-2662 631.99,-2656 631.99,-2650 631.99,-2650 631.99,-2273 631.99,-2273 631.99,-2267 637.99,-2261 643.99,-2261" style=""/>
+<text text-anchor="middle" x="750.25" y="-2645.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzBorrowingFees  (iface)</text>
+</g>
+<g id="clust25" class="cluster" data-name="clusterITizzOracleRewards">
+
+<path fill="#445773" stroke="#445773" d="M982.01,-3140C982.01,-3140 1187.02,-3140 1187.02,-3140 1193.02,-3140 1199.02,-3146 1199.02,-3152 1199.02,-3152 1199.02,-3583 1199.02,-3583 1199.02,-3589 1193.02,-3595 1187.02,-3595 1187.02,-3595 982.01,-3595 982.01,-3595 976.01,-3595 970.01,-3589 970.01,-3583 970.01,-3583 970.01,-3152 970.01,-3152 970.01,-3146 976.01,-3140 982.01,-3140" style=""/>
+<text text-anchor="middle" x="1084.52" y="-3578.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITizzOracleRewards  (iface)</text>
+</g>
+<g id="clust26" class="cluster" data-name="clusterIWBTC">
+
+<path fill="#445773" stroke="#445773" d="M124.58,-7809C124.58,-7809 211.59,-7809 211.59,-7809 217.59,-7809 223.59,-7815 223.59,-7821 223.59,-7821 223.59,-7928 223.59,-7928 223.59,-7934 217.59,-7940 211.59,-7940 211.59,-7940 124.58,-7940 124.58,-7940 118.58,-7940 112.58,-7934 112.58,-7928 112.58,-7928 112.58,-7821 112.58,-7821 112.58,-7815 118.58,-7809 124.58,-7809" style=""/>
+<text text-anchor="middle" x="168.09" y="-7923.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IWBTC  (iface)</text>
+</g>
+<g id="clust27" class="cluster" data-name="clusterChainUtils">
+
+<path fill="#445773" stroke="#445773" d="M649.87,-2122C649.87,-2122 1128.56,-2122 1128.56,-2122 1134.56,-2122 1140.56,-2128 1140.56,-2134 1140.56,-2134 1140.56,-2241 1140.56,-2241 1140.56,-2247 1134.56,-2253 1128.56,-2253 1128.56,-2253 649.87,-2253 649.87,-2253 643.87,-2253 637.87,-2247 637.87,-2241 637.87,-2241 637.87,-2134 637.87,-2134 637.87,-2128 643.87,-2122 649.87,-2122" style=""/>
+<text text-anchor="middle" x="889.22" y="-2236.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ChainUtils  (lib)</text>
+</g>
+<g id="edge4" class="edge" data-name="TizzTrading.setMaxPosBaseAsset-&gt;TizzTrading._checkOnlyGove">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M261.79,-3303.54C286.39,-3307.3 310.88,-3316.03 328.17,-3334 393.74,-3402.15 293.92,-3473.38 355.68,-3545 363.14,-3553.65 372.76,-3560.05 383.22,-3564.76"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="381.91,-3568 392.5,-3568.31 384.41,-3561.47 381.91,-3568"/>
+</g><g id="clust28" class="cluster" data-name="clusterIArbSys">
+
+<path fill="#445773" stroke="#445773" d="M1010.44,-2037C1010.44,-2037 1158.6,-2037 1158.6,-2037 1164.6,-2037 1170.6,-2043 1170.6,-2049 1170.6,-2049 1170.6,-2102 1170.6,-2102 1170.6,-2108 1164.6,-2114 1158.6,-2114 1158.6,-2114 1010.44,-2114 1010.44,-2114 1004.44,-2114 998.44,-2108 998.44,-2102 998.44,-2102 998.44,-2049 998.44,-2049 998.44,-2043 1004.44,-2037 1010.44,-2037" style=""/>
+<text text-anchor="middle" x="1084.52" y="-2097.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IArbSys  (iface)</text>
+</g>
+<g id="clust29" class="cluster" data-name="clusterTradeUtils">
+
+<path fill="#445773" stroke="#445773" d="M72,-6003C72,-6003 564.61,-6003 564.61,-6003 570.61,-6003 576.61,-6009 576.61,-6015 576.61,-6015 576.61,-6230 576.61,-6230 576.61,-6236 570.61,-6242 564.61,-6242 564.61,-6242 72,-6242 72,-6242 66,-6242 60,-6236 60,-6230 60,-6230 60,-6015 60,-6015 60,-6009 66,-6003 72,-6003" style=""/>
+<text text-anchor="middle" x="318.3" y="-6225.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TradeUtils  (lib)</text>
+</g>
+<g id="clust30" class="cluster" data-name="clusterPackingUtils">
+
+<path fill="#445773" stroke="#445773" d="M66.67,-7948C66.67,-7948 269.5,-7948 269.5,-7948 275.5,-7948 281.5,-7954 281.5,-7960 281.5,-7960 281.5,-8229 281.5,-8229 281.5,-8235 275.5,-8241 269.5,-8241 269.5,-8241 66.67,-8241 66.67,-8241 60.67,-8241 54.67,-8235 54.67,-8229 54.67,-8229 54.67,-7960 54.67,-7960 54.67,-7954 60.67,-7948 66.67,-7948" style=""/>
+<text text-anchor="middle" x="168.09" y="-8224.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">PackingUtils  (lib)</text>
+</g>
+<g id="clust31" class="cluster" data-name="clusterCollateralUtils">
+
+<path fill="#445773" stroke="#445773" d="M385.36,-2872C385.36,-2872 552.83,-2872 552.83,-2872 558.83,-2872 564.83,-2878 564.83,-2884 564.83,-2884 564.83,-2937 564.83,-2937 564.83,-2943 558.83,-2949 552.83,-2949 552.83,-2949 385.36,-2949 385.36,-2949 379.36,-2949 373.36,-2943 373.36,-2937 373.36,-2937 373.36,-2884 373.36,-2884 373.36,-2878 379.36,-2872 385.36,-2872" style=""/>
+<text text-anchor="middle" x="469.09" y="-2932.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">CollateralUtils  (lib)</text>
+</g>
+<g id="edge5" class="edge" data-name="TizzTrading.setMarketOrdersTimeout-&gt;TizzTrading._checkOnlyGove">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M248.85,-3536.18C274.23,-3540.47 302.4,-3545.33 328.17,-3550 349.54,-3553.87 372.7,-3558.27 393.92,-3562.37"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="393.05,-3565.76 403.53,-3564.23 394.38,-3558.89 393.05,-3565.76"/>
+</g><g id="clust32" class="cluster" data-name="clusterDelegatable">
+
+<path fill="#445773" stroke="#445773" d="M97.77,-8249C97.77,-8249 238.4,-8249 238.4,-8249 244.4,-8249 250.4,-8255 250.4,-8261 250.4,-8261 250.4,-8476 250.4,-8476 250.4,-8482 244.4,-8488 238.4,-8488 238.4,-8488 97.77,-8488 97.77,-8488 91.77,-8488 85.77,-8482 85.77,-8476 85.77,-8476 85.77,-8261 85.77,-8261 85.77,-8255 91.77,-8249 97.77,-8249" style=""/>
+<text text-anchor="middle" x="168.09" y="-8471.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Delegatable</text>
+</g>
+<g id="clust33" class="cluster" data-name="clusterc">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M654.16,-1983C654.16,-1983 846.33,-1983 846.33,-1983 852.33,-1983 858.33,-1989 858.33,-1995 858.33,-1995 858.33,-2102 858.33,-2102 858.33,-2108 852.33,-2114 846.33,-2114 846.33,-2114 654.16,-2114 654.16,-2114 648.16,-2114 642.16,-2108 642.16,-2102 642.16,-2102 642.16,-1995 642.16,-1995 642.16,-1989 648.16,-1983 654.16,-1983" style=""/>
+<text text-anchor="middle" x="750.25" y="-2097.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">c</text>
+</g>
+<g id="clust34" class="cluster" data-name="clusterpacked">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M367.68,-2787C367.68,-2787 570.5,-2787 570.5,-2787 576.5,-2787 582.5,-2793 582.5,-2799 582.5,-2799 582.5,-2852 582.5,-2852 582.5,-2858 576.5,-2864 570.5,-2864 570.5,-2864 367.68,-2864 367.68,-2864 361.68,-2864 355.68,-2858 355.68,-2852 355.68,-2852 355.68,-2799 355.68,-2799 355.68,-2793 361.68,-2787 367.68,-2787" style=""/>
+<text text-anchor="middle" x="469.09" y="-2847.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">packed</text>
+</g>
+<g id="clust35" class="cluster" data-name="clustertarget">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M708.89,-3690C708.89,-3690 791.6,-3690 791.6,-3690 797.6,-3690 803.6,-3696 803.6,-3702 803.6,-3702 803.6,-3755 803.6,-3755 803.6,-3761 797.6,-3767 791.6,-3767 791.6,-3767 708.89,-3767 708.89,-3767 702.89,-3767 696.89,-3761 696.89,-3755 696.89,-3755 696.89,-3702 696.89,-3702 696.89,-3696 702.89,-3690 708.89,-3690" style=""/>
+<text text-anchor="middle" x="750.25" y="-3750.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">target</text>
+</g>
+<g id="edge6" class="edge" data-name="TizzTrading.setBypassTriggerLink-&gt;TizzTrading._checkOnlyGove">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M265.29,-3471.44C287.44,-3475.62 309.85,-3483.09 328.17,-3496 348.59,-3510.38 336.08,-3529.52 355.68,-3545 365.31,-3552.61 376.67,-3558.4 388.4,-3562.82"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="387.23,-3566.12 397.83,-3565.99 389.46,-3559.49 387.23,-3566.12"/>
+</g><g id="clust36" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="95.09,-8496 95.09,-8625 504.09,-8625 504.09,-8496 95.09,-8496" style=""/>
+<text text-anchor="middle" x="299.59" y="-8608.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TizzTrading.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="TizzTrading.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="168.09" cy="-3631" rx="67.55" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3626.8" font-family="Times,serif" font-size="14.00">&lt;Constructor&gt;</text>
+</g>
+<!-- TizzTrading._disableInitializers -->
+<g id="node24" class="node" pointer-events="visible" data-name="TizzTrading._disableInitializers">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3631" rx="84.52" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3626.8" font-family="Times,serif" font-size="14.00">_disableInitializers</text>
+</g><g id="edge7" class="edge" data-name="TizzTrading.pause-&gt;TizzTrading._checkOnlyGove" data-comment="TizzTrading._disableInitializers">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M201.82,-3411.03C237.45,-3408.64 293.9,-3410.77 328.17,-3442 363.19,-3473.91 322.45,-3511.22 355.68,-3545 363.88,-3553.34 374.09,-3559.54 384.99,-3564.16"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="383.58,-3567.37 394.17,-3567.52 385.99,-3560.79 383.58,-3567.37"/>
+</g>
+<!-- TizzTrading.&lt;Constructor&gt;&#45;&gt;TizzTrading._disableInitializers -->
+
+<!-- TizzTrading.initialize -->
+<g id="node2" class="node" pointer-events="visible" data-name="TizzTrading.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3577" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3572.8" font-family="Times,serif" font-size="14.00">initialize</text>
+</g><g id="edge8" class="edge" data-name="TizzTrading.done-&gt;TizzTrading._checkOnlyGove" data-comment="TizzTrading.initialize">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.2,-3356.84C233.94,-3353.51 294.01,-3354.02 328.17,-3388 378.4,-3437.96 308.25,-3492.37 355.68,-3545 363.46,-3553.63 373.39,-3560.01 384.11,-3564.7"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="382.57,-3567.86 393.16,-3568.09 385.02,-3561.3 382.57,-3567.86"/>
+</g>
+<!-- TizzTrading.initializeV2 -->
+<g id="node3" class="node" pointer-events="visible" data-name="TizzTrading.initializeV2">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3051" rx="56.75" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3046.8" font-family="Times,serif" font-size="14.00">initializeV2</text>
+</g>
+<!-- ITizzTradingStorage.baseAsset -->
+<g id="node54" class="node" pointer-events="visible" data-name="ITizzTradingStorage.baseAsset">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-682" rx="49.81" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-677.8" font-family="Times,serif" font-size="14.00">baseAsset</text>
+</g>
+<!-- TizzTrading.initializeV2&#45;&gt;ITizzTradingStorage.baseAsset -->
+<g id="edge10" class="edge" data-name="TizzTrading.openTrade-&gt;TizzTrading._validateOpenTrade" data-comment="TizzTrading.initializeV2-&gt;ITizzTradingStorage.baseAsset">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.38,-3247.44C254.66,-3246.51 300.33,-3251.79 328.17,-3280 383.79,-3336.35 302,-3397.8 355.68,-3456 360.91,-3461.67 367.1,-3466.25 373.85,-3469.93"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="372.36,-3473.1 382.91,-3474.06 375.27,-3466.73 372.36,-3473.1"/>
+</g>
+<!-- CollateralUtils.getCollateralConfig -->
+<g id="node195" class="node" pointer-events="visible" data-name="CollateralUtils.getCollateralConfig">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="469.09" cy="-2898" rx="87.97" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-2893.8" font-family="Times,serif" font-size="14.00">getCollateralConfig</text>
+</g>
+<!-- TizzTrading.initializeV2&#45;&gt;CollateralUtils.getCollateralConfig -->
+<g id="edge11" class="edge" data-name="TizzTrading.openTrade-&gt;TizzTrading._handleOpenTrade" data-comment="TizzTrading.initializeV2-&gt;CollateralUtils.getCollateralConfig">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M216.52,-3244.8C252.22,-3236.17 299.72,-3219.05 328.17,-3186 360.49,-3148.46 320.41,-3112.78 355.68,-3078 361.92,-3071.84 369.3,-3067 377.25,-3063.21"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.48,-3066.49 386.44,-3059.5 375.86,-3060 378.48,-3066.49"/>
+</g>
+<!-- TizzTrading.setMaxPosBaseAsset -->
+<g id="node4" class="node" pointer-events="visible" data-name="TizzTrading.setMaxPosBaseAsset">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3307" rx="93.81" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3302.8" font-family="Times,serif" font-size="14.00">setMaxPosBaseAsset</text>
+</g>
+<!-- TizzTrading._checkOnlyGove -->
+<g id="node22" class="node" pointer-events="visible" data-name="TizzTrading._checkOnlyGove">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3577" rx="78.72" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3572.8" font-family="Times,serif" font-size="14.00">_checkOnlyGove</text>
+</g><g id="edge9" class="edge" data-name="TizzTrading.openTrade-&gt;TizzTrading._checkCondition" data-comment="TizzTrading._checkOnlyGove">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219,-3247.11C254.56,-3245.91 300.75,-3250.99 328.17,-3280 365.8,-3319.82 314.83,-3488.49 355.68,-3525 393.26,-3558.6 542.9,-3556.18 582.5,-3525 623.45,-3492.76 572.58,-3447.27 610.01,-3411 623.41,-3398.02 641.03,-3390.17 659.21,-3385.56"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.83,-3389.01 668.88,-3383.5 658.37,-3382.16 659.83,-3389.01"/>
+</g>
+<!-- TizzTrading.setMaxPosBaseAsset&#45;&gt;TizzTrading._checkOnlyGove -->
+
+<!-- TizzTrading.setMarketOrdersTimeout -->
+<g id="node5" class="node" pointer-events="visible" data-name="TizzTrading.setMarketOrdersTimeout">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3523" rx="108.8" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3518.8" font-family="Times,serif" font-size="14.00">setMarketOrdersTimeout</text>
+</g><g id="edge12" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;TizzTrading.type" data-comment="TizzTrading.setMarketOrdersTimeout">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M541.98,-3471.41C595.12,-3462.84 665.54,-3451.49 709.1,-3444.47"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="709.4,-3447.97 718.71,-3442.92 708.28,-3441.06 709.4,-3447.97"/>
+</g>
+<!-- TizzTrading.setMarketOrdersTimeout&#45;&gt;TizzTrading._checkOnlyGove -->
+
+<!-- TizzTrading.setBypassTriggerLink -->
+<g id="node6" class="node" pointer-events="visible" data-name="TizzTrading.setBypassTriggerLink">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3469" rx="96.72" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3464.8" font-family="Times,serif" font-size="14.00">setBypassTriggerLink</text>
+</g><g id="edge14" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;TizzTrading._msgSender" data-comment="TizzTrading.setBypassTriggerLink">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M552.36,-3475.17C563.69,-3470.91 574.25,-3464.77 582.5,-3456 630.47,-3405.06 560.93,-3350.86 610.01,-3301 627.73,-3282.99 653.62,-3275.08 678.28,-3272.07"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="678.35,-3275.58 687.99,-3271.19 677.72,-3268.61 678.35,-3275.58"/>
+</g>
+<!-- TizzTrading.setBypassTriggerLink&#45;&gt;TizzTrading._checkOnlyGove -->
+
+<!-- TizzTrading.pause -->
+<g id="node7" class="node" pointer-events="visible" data-name="TizzTrading.pause">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3415" rx="33.05" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3410.8" font-family="Times,serif" font-size="14.00">pause</text>
+</g><g id="edge13" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.priceAggregator" data-comment="TizzTrading.pause">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.21,-3476.08C565.16,-3471.68 575.11,-3465.25 582.5,-3456 657.15,-3362.53 533.31,-1394.8 610.01,-1303 623.28,-1287.12 642.85,-1278.75 663.14,-1274.68"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="663.51,-1278.17 672.84,-1273.15 662.41,-1271.26 663.51,-1278.17"/>
+</g>
+<!-- TizzTrading.pause&#45;&gt;TizzTrading._checkOnlyGove -->
+
+<!-- TizzTrading.done -->
+<g id="node8" class="node" pointer-events="visible" data-name="TizzTrading.done">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3361" rx="29.62" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3356.8" font-family="Times,serif" font-size="14.00">done</text>
+</g><g id="edge15" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openTradesCount" data-comment="TizzTrading.done">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.17,-3476.05C565.12,-3471.65 575.09,-3465.24 582.5,-3456 636.73,-3388.45 554.31,-1963.34 610.01,-1897 621.98,-1882.75 639.01,-1874.56 657.07,-1870.1"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="657.61,-1873.56 666.73,-1868.16 656.23,-1866.69 657.61,-1873.56"/>
+</g>
+<!-- TizzTrading.done&#45;&gt;TizzTrading._checkOnlyGove -->
+
+<!-- TizzTrading.openTrade -->
+<g id="node9" class="node" pointer-events="visible" data-name="TizzTrading.openTrade">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="168.09" cy="-3253" rx="52.15" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3248.8" font-family="Times,serif" font-size="14.00">openTrade</text>
+</g><g id="edge16" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openLimitOrdersCount" data-comment="TizzTrading.openTrade">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.18,-3476.05C565.13,-3471.65 575.09,-3465.24 582.5,-3456 638.58,-3386.09 552.4,-1911.65 610.01,-1843 617.31,-1834.3 626.51,-1827.86 636.67,-1823.14"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="637.64,-1826.52 645.69,-1819.62 635.1,-1820 637.64,-1826.52"/>
+</g>
+<!-- TizzTrading._validateOpenTrade -->
+<g id="node10" class="node" pointer-events="visible" data-name="TizzTrading._validateOpenTrade">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3483" rx="89.72" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3478.8" font-family="Times,serif" font-size="14.00">_validateOpenTrade</text>
+</g>
+<!-- TizzTrading.openTrade&#45;&gt;TizzTrading._validateOpenTrade -->
+<g id="edge17" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.maxTradesPerPair" data-comment="TizzTrading.openTrade-&gt;TizzTrading._validateOpenTrade">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.18,-3476.06C565.13,-3471.65 575.1,-3465.24 582.5,-3456 640.44,-3383.73 550.49,-1859.97 610.01,-1789 621.41,-1775.41 637.41,-1767.33 654.53,-1762.74"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="655.16,-1766.18 664.18,-1760.63 653.66,-1759.34 655.16,-1766.18"/>
+</g>
+<!-- TizzTrading._handleOpenTrade -->
+<g id="node11" class="node" pointer-events="visible" data-name="TizzTrading._handleOpenTrade">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3051" rx="85.08" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3046.8" font-family="Times,serif" font-size="14.00">_handleOpenTrade</text>
+</g>
+<!-- TizzTrading.openTrade&#45;&gt;TizzTrading._handleOpenTrade -->
+<g id="edge19" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openInterestBaseAsset" data-comment="TizzTrading.openTrade-&gt;TizzTrading._handleOpenTrade">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.17,-3476.04C565.12,-3471.64 575.09,-3465.23 582.5,-3456 633.91,-3392.02 563.22,-2046.43 610.01,-1979 622.34,-1961.23 641.36,-1949.21 661.42,-1941.06"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="662.62,-1944.35 670.81,-1937.63 660.22,-1937.78 662.62,-1944.35"/>
+</g>
+<!-- TizzTrading._checkCondition -->
+<g id="node23" class="node" pointer-events="visible" data-name="TizzTrading._checkCondition">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3382" rx="77.03" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3377.8" font-family="Times,serif" font-size="14.00">_checkCondition</text>
+</g>
+<!-- TizzTrading.openTrade&#45;&gt;TizzTrading._checkCondition -->
+<g id="edge18" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzPriceAggregator.getUsdNormalizedValue" data-comment="TizzTrading.openTrade-&gt;TizzTrading._checkCondition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M553.36,-3475.71C564.49,-3471.37 574.72,-3465.06 582.5,-3456 629.87,-3400.85 559.09,-3181.89 610.01,-3130 634.48,-3105.06 833.27,-3091.69 965.38,-3085.48"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="965.49,-3088.98 975.32,-3085.03 965.17,-3081.99 965.49,-3088.98"/>
+</g>
+<!-- TizzTrading.type -->
+<g id="node25" class="node" pointer-events="visible" data-name="TizzTrading.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3438" rx="27.83" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3433.8" font-family="Times,serif" font-size="14.00">type</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;TizzTrading.type -->
+<g id="edge22" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.pairMinLevPosUsd" data-comment="TizzTrading._validateOpenTrade-&gt;TizzTrading.type">
+
+<path fill="none" stroke="white" stroke-width="2" d="M553.96,-3475.87C564.94,-3471.5 574.97,-3465.14 582.5,-3456 626.73,-3402.37 564.62,-2883.64 610.01,-2831 620.42,-2818.93 634.45,-2811.24 649.63,-2806.49"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="650.26,-2809.94 659.06,-2804.03 648.5,-2803.16 650.26,-2809.94"/>
+</g>
+<!-- TizzTrading._msgSender -->
+<g id="node26" class="node" pointer-events="visible" data-name="TizzTrading._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3274" rx="58.56" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3269.8" font-family="Times,serif" font-size="14.00">_msgSender</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;TizzTrading._msgSender -->
+<g id="edge23" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.pairMinLeverage" data-comment="TizzTrading._validateOpenTrade-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M553.89,-3475.81C564.87,-3471.44 574.93,-3465.1 582.5,-3456 656.1,-3367.57 534.48,-3025.78 610.01,-2939 622.48,-2924.67 640.08,-2916.53 658.59,-2912.14"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.03,-2915.62 668.19,-2910.29 657.71,-2908.74 659.03,-2915.62"/>
+</g>
+<!-- ITizzTradingStorage.priceAggregator -->
+<g id="node55" class="node" pointer-events="visible" data-name="ITizzTradingStorage.priceAggregator">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1276" rx="74.12" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1271.8" font-family="Times,serif" font-size="14.00">priceAggregator</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzTradingStorage.priceAggregator -->
+<g id="edge24" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.pairMaxLeverage" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.priceAggregator">
+
+<path fill="none" stroke="white" stroke-width="2" d="M553.93,-3475.85C564.91,-3471.47 574.95,-3465.12 582.5,-3456 623.01,-3407.08 568.43,-2933.02 610.01,-2885 622.13,-2871.01 639.13,-2862.91 657.1,-2858.44"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="657.58,-2861.92 666.69,-2856.5 656.19,-2855.06 657.58,-2861.92"/>
+</g>
+<!-- ITizzTradingStorage.openTradesCount -->
+<g id="node56" class="node" pointer-events="visible" data-name="ITizzTradingStorage.openTradesCount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1870" rx="79.88" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1865.8" font-family="Times,serif" font-size="14.00">openTradesCount</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzTradingStorage.openTradesCount -->
+<g id="edge25" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.getTradePriceImpact" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openTradesCount">
+
+<path fill="none" stroke="white" stroke-width="2" d="M553.99,-3475.9C564.96,-3471.52 574.99,-3465.15 582.5,-3456 630.44,-3397.66 560.8,-2834.27 610.01,-2777 619.23,-2766.28 631.31,-2759.01 644.52,-2754.18"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="645.47,-2757.55 654.01,-2751.28 643.43,-2750.85 645.47,-2757.55"/>
+</g>
+<!-- ITizzTradingStorage.openLimitOrdersCount -->
+<g id="node57" class="node" pointer-events="visible" data-name="ITizzTradingStorage.openLimitOrdersCount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1816" rx="101.31" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1811.8" font-family="Times,serif" font-size="14.00">openLimitOrdersCount</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzTradingStorage.openLimitOrdersCount -->
+<g id="edge20" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzBorrowingFees.getCollateralPairMaxOi" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openLimitOrdersCount">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.03,-3475.93C565,-3471.55 575.01,-3465.17 582.5,-3456 638.07,-3387.98 559.36,-2737.75 610.01,-2666 622.3,-2648.6 640.98,-2636.7 660.72,-2628.57"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="661.76,-2631.91 669.92,-2625.15 659.32,-2625.35 661.76,-2631.91"/>
+</g>
+<!-- ITizzTradingStorage.maxTradesPerPair -->
+<g id="node58" class="node" pointer-events="visible" data-name="ITizzTradingStorage.maxTradesPerPair">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1762" rx="82.23" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1757.8" font-family="Times,serif" font-size="14.00">maxTradesPerPair</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzTradingStorage.maxTradesPerPair -->
+<g id="edge21" class="edge" data-name="TizzTrading._validateOpenTrade-&gt;ITizzBorrowingFees.withinMaxGroupOi" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.maxTradesPerPair">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.06,-3475.96C565.03,-3471.57 575.03,-3465.18 582.5,-3456 643.71,-3380.83 547.16,-2657.8 610.01,-2584 620.21,-2572.02 634,-2564.34 648.95,-2559.55"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="649.44,-2563.04 658.21,-2557.09 647.65,-2556.28 649.44,-2563.04"/>
+</g>
+<!-- ITizzTradingStorage.openInterestBaseAsset -->
+<g id="node59" class="node" pointer-events="visible" data-name="ITizzTradingStorage.openInterestBaseAsset">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1924" rx="98.99" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1919.8" font-family="Times,serif" font-size="14.00">openInterestBaseAsset</text>
+</g><g id="edge26" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;TizzTrading._msgSender" data-comment="ITizzTradingStorage.openInterestBaseAsset">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M548.9,-3058.4C561.37,-3062.62 573.2,-3068.86 582.5,-3078 617.23,-3112.1 581.52,-3144.54 610.01,-3184 632.62,-3215.31 669.78,-3238.53 700.03,-3253.53"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="698.39,-3256.63 708.93,-3257.77 701.4,-3250.31 698.39,-3256.63"/>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzTradingStorage.openInterestBaseAsset -->
+<g id="edge27" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.baseAsset" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzTradingStorage.openInterestBaseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M516.62,-3034.71C540.83,-3023.59 568.29,-3006.24 582.5,-2981 613.48,-2926.01 569.56,-757.45 610.01,-709 628.69,-686.63 659.86,-679.17 687.98,-677.62"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="687.7,-681.13 697.61,-677.37 687.52,-674.13 687.7,-681.13"/>
+</g>
+<!-- ITizzPriceAggregator.getUsdNormalizedValue -->
+<g id="node90" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.getUsdNormalizedValue">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3081" rx="107.07" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3076.8" font-family="Times,serif" font-size="14.00">getUsdNormalizedValue</text>
+</g><g id="edge39" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.priceAggregator" data-comment="ITizzPriceAggregator.getUsdNormalizedValue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.62,-3042.92C561.18,-3037.98 573.73,-3030.43 582.5,-3019 640.57,-2943.37 548.76,-1376.07 610.01,-1303 623.31,-1287.14 642.88,-1278.78 663.18,-1274.71"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="663.54,-1278.2 672.87,-1273.18 662.45,-1271.29 663.54,-1278.2"/>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzPriceAggregator.getUsdNormalizedValue -->
+
+<!-- ITizzMultiCollatDiamond.pairMinLevPosUsd -->
+<g id="node97" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.pairMinLevPosUsd">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2804" rx="86.86" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2799.8" font-family="Times,serif" font-size="14.00">pairMinLevPosUsd</text>
+</g><g id="edge28" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.transferBaseAsset" data-comment="ITizzMultiCollatDiamond.pairMinLevPosUsd">
+
+<path fill="none" stroke="white" stroke-width="2" d="M534.52,-3038.33C552.86,-3033.39 570.96,-3025.06 582.5,-3010 647.8,-2924.8 541.13,-1160.33 610.01,-1078 625.75,-1059.19 650.32,-1050.93 674.46,-1048.39"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="674.61,-1051.89 684.36,-1047.74 674.16,-1044.9 674.61,-1051.89"/>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzMultiCollatDiamond.pairMinLevPosUsd -->
+
+<!-- ITizzMultiCollatDiamond.pairMinLeverage -->
+<g id="node98" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.pairMinLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2912" rx="78.13" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2907.8" font-family="Times,serif" font-size="14.00">pairMinLeverage</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzMultiCollatDiamond.pairMinLeverage -->
+<g id="edge30" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.firstEmptyOpenLimitIndex" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.pairMinLeverage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.64,-3042.94C561.2,-3038 573.75,-3030.44 582.5,-3019 653.22,-2926.61 535.4,-1014.27 610.01,-925 614.97,-919.07 620.8,-914.19 627.23,-910.19"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="628.63,-913.4 635.86,-905.66 625.38,-907.2 628.63,-913.4"/>
+</g>
+<!-- ITizzMultiCollatDiamond.pairMaxLeverage -->
+<g id="node99" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.pairMaxLeverage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2858" rx="79.84" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2853.8" font-family="Times,serif" font-size="14.00">pairMaxLeverage</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzMultiCollatDiamond.pairMaxLeverage -->
+<g id="edge31" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.storeOpenLimitOrder" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.pairMaxLeverage">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.64,-3042.94C561.2,-3038 573.75,-3030.44 582.5,-3019 655.03,-2924.22 533.49,-962.58 610.01,-871 618.57,-860.76 629.74,-853.65 642.03,-848.79"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="642.84,-852.21 651.24,-845.75 640.65,-845.57 642.84,-852.21"/>
+</g>
+<!-- ITizzMultiCollatDiamond.getTradePriceImpact -->
+<g id="node100" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.getTradePriceImpact">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2750" rx="92.01" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2745.8" font-family="Times,serif" font-size="14.00">getTradePriceImpact</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzMultiCollatDiamond.getTradePriceImpact -->
+<g id="edge32" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.OpenLimitOrder" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzMultiCollatDiamond.getTradePriceImpact">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.65,-3042.95C561.21,-3038 573.75,-3030.44 582.5,-3019 656.83,-2921.83 531.58,-910.9 610.01,-817 622.89,-801.58 641.71,-793.25 661.36,-789.05"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="661.75,-792.53 671.02,-787.41 660.58,-785.63 661.75,-792.53"/>
+</g>
+<!-- ITizzBorrowingFees.getCollateralPairMaxOi -->
+<g id="node162" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.getCollateralPairMaxOi">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2611" rx="103.65" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2606.8" font-family="Times,serif" font-size="14.00">getCollateralPairMaxOi</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzBorrowingFees.getCollateralPairMaxOi -->
+<g id="edge33" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.OrderTradeInfo" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzBorrowingFees.getCollateralPairMaxOi">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.64,-3042.94C561.2,-3037.99 573.75,-3030.44 582.5,-3019 651.41,-2929.01 537.31,-1065.95 610.01,-979 623.68,-962.65 644.01,-954.27 664.95,-950.34"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="665.27,-953.83 674.65,-948.91 664.25,-946.91 665.27,-953.83"/>
+</g>
+<!-- ITizzBorrowingFees.withinMaxGroupOi -->
+<g id="node163" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.withinMaxGroupOi">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2557" rx="88" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2552.8" font-family="Times,serif" font-size="14.00">withinMaxGroupOi</text>
+</g>
+<!-- TizzTrading._validateOpenTrade&#45;&gt;ITizzBorrowingFees.withinMaxGroupOi -->
+<g id="edge35" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.callbacks" data-comment="TizzTrading._validateOpenTrade-&gt;ITizzBorrowingFees.withinMaxGroupOi">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.58,-3042.9C561.15,-3037.95 573.71,-3030.41 582.5,-3019 629.72,-2957.74 560.21,-1686.18 610.01,-1627 629.33,-1604.04 661.79,-1596.82 690.52,-1595.56"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="690.42,-1599.06 700.37,-1595.41 690.32,-1592.06 690.42,-1599.06"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;TizzTrading._msgSender -->
+
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.baseAsset -->
+<g id="edge41" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.PendingMarketOrder" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.baseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.63,-3042.94C561.2,-3037.99 573.74,-3030.44 582.5,-3019 649.6,-2931.4 539.22,-1117.64 610.01,-1033 618.96,-1022.3 630.77,-1015.01 643.73,-1010.15"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="644.52,-1013.57 653.02,-1007.25 642.43,-1006.89 644.52,-1013.57"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.priceAggregator -->
+
+<!-- ITizzTradingStorage.transferBaseAsset -->
+<g id="node60" class="node" pointer-events="visible" data-name="ITizzTradingStorage.transferBaseAsset">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1060" rx="80.51" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1055.8" font-family="Times,serif" font-size="14.00">transferBaseAsset</text>
+</g><g id="edge42" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.Trade" data-comment="ITizzTradingStorage.transferBaseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.63,-3042.93C561.19,-3037.99 573.74,-3030.43 582.5,-3019 645.99,-2936.19 543.03,-1221.01 610.01,-1141 632.21,-1114.48 671.95,-1108.94 703.31,-1109.33"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="703.01,-1112.82 713.14,-1109.7 703.28,-1105.82 703.01,-1112.82"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.transferBaseAsset -->
+
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.transferBaseAsset -->
+<g id="edge43" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.PendingNftOrder" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.transferBaseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.62,-3042.93C561.19,-3037.98 573.74,-3030.43 582.5,-3019 644.18,-2938.58 544.94,-1272.7 610.01,-1195 622.34,-1180.28 640.07,-1172.02 658.77,-1167.66"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.33,-1171.11 668.51,-1165.83 658.04,-1164.23 659.33,-1171.11"/>
+</g><g id="edge29" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.transferBaseAsset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.96,-3048.84C565.66,-3044.09 575.35,-3037.34 582.5,-3028 647.8,-2942.8 541.13,-1178.33 610.01,-1096 622.52,-1081.05 640.6,-1072.77 659.62,-1068.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="660.11,-1071.66 669.24,-1066.27 658.75,-1064.79 660.11,-1071.66"/>
+</g>
+<!-- ITizzTradingStorage.firstEmptyOpenLimitIndex -->
+<g id="node61" class="node" pointer-events="visible" data-name="ITizzTradingStorage.firstEmptyOpenLimitIndex">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-898" rx="116.91" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-893.8" font-family="Times,serif" font-size="14.00">firstEmptyOpenLimitIndex</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.firstEmptyOpenLimitIndex -->
+<g id="edge40" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzPriceAggregator.getPrice" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.firstEmptyOpenLimitIndex">
+
+<path fill="none" stroke="white" stroke-width="2" d="M554.42,-3047.7C681.78,-3042.72 919.77,-3033.41 1027.72,-3029.18"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1027.65,-3032.69 1037.51,-3028.8 1027.38,-3025.69 1027.65,-3032.69"/>
+</g>
+<!-- ITizzTradingStorage.storeOpenLimitOrder -->
+<g id="node62" class="node" pointer-events="visible" data-name="ITizzTradingStorage.storeOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-844" rx="94.91" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-839.8" font-family="Times,serif" font-size="14.00">storeOpenLimitOrder</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.storeOpenLimitOrder -->
+<g id="edge44" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzMultiCollatDiamond.registerPotentialReferrer" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.storeOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M546.65,-3042.49C560.37,-3037.58 573.23,-3030.16 582.5,-3019 624.71,-2968.18 565.66,-2771.96 610.01,-2723 616.68,-2715.64 624.7,-2709.93 633.48,-2705.53"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="634.79,-2708.78 642.63,-2701.65 632.06,-2702.33 634.79,-2708.78"/>
+</g>
+<!-- ITizzTradingStorage.OpenLimitOrder -->
+<g id="node63" class="node" pointer-events="visible" data-name="ITizzTradingStorage.OpenLimitOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-790" rx="75.87" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-785.8" font-family="Times,serif" font-size="14.00">OpenLimitOrder</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.OpenLimitOrder -->
+<g id="edge34" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ITizzOracleRewards.setOpenLimitOrderType" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.OpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M550.93,-3057.24C563.02,-3061.61 574.2,-3068.2 582.5,-3078 638.25,-3143.77 548.49,-3404.59 610.01,-3465 634.76,-3489.3 832.09,-3492.44 964.08,-3491.75"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="964.04,-3495.25 974.02,-3491.69 963.99,-3488.25 964.04,-3495.25"/>
+</g>
+<!-- ITizzTradingStorage.OrderTradeInfo -->
+<g id="node64" class="node" pointer-events="visible" data-name="ITizzTradingStorage.OrderTradeInfo">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-952" rx="72.32" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-947.8" font-family="Times,serif" font-size="14.00">OrderTradeInfo</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.OrderTradeInfo -->
+<g id="edge37" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;ChainUtils.getBlockNumber" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.OrderTradeInfo">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.47,-3042.81C561.04,-3037.87 573.64,-3030.35 582.5,-3019 640.26,-2945.05 549.14,-2246.4 610.01,-2175 622.53,-2160.31 640.43,-2152.09 659.25,-2147.75"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.87,-2151.19 669.06,-2145.93 658.59,-2144.31 659.87,-2151.19"/>
+</g>
+<!-- ITizzTradingStorage.callbacks -->
+<g id="node65" class="node" pointer-events="visible" data-name="ITizzTradingStorage.callbacks">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1600" rx="46.92" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1595.8" font-family="Times,serif" font-size="14.00">callbacks</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.callbacks -->
+<g id="edge36" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;c.setTradeLastUpdated" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.callbacks">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.51,-3042.84C561.08,-3037.9 573.66,-3030.38 582.5,-3019 649.56,-2932.73 539.32,-2119.32 610.01,-2036 618.82,-2025.61 630.33,-2018.46 642.95,-2013.61"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="644,-2016.95 652.46,-2010.58 641.87,-2010.29 644,-2016.95"/>
+</g>
+<!-- ITizzTradingStorage.PendingMarketOrder -->
+<g id="node66" class="node" pointer-events="visible" data-name="ITizzTradingStorage.PendingMarketOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-1006" rx="93.19" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1001.8" font-family="Times,serif" font-size="14.00">PendingMarketOrder</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.PendingMarketOrder -->
+<g id="edge38" class="edge" data-name="TizzTrading._handleOpenTrade-&gt;c.setLimitMaxSlippageP" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.PendingMarketOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M547.49,-3042.82C561.06,-3037.89 573.65,-3030.36 582.5,-3019 644.07,-2940 552.42,-2199.95 610.01,-2118 622.44,-2100.31 641.5,-2088.31 661.57,-2080.16"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="662.76,-2083.45 670.95,-2076.73 660.36,-2076.88 662.76,-2083.45"/>
+</g>
+<!-- ITizzTradingStorage.Trade -->
+<g id="node67" class="node" pointer-events="visible" data-name="ITizzTradingStorage.Trade">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-1114" rx="33.6" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1109.8" font-family="Times,serif" font-size="14.00">Trade</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.Trade -->
+<g id="edge45" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;TizzTrading._checkCondition" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.Trade">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M547.93,-3110.73C561.04,-3115.04 573.35,-3121.74 582.5,-3132 649.02,-3206.49 541.87,-3282 610.01,-3355 623.04,-3368.96 640.96,-3376.94 659.6,-3381.28"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="658.79,-3384.69 669.27,-3383.12 660.1,-3377.81 658.79,-3384.69"/>
+</g>
+<!-- ITizzTradingStorage.PendingNftOrder -->
+<g id="node68" class="node" pointer-events="visible" data-name="ITizzTradingStorage.PendingNftOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-1168" rx="78.17" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1163.8" font-family="Times,serif" font-size="14.00">PendingNftOrder</text>
+</g><g id="edge46" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;TizzTrading._msgSender" data-comment="ITizzTradingStorage.PendingNftOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M543.72,-3113.23C557.59,-3117.3 571.25,-3123.26 582.5,-3132 603.16,-3148.03 592.35,-3164.72 610.01,-3184 636.53,-3212.94 674.32,-3236.59 703.83,-3252.37"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="701.93,-3255.33 712.42,-3256.84 705.16,-3249.12 701.93,-3255.33"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzTradingStorage.PendingNftOrder -->
+<g id="edge49" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.priceAggregator" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzTradingStorage.PendingNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.83,-3100.04C561.87,-3095.65 573.91,-3088.73 582.5,-3078 644.16,-3001.02 546.67,-1378.6 610.01,-1303 623.3,-1287.14 642.88,-1278.78 663.17,-1274.71"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="663.54,-1278.19 672.87,-1273.17 662.44,-1271.28 663.54,-1278.19"/>
+</g>
+<!-- ITizzPriceAggregator.getPrice -->
+<g id="node91" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.getPrice">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3027" rx="42.85" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3022.8" font-family="Times,serif" font-size="14.00">getPrice</text>
+</g><g id="edge51" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.PendingMarketOrder" data-comment="ITizzPriceAggregator.getPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.85,-3100.05C561.88,-3095.67 573.92,-3088.74 582.5,-3078 653.44,-2989.24 537.13,-1120.17 610.01,-1033 618.96,-1022.3 630.77,-1015.01 643.73,-1010.15"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="644.52,-1013.57 653.02,-1007.24 642.43,-1006.89 644.52,-1013.57"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzPriceAggregator.getPrice -->
+<g id="edge52" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.Trade" data-comment="TizzTrading._handleOpenTrade-&gt;ITizzPriceAggregator.getPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.85,-3100.04C561.88,-3095.66 573.92,-3088.74 582.5,-3078 649.73,-2993.95 540.95,-1223.54 610.01,-1141 632.2,-1114.48 671.95,-1108.93 703.31,-1109.33"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="703.01,-1112.82 713.14,-1109.7 703.28,-1105.82 703.01,-1112.82"/>
+</g>
+<!-- ITizzMultiCollatDiamond.registerPotentialReferrer -->
+<g id="node101" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.registerPotentialReferrer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2696" rx="106.48" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2691.8" font-family="Times,serif" font-size="14.00">registerPotentialReferrer</text>
+</g><g id="edge53" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.PendingNftOrder" data-comment="ITizzMultiCollatDiamond.registerPotentialReferrer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.84,-3100.04C561.87,-3095.66 573.91,-3088.74 582.5,-3078 647.87,-2996.31 542.86,-1275.23 610.01,-1195 622.33,-1180.28 640.06,-1172.02 658.77,-1167.65"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.32,-1171.11 668.51,-1165.83 658.03,-1164.23 659.32,-1171.11"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzMultiCollatDiamond.registerPotentialReferrer -->
+
+<!-- ITizzOracleRewards.setOpenLimitOrderType -->
+<g id="node169" class="node" pointer-events="visible" data-name="ITizzOracleRewards.setOpenLimitOrderType">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3490" rx="106.51" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3485.8" font-family="Times,serif" font-size="14.00">setOpenLimitOrderType</text>
+</g><g id="edge47" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.openTrades" data-comment="ITizzOracleRewards.setOpenLimitOrderType">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.83,-3100.03C561.86,-3095.65 573.91,-3088.73 582.5,-3078 642.3,-3003.38 548.58,-1430.28 610.01,-1357 627.34,-1336.32 655.34,-1328.4 681.71,-1326.1"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="681.65,-1329.61 691.44,-1325.56 681.26,-1322.62 681.65,-1329.61"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ITizzOracleRewards.setOpenLimitOrderType -->
+
+<!-- ChainUtils.getBlockNumber -->
+<g id="node179" class="node" pointer-events="visible" data-name="ChainUtils.getBlockNumber">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-2148" rx="77.59" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2143.8" font-family="Times,serif" font-size="14.00">getBlockNumber</text>
+</g><g id="edge48" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.openTradesInfo" data-comment="ChainUtils.getBlockNumber">
+
+<path fill="none" stroke="white" stroke-width="2" d="M548.84,-3100.04C561.87,-3095.66 573.91,-3088.73 582.5,-3078 646.01,-2998.67 544.77,-1326.91 610.01,-1249 623.69,-1232.66 644.03,-1224.29 664.96,-1220.36"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="665.29,-1223.85 674.67,-1218.93 664.27,-1216.92 665.29,-1223.85"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;ChainUtils.getBlockNumber -->
+<g id="edge50" class="edge" data-name="TizzTrading.closeTradeMarket-&gt;ITizzPriceAggregator.getPrice" data-comment="TizzTrading._handleOpenTrade-&gt;ChainUtils.getBlockNumber">
+
+<path fill="none" stroke="white" stroke-width="2" d="M543.05,-3096.56C626.93,-3086.76 768.74,-3069.9 890.48,-3054 937.56,-3047.85 991.01,-3040.33 1029.72,-3034.79"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1030.1,-3038.27 1039.5,-3033.39 1029.11,-3031.34 1030.1,-3038.27"/>
+</g>
+<!-- c.setTradeLastUpdated -->
+<g id="node200" class="node" pointer-events="visible" data-name="c.setTradeLastUpdated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2009" rx="93.74" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2004.8" font-family="Times,serif" font-size="14.00">setTradeLastUpdated</text>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;c.setTradeLastUpdated -->
+
+<!-- c.setLimitMaxSlippageP -->
+<g id="node201" class="node" pointer-events="visible" data-name="c.setLimitMaxSlippageP">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2063" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2058.8" font-family="Times,serif" font-size="14.00">setLimitMaxSlippageP</text>
+</g><g id="edge59" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._checkNoPendingTrigger" data-comment="c.setLimitMaxSlippageP">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M552.19,-3417.58C563.02,-3413.76 573.48,-3408.7 582.5,-3402 601.94,-3387.57 590.26,-3368.99 610.01,-3355 618.44,-3349.03 627.84,-3344.29 637.68,-3340.54"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="638.62,-3343.91 646.98,-3337.4 636.38,-3337.28 638.62,-3343.91"/>
+</g>
+<!-- TizzTrading._handleOpenTrade&#45;&gt;c.setLimitMaxSlippageP -->
+<g id="edge54" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._checkCondition" data-comment="TizzTrading._handleOpenTrade-&gt;c.setLimitMaxSlippageP">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M546.37,-3416.16C585.62,-3409.55 633.33,-3401.52 672.62,-3394.9"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="673.07,-3398.38 682.35,-3393.26 671.91,-3391.47 673.07,-3398.38"/>
+</g>
+<!-- TizzTrading.closeTradeMarket -->
+<g id="node12" class="node" pointer-events="visible" data-name="TizzTrading.closeTradeMarket">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="469.09" cy="-3105" rx="81.06" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3100.8" font-family="Times,serif" font-size="14.00">closeTradeMarket</text>
+</g><g id="edge58" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading.type" data-comment="TizzTrading.closeTradeMarket">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M570.87,-3432.25C618.23,-3433.78 672.07,-3435.51 708.09,-3436.67"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="707.84,-3440.17 717.95,-3436.99 708.07,-3433.17 707.84,-3440.17"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;TizzTrading._checkCondition -->
+<g id="edge55" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._msgSender" data-comment="TizzTrading.closeTradeMarket-&gt;TizzTrading._checkCondition">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M556.48,-3418.62C566.1,-3414.59 575.09,-3409.2 582.5,-3402 615.89,-3369.6 575.91,-3332.65 610.01,-3301 628.21,-3284.1 653.69,-3276.33 677.88,-3273.11"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="678.15,-3276.6 687.74,-3272.1 677.43,-3269.64 678.15,-3276.6"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;TizzTrading._msgSender -->
+<g id="edge61" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.callbacks" data-comment="TizzTrading.closeTradeMarket-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.67,-3419.65C568.44,-3415.4 576.36,-3409.68 582.5,-3402 644.16,-3325.02 546.67,-1702.6 610.01,-1627 629.28,-1604 661.74,-1596.78 690.48,-1595.53"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="690.39,-1599.03 700.33,-1595.38 690.28,-1592.03 690.39,-1599.03"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.priceAggregator -->
+
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.PendingMarketOrder -->
+<g id="edge56" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder" data-comment="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.PendingMarketOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.68,-3419.66C568.45,-3415.41 576.36,-3409.68 582.5,-3402 651.58,-3315.6 539.04,-1495.85 610.01,-1411 619.88,-1399.2 633.24,-1391.55 647.78,-1386.72"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="648.59,-1390.13 657.3,-1384.11 646.74,-1383.38 648.59,-1390.13"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.Trade -->
+
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.PendingNftOrder -->
+<g id="edge57" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.getOpenLimitOrder" data-comment="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.PendingNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.67,-3419.65C568.45,-3415.41 576.36,-3409.68 582.5,-3402 647.87,-3320.31 542.86,-1599.23 610.01,-1519 620.11,-1506.93 633.85,-1499.21 648.78,-1494.41"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="649.27,-1497.9 658.03,-1491.94 647.47,-1491.14 649.27,-1497.9"/>
+</g>
+<!-- ITizzTradingStorage.openTrades -->
+<g id="node69" class="node" pointer-events="visible" data-name="ITizzTradingStorage.openTrades">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1330" rx="56.16" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1325.8" font-family="Times,serif" font-size="14.00">openTrades</text>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.openTrades -->
+<g id="edge60" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.updateOpenLimitOrder" data-comment="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.openTrades">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.66,-3419.64C568.44,-3415.4 576.35,-3409.67 582.5,-3402 640.44,-3329.73 550.49,-1805.97 610.01,-1735 617.18,-1726.46 626.16,-1720.09 636.1,-1715.4"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="637.33,-1718.68 645.34,-1711.75 634.75,-1712.17 637.33,-1718.68"/>
+</g>
+<!-- ITizzTradingStorage.openTradesInfo -->
+<g id="node70" class="node" pointer-events="visible" data-name="ITizzTradingStorage.openTradesInfo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1222" rx="72.34" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1217.8" font-family="Times,serif" font-size="14.00">openTradesInfo</text>
+</g><g id="edge63" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;ChainUtils.getBlockNumber" data-comment="ITizzTradingStorage.openTradesInfo">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.61,-3419.6C568.4,-3415.37 576.33,-3409.66 582.5,-3402 625.31,-3348.93 566.04,-2227.11 610.01,-2175 622.46,-2160.25 640.33,-2152 659.14,-2147.65"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.76,-2151.1 668.95,-2145.84 658.48,-2144.22 659.76,-2151.1"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzTradingStorage.openTradesInfo -->
+<g id="edge62" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;c.setTradeLastUpdated" data-comment="TizzTrading.closeTradeMarket-&gt;ITizzTradingStorage.openTradesInfo">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.63,-3419.62C568.41,-3415.38 576.34,-3409.66 582.5,-3402 630.09,-3342.86 561.13,-2094.07 610.01,-2036 618.78,-2025.58 630.27,-2018.4 642.88,-2013.55"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="643.93,-2016.89 652.38,-2010.51 641.79,-2010.22 643.93,-2016.89"/>
+</g>
+<!-- TizzTrading.closeTradeMarket&#45;&gt;ITizzPriceAggregator.getPrice -->
+<g id="edge64" class="edge" data-name="TizzTrading.updateOpenLimitOrder-&gt;c.setLimitMaxSlippageP" data-comment="TizzTrading.closeTradeMarket-&gt;ITizzPriceAggregator.getPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.62,-3419.61C568.41,-3415.37 576.33,-3409.66 582.5,-3402 627.27,-3346.44 569.25,-2176.56 610.01,-2118 622.3,-2100.34 641.2,-2088.35 661.16,-2080.21"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="662.3,-2083.52 670.48,-2076.78 659.89,-2076.95 662.3,-2083.52"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder -->
+<g id="node13" class="node" pointer-events="visible" data-name="TizzTrading.updateOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="469.09" cy="-3429" rx="101.85" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3424.8" font-family="Times,serif" font-size="14.00">updateOpenLimitOrder</text>
+</g>
+<!-- TizzTrading._checkNoPendingTrigger -->
+<g id="node20" class="node" pointer-events="visible" data-name="TizzTrading._checkNoPendingTrigger">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3328" rx="110.59" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3323.8" font-family="Times,serif" font-size="14.00">_checkNoPendingTrigger</text>
+</g><g id="edge69" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;TizzTrading._checkNoPendingTrigger" data-comment="TizzTrading._checkNoPendingTrigger">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M533.44,-3282.06C549.46,-3285.91 566.62,-3290.07 582.5,-3294 594.75,-3297.03 597.7,-3298.24 610.01,-3301 626.19,-3304.62 643.49,-3308.21 660.2,-3311.53"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.38,-3314.93 669.87,-3313.42 660.73,-3308.06 659.38,-3314.93"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;TizzTrading._checkNoPendingTrigger -->
+<g id="edge65" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;TizzTrading._checkCondition" data-comment="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._checkNoPendingTrigger">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M553.73,-3277.89C564.14,-3281.8 574.08,-3287.02 582.5,-3294 605.41,-3312.96 586.69,-3336.55 610.01,-3355 624.22,-3366.24 641.76,-3373.25 659.55,-3377.53"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="658.72,-3380.94 669.22,-3379.53 660.13,-3374.08 658.72,-3380.94"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;TizzTrading._checkCondition -->
+<g id="edge66" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;TizzTrading._msgSender" data-comment="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._checkCondition">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M570.08,-3269.51C605.72,-3270.4 645.1,-3271.39 677.85,-3272.21"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="677.4,-3275.7 687.49,-3272.45 677.58,-3268.7 677.4,-3275.7"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;TizzTrading.type -->
+<g id="edge71" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.transferBaseAsset" data-comment="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading.type">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.15,-3257.92C568.14,-3253.65 576.24,-3247.84 582.5,-3240 657.15,-3146.53 533.31,-1178.8 610.01,-1087 621.76,-1072.94 638.43,-1064.78 656.18,-1060.26"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="656.86,-1063.7 665.95,-1058.25 655.45,-1056.84 656.86,-1063.7"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;TizzTrading._msgSender -->
+<g id="edge67" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder" data-comment="TizzTrading.updateOpenLimitOrder-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.13,-3257.91C568.12,-3253.64 576.23,-3247.83 582.5,-3240 646.01,-3160.67 544.77,-1488.91 610.01,-1411 619.89,-1399.2 633.25,-1391.55 647.79,-1386.74"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="648.6,-1390.14 657.32,-1384.12 646.75,-1383.39 648.6,-1390.14"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;ITizzTradingStorage.callbacks -->
+<g id="edge68" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.getOpenLimitOrder" data-comment="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.callbacks">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.12,-3257.9C568.12,-3253.63 576.23,-3247.83 582.5,-3240 642.3,-3165.38 548.58,-1592.28 610.01,-1519 620.12,-1506.94 633.86,-1499.22 648.79,-1494.42"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="649.28,-1497.91 658.04,-1491.95 647.48,-1491.15 649.28,-1497.91"/>
+</g>
+<!-- ITizzTradingStorage.hasOpenLimitOrder -->
+<g id="node71" class="node" pointer-events="visible" data-name="ITizzTradingStorage.hasOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1384" rx="88.61" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1379.8" font-family="Times,serif" font-size="14.00">hasOpenLimitOrder</text>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;ITizzTradingStorage.hasOpenLimitOrder -->
+<g id="edge70" class="edge" data-name="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.unregisterOpenLimitOrder" data-comment="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M559.13,-3257.9C568.12,-3253.64 576.23,-3247.83 582.5,-3240 644.16,-3163.02 546.67,-1540.6 610.01,-1465 615.25,-1458.74 621.47,-1453.66 628.32,-1449.54"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="629.53,-1452.85 636.87,-1445.21 626.36,-1446.61 629.53,-1452.85"/>
+</g>
+<!-- ITizzTradingStorage.getOpenLimitOrder -->
+<g id="node72" class="node" pointer-events="visible" data-name="ITizzTradingStorage.getOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1492" rx="87.96" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1487.8" font-family="Times,serif" font-size="14.00">getOpenLimitOrder</text>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;ITizzTradingStorage.getOpenLimitOrder -->
+<g id="edge74" class="edge" data-name="TizzTrading.updateTp-&gt;TizzTrading._checkNoPendingTrigger" data-comment="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.getOpenLimitOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M517.76,-3322.2C547.77,-3322.95 587.99,-3323.96 626.47,-3324.92"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="626.33,-3328.42 636.41,-3325.17 626.5,-3321.42 626.33,-3328.42"/>
+</g>
+<!-- ITizzTradingStorage.updateOpenLimitOrder -->
+<g id="node73" class="node" pointer-events="visible" data-name="ITizzTradingStorage.updateOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1708" rx="101.85" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1703.8" font-family="Times,serif" font-size="14.00">updateOpenLimitOrder</text>
+</g><g id="edge72" class="edge" data-name="TizzTrading.updateTp-&gt;TizzTrading._checkCondition" data-comment="ITizzTradingStorage.updateOpenLimitOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M511.23,-3330.74C532.53,-3335.82 558.93,-3342.17 582.5,-3348 594.75,-3351.03 597.7,-3352.24 610.01,-3355 630.7,-3359.64 653.23,-3364.21 674.02,-3368.24"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="673.25,-3371.65 683.73,-3370.1 674.57,-3364.78 673.25,-3371.65"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;ITizzTradingStorage.updateOpenLimitOrder -->
+<g id="edge73" class="edge" data-name="TizzTrading.updateTp-&gt;TizzTrading._msgSender" data-comment="TizzTrading.updateOpenLimitOrder-&gt;ITizzTradingStorage.updateOpenLimitOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M514.32,-3313.55C560.1,-3305.85 632.09,-3293.72 684.32,-3284.93"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="684.88,-3288.39 694.16,-3283.27 683.72,-3281.48 684.88,-3288.39"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;ChainUtils.getBlockNumber -->
+<g id="edge77" class="edge" data-name="TizzTrading.updateTp-&gt;ITizzTradingStorage.callbacks" data-comment="TizzTrading.updateOpenLimitOrder-&gt;ChainUtils.getBlockNumber">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.94,-3322.23C541.15,-3320.07 567.25,-3313.03 582.5,-3294 640.44,-3221.73 550.49,-1697.97 610.01,-1627 629.29,-1604.01 661.76,-1596.79 690.49,-1595.53"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="690.4,-1599.04 700.34,-1595.39 690.29,-1592.04 690.4,-1599.04"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;c.setTradeLastUpdated -->
+<g id="edge75" class="edge" data-name="TizzTrading.updateTp-&gt;ITizzTradingStorage.openTrades" data-comment="TizzTrading.updateOpenLimitOrder-&gt;c.setTradeLastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.96,-3322.24C541.18,-3320.09 567.27,-3313.04 582.5,-3294 649.73,-3209.95 540.95,-1439.54 610.01,-1357 627.32,-1336.31 655.32,-1328.38 681.69,-1326.09"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="681.63,-1329.59 691.43,-1325.55 681.25,-1322.61 681.63,-1329.59"/>
+</g>
+<!-- TizzTrading.updateOpenLimitOrder&#45;&gt;c.setLimitMaxSlippageP -->
+
+<!-- TizzTrading.cancelOpenLimitOrder -->
+<g id="node14" class="node" pointer-events="visible" data-name="TizzTrading.cancelOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="469.09" cy="-3267" rx="100.68" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3262.8" font-family="Times,serif" font-size="14.00">cancelOpenLimitOrder</text>
+</g><g id="edge76" class="edge" data-name="TizzTrading.updateTp-&gt;ITizzTradingStorage.updateTp" data-comment="TizzTrading.cancelOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.95,-3322.23C541.16,-3320.08 567.26,-3313.03 582.5,-3294 642.3,-3219.38 548.58,-1646.28 610.01,-1573 629.15,-1550.17 661.29,-1542.89 689.87,-1541.56"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="689.73,-1545.06 699.67,-1541.38 689.61,-1538.06 689.73,-1545.06"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;TizzTrading._checkNoPendingTrigger -->
+<g id="edge78" class="edge" data-name="TizzTrading.updateTp-&gt;ChainUtils.getBlockNumber" data-comment="TizzTrading.cancelOpenLimitOrder-&gt;TizzTrading._checkNoPendingTrigger">
+
+<path fill="none" stroke="white" stroke-width="2" d="M517.88,-3322.18C541.07,-3320.01 567.17,-3312.96 582.5,-3294 660.69,-3197.28 529.71,-2269.97 610.01,-2175 622.47,-2160.26 640.35,-2152.02 659.17,-2147.67"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.78,-2151.12 668.98,-2145.86 658.5,-2144.24 659.78,-2151.12"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;TizzTrading._checkCondition -->
+
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;TizzTrading._msgSender -->
+<g id="edge81" class="edge" data-name="TizzTrading.updateSl-&gt;TizzTrading._checkNoPendingTrigger" data-comment="TizzTrading.cancelOpenLimitOrder-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M511.88,-3367.96C550.01,-3361.54 607.7,-3351.83 656.66,-3343.59"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="656.96,-3347.09 666.24,-3341.97 655.8,-3340.18 656.96,-3347.09"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;ITizzTradingStorage.transferBaseAsset -->
+<g id="edge79" class="edge" data-name="TizzTrading.updateSl-&gt;TizzTrading._checkCondition" data-comment="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.transferBaseAsset">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M514.94,-3376.12C553.77,-3377.1 611.1,-3378.54 659.34,-3379.75"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.25,-3383.24 669.33,-3380 659.42,-3376.25 659.25,-3383.24"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;ITizzTradingStorage.hasOpenLimitOrder -->
+<g id="edge80" class="edge" data-name="TizzTrading.updateSl-&gt;TizzTrading._msgSender" data-comment="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M514.63,-3372.47C536.82,-3369.3 563,-3362.47 582.5,-3348 601.94,-3333.57 590.26,-3314.99 610.01,-3301 629.59,-3287.13 654.44,-3279.9 677.71,-3276.28"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="677.97,-3279.77 687.43,-3275.01 677.06,-3272.83 677.97,-3279.77"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;ITizzTradingStorage.getOpenLimitOrder -->
+<g id="edge84" class="edge" data-name="TizzTrading.updateSl-&gt;ITizzTradingStorage.callbacks" data-comment="TizzTrading.cancelOpenLimitOrder-&gt;ITizzTradingStorage.getOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M515.1,-3376.47C538.99,-3374.64 566.63,-3367.81 582.5,-3348 642.3,-3273.38 548.58,-1700.28 610.01,-1627 629.28,-1604.01 661.75,-1596.79 690.49,-1595.53"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="690.39,-1599.03 700.34,-1595.38 690.29,-1592.03 690.39,-1599.03"/>
+</g>
+<!-- ITizzTradingStorage.unregisterOpenLimitOrder -->
+<g id="node74" class="node" pointer-events="visible" data-name="ITizzTradingStorage.unregisterOpenLimitOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1438" rx="114.59" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1433.8" font-family="Times,serif" font-size="14.00">unregisterOpenLimitOrder</text>
+</g><g id="edge82" class="edge" data-name="TizzTrading.updateSl-&gt;ITizzTradingStorage.openTrades" data-comment="ITizzTradingStorage.unregisterOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M514.83,-3376.51C538.8,-3374.71 566.59,-3367.91 582.5,-3348 651.58,-3261.6 539.04,-1441.85 610.01,-1357 627.32,-1336.3 655.32,-1328.38 681.69,-1326.08"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="681.63,-1329.59 691.42,-1325.54 681.24,-1322.6 681.63,-1329.59"/>
+</g>
+<!-- TizzTrading.cancelOpenLimitOrder&#45;&gt;ITizzTradingStorage.unregisterOpenLimitOrder -->
+
+<!-- TizzTrading.updateTp -->
+<g id="node15" class="node" pointer-events="visible" data-name="TizzTrading.updateTp">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="469.09" cy="-3321" rx="47.51" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3316.8" font-family="Times,serif" font-size="14.00">updateTp</text>
+</g><g id="edge83" class="edge" data-name="TizzTrading.updateSl-&gt;ITizzTradingStorage.updateSl" data-comment="TizzTrading.updateTp">
+
+<path fill="none" stroke="white" stroke-width="2" d="M515.09,-3376.47C538.99,-3374.63 566.62,-3367.81 582.5,-3348 640.44,-3275.73 550.49,-1751.97 610.01,-1681 629.86,-1657.33 663.68,-1650.38 693.03,-1649.44"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="692.69,-1652.94 702.67,-1649.4 692.65,-1645.94 692.69,-1652.94"/>
+</g>
+<!-- TizzTrading.updateTp&#45;&gt;TizzTrading._checkNoPendingTrigger -->
+<g id="edge85" class="edge" data-name="TizzTrading.updateSl-&gt;ChainUtils.getBlockNumber" data-comment="TizzTrading.updateTp-&gt;TizzTrading._checkNoPendingTrigger">
+
+<path fill="none" stroke="white" stroke-width="2" d="M515.04,-3376.43C538.92,-3374.58 566.55,-3367.75 582.5,-3348 623.45,-3297.28 567.95,-2224.8 610.01,-2175 622.46,-2160.26 640.34,-2152.01 659.16,-2147.66"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.77,-2151.11 668.96,-2145.85 658.49,-2144.23 659.77,-2151.11"/>
+</g>
+<!-- TizzTrading.updateTp&#45;&gt;TizzTrading._checkCondition -->
+
+<!-- TizzTrading.updateTp&#45;&gt;TizzTrading._msgSender -->
+
+<!-- TizzTrading.updateTp&#45;&gt;ITizzTradingStorage.callbacks -->
+<g id="edge89" class="edge" data-name="TizzTrading.executeNftOrder-&gt;TizzTrading._validateExecuteNftOrder" data-comment="TizzTrading.updateTp-&gt;ITizzTradingStorage.callbacks">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.31,-3159C274.71,-3159 309.14,-3159 342.02,-3159"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="341.99,-3162.5 351.99,-3159 341.99,-3155.5 341.99,-3162.5"/>
+</g>
+<!-- TizzTrading.updateTp&#45;&gt;ITizzTradingStorage.openTrades -->
+
+<!-- ITizzTradingStorage.updateTp -->
+<g id="node75" class="node" pointer-events="visible" data-name="ITizzTradingStorage.updateTp">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1546" rx="47.51" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1541.8" font-family="Times,serif" font-size="14.00">updateTp</text>
+</g><g id="edge90" class="edge" data-name="TizzTrading.executeNftOrder-&gt;TizzTrading._handleExecuteNftOrder" data-comment="ITizzTradingStorage.updateTp">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M231.04,-3170.19C273.91,-3177.93 331.6,-3188.35 379.34,-3196.97"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.44,-3200.37 388.9,-3198.7 379.68,-3193.48 378.44,-3200.37"/>
+</g>
+<!-- TizzTrading.updateTp&#45;&gt;ITizzTradingStorage.updateTp -->
+<g id="edge86" class="edge" data-name="TizzTrading.executeNftOrder-&gt;TizzTrading._checkCondition" data-comment="TizzTrading.updateTp-&gt;ITizzTradingStorage.updateTp">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M232.78,-3169.65C266.59,-3178.75 305.7,-3195.47 328.17,-3226 365.75,-3277.07 308.73,-3467.38 355.68,-3510 374.34,-3526.94 562.44,-3525.25 582.5,-3510 618.86,-3482.37 576.68,-3442.21 610.01,-3411 623.63,-3398.25 641.34,-3390.5 659.54,-3385.91"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="660.16,-3389.35 669.21,-3383.84 658.7,-3382.51 660.16,-3389.35"/>
+</g>
+<!-- TizzTrading.updateTp&#45;&gt;ChainUtils.getBlockNumber -->
+
+<!-- TizzTrading.updateSl -->
+<g id="node16" class="node" pointer-events="visible" data-name="TizzTrading.updateSl">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="469.09" cy="-3375" rx="44.66" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3370.8" font-family="Times,serif" font-size="14.00">updateSl</text>
+</g><g id="edge88" class="edge" data-name="TizzTrading.executeNftOrder-&gt;ITizzTradingStorage.LimitOrder" data-comment="TizzTrading.updateSl">
+
+<path fill="none" stroke="white" stroke-width="2" d="M216.39,-3143.9C250.86,-3130.94 296.83,-3109.34 328.17,-3078 347.22,-3058.96 333.96,-3039.93 355.68,-3024 438.1,-2963.55 515.99,-3063.61 582.5,-2986 662.88,-2892.22 530.84,-857.8 610.01,-763 627.51,-742.05 655.96,-734.18 682.6,-731.99"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="682.64,-735.49 692.45,-731.49 682.29,-728.5 682.64,-735.49"/>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;TizzTrading._checkNoPendingTrigger -->
+
+<!-- TizzTrading.updateSl&#45;&gt;TizzTrading._checkCondition -->
+<g id="edge87" class="edge" data-name="TizzTrading.executeNftOrder-&gt;packed.unpackExecuteNftOrder" data-comment="TizzTrading.updateSl-&gt;TizzTrading._checkCondition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M223.6,-3145.5C259.19,-3133.74 303.49,-3112.93 328.17,-3078 382.48,-3001.12 300.75,-2944.45 355.68,-2868 366.13,-2853.45 381.52,-2842.56 397.58,-2834.49"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="398.95,-2837.72 406.57,-2830.36 396.03,-2831.35 398.95,-2837.72"/>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;TizzTrading._msgSender -->
+<g id="edge92" class="edge" data-name="TizzTrading._validateExecuteNftOrder-&gt;ITizzTradingStorage.openTrades" data-comment="TizzTrading.updateSl-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M562.85,-3148.02C570.35,-3143.97 577.11,-3138.74 582.5,-3132 644.16,-3055.02 546.67,-1432.6 610.01,-1357 627.34,-1336.32 655.34,-1328.4 681.7,-1326.1"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="681.65,-1329.61 691.44,-1325.56 681.26,-1322.62 681.65,-1329.61"/>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;ITizzTradingStorage.callbacks -->
+<g id="edge95" class="edge" data-name="TizzTrading._validateExecuteNftOrder-&gt;ITizzTradingStorage.openTradesInfo" data-comment="TizzTrading.updateSl-&gt;ITizzTradingStorage.callbacks">
+
+<path fill="none" stroke="white" stroke-width="2" d="M562.86,-3148.02C570.36,-3143.98 577.11,-3138.74 582.5,-3132 647.87,-3050.31 542.86,-1329.23 610.01,-1249 623.69,-1232.66 644.03,-1224.28 664.96,-1220.35"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="665.28,-1223.84 674.67,-1218.92 664.26,-1216.92 665.28,-1223.84"/>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;ITizzTradingStorage.openTrades -->
+<g id="edge91" class="edge" data-name="TizzTrading._validateExecuteNftOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder" data-comment="TizzTrading.updateSl-&gt;ITizzTradingStorage.openTrades">
+
+<path fill="none" stroke="white" stroke-width="2" d="M562.85,-3148.02C570.35,-3143.97 577.11,-3138.74 582.5,-3132 642.3,-3057.38 548.58,-1484.28 610.01,-1411 619.9,-1399.21 633.25,-1391.56 647.8,-1386.74"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="648.61,-1390.15 657.33,-1384.13 646.76,-1383.4 648.61,-1390.15"/>
+</g>
+<!-- ITizzTradingStorage.updateSl -->
+<g id="node76" class="node" pointer-events="visible" data-name="ITizzTradingStorage.updateSl">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-1654" rx="44.66" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-1649.8" font-family="Times,serif" font-size="14.00">updateSl</text>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;ITizzTradingStorage.updateSl -->
+<g id="edge93" class="edge" data-name="TizzTrading._validateExecuteNftOrder-&gt;ITizzBorrowingFees.getTradeLiquidationPrice" data-comment="TizzTrading.updateSl-&gt;ITizzTradingStorage.updateSl">
+
+<path fill="none" stroke="white" stroke-width="2" d="M562.64,-3147.85C570.19,-3143.83 577.01,-3138.65 582.5,-3132 625.15,-3080.37 566.24,-2580.67 610.01,-2530 615.97,-2523.1 623.13,-2517.63 631,-2513.32"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="632.2,-2516.62 639.81,-2509.25 629.27,-2510.26 632.2,-2516.62"/>
+</g>
+<!-- TizzTrading.updateSl&#45;&gt;ChainUtils.getBlockNumber -->
+
+<!-- TizzTrading.executeNftOrder -->
+<g id="node17" class="node" pointer-events="visible" data-name="TizzTrading.executeNftOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3159" rx="75.83" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3154.8" font-family="Times,serif" font-size="14.00">executeNftOrder</text>
+</g><g id="edge94" class="edge" data-name="TizzTrading._validateExecuteNftOrder-&gt;ITizzBorrowingFees.LiqPriceInput" data-comment="TizzTrading.executeNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M562.67,-3147.87C570.21,-3143.85 577.02,-3138.66 582.5,-3132 628.86,-3075.67 562.43,-2531.3 610.01,-2476 625.53,-2457.97 649.16,-2449.7 672.58,-2446.4"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="672.92,-2449.88 682.5,-2445.36 672.19,-2442.92 672.92,-2449.88"/>
+</g>
+<!-- TizzTrading._validateExecuteNftOrder -->
+<g id="node18" class="node" pointer-events="visible" data-name="TizzTrading._validateExecuteNftOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3159" rx="112.84" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3154.8" font-family="Times,serif" font-size="14.00">_validateExecuteNftOrder</text>
+</g><g id="edge96" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;TizzTrading._checkNoPendingTrigger" data-comment="TizzTrading._validateExecuteNftOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M556.01,-3224.77C565.59,-3228.57 574.7,-3233.54 582.5,-3240 605.41,-3258.96 586.69,-3282.55 610.01,-3301 617.66,-3307.06 626.28,-3311.88 635.39,-3315.72"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="634.16,-3319 644.76,-3319.16 636.58,-3312.43 634.16,-3319"/>
+</g>
+<!-- TizzTrading.executeNftOrder&#45;&gt;TizzTrading._validateExecuteNftOrder -->
+
+<!-- TizzTrading._handleExecuteNftOrder -->
+<g id="node19" class="node" pointer-events="visible" data-name="TizzTrading._handleExecuteNftOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3213" rx="108.19" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3208.8" font-family="Times,serif" font-size="14.00">_handleExecuteNftOrder</text>
+</g><g id="edge103" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;TizzTrading._getPriceNftOrder" data-comment="TizzTrading._handleExecuteNftOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M542.34,-3198.51C582.66,-3190.42 632.84,-3180.35 673.68,-3172.16"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="674.23,-3175.62 683.34,-3170.22 672.85,-3168.76 674.23,-3175.62"/>
+</g>
+<!-- TizzTrading.executeNftOrder&#45;&gt;TizzTrading._handleExecuteNftOrder -->
+<g id="edge97" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;TizzTrading._msgSender" data-comment="TizzTrading.executeNftOrder-&gt;TizzTrading._handleExecuteNftOrder">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M538.74,-3228C584.29,-3237.95 643.56,-3250.91 687.6,-3260.53"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="686.7,-3263.91 697.21,-3262.63 688.19,-3257.08 686.7,-3263.91"/>
+</g>
+<!-- TizzTrading.executeNftOrder&#45;&gt;TizzTrading._checkCondition -->
+<g id="edge99" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.priceAggregator" data-comment="TizzTrading.executeNftOrder-&gt;TizzTrading._checkCondition">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.8,-3202.58C569.73,-3198.46 576.86,-3193.05 582.5,-3186 647.87,-3104.31 542.86,-1383.23 610.01,-1303 623.3,-1287.13 642.87,-1278.77 663.16,-1274.7"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="663.53,-1278.19 672.86,-1273.17 662.43,-1271.27 663.53,-1278.19"/>
+</g>
+<!-- ITizzTradingStorage.LimitOrder -->
+<g id="node77" class="node" pointer-events="visible" data-name="ITizzTradingStorage.LimitOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-736" rx="55.03" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-731.8" font-family="Times,serif" font-size="14.00">LimitOrder</text>
+</g><g id="edge104" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.PendingNftOrder" data-comment="ITizzTradingStorage.LimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.81,-3202.59C569.73,-3198.46 576.86,-3193.05 582.5,-3186 651.58,-3099.6 539.04,-1279.85 610.01,-1195 622.33,-1180.27 640.06,-1172.01 658.76,-1167.65"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.31,-1171.1 668.5,-1165.82 658.02,-1164.22 659.31,-1171.1"/>
+</g>
+<!-- TizzTrading.executeNftOrder&#45;&gt;ITizzTradingStorage.LimitOrder -->
+<g id="edge101" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.openTrades" data-comment="TizzTrading.executeNftOrder-&gt;ITizzTradingStorage.LimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.8,-3202.58C569.73,-3198.46 576.86,-3193.05 582.5,-3186 646.01,-3106.67 544.77,-1434.91 610.01,-1357 627.33,-1336.32 655.33,-1328.39 681.7,-1326.09"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="681.64,-1329.6 691.43,-1325.55 681.25,-1322.61 681.64,-1329.6"/>
+</g>
+<!-- packed.unpackExecuteNftOrder -->
+<g id="node202" class="node" pointer-events="visible" data-name="packed.unpackExecuteNftOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-2813" rx="105.33" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-2808.8" font-family="Times,serif" font-size="14.00">unpackExecuteNftOrder</text>
+</g><g id="edge102" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.openTradesInfo" data-comment="packed.unpackExecuteNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.81,-3202.58C569.73,-3198.46 576.86,-3193.05 582.5,-3186 649.73,-3101.95 540.95,-1331.54 610.01,-1249 623.68,-1232.66 644.02,-1224.28 664.96,-1220.35"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="665.28,-1223.84 674.66,-1218.92 664.26,-1216.91 665.28,-1223.84"/>
+</g>
+<!-- TizzTrading.executeNftOrder&#45;&gt;packed.unpackExecuteNftOrder -->
+<g id="edge98" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.getOpenLimitOrder" data-comment="TizzTrading.executeNftOrder-&gt;packed.unpackExecuteNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.53,-3202.71C569.56,-3198.57 576.79,-3193.13 582.5,-3186 640.44,-3113.73 550.49,-1589.97 610.01,-1519 620.12,-1506.94 633.87,-1499.22 648.79,-1494.43"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="649.29,-1497.92 658.05,-1491.96 647.49,-1491.15 649.29,-1497.92"/>
+</g>
+<!-- TizzTrading._validateExecuteNftOrder&#45;&gt;ITizzTradingStorage.openTrades -->
+<g id="edge100" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzMultiCollatDiamond.getTradePriceImpact" data-comment="TizzTrading._validateExecuteNftOrder-&gt;ITizzTradingStorage.openTrades">
+
+<path fill="none" stroke="white" stroke-width="2" d="M561.16,-3202.41C569.27,-3198.33 576.61,-3192.98 582.5,-3186 641.27,-3116.39 549.73,-2845.29 610.01,-2777 619.31,-2766.47 631.37,-2759.29 644.51,-2754.5"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="645.39,-2757.89 653.93,-2751.62 643.35,-2751.19 645.39,-2757.89"/>
+</g>
+<!-- TizzTrading._validateExecuteNftOrder&#45;&gt;ITizzTradingStorage.openTradesInfo -->
+
+<!-- TizzTrading._validateExecuteNftOrder&#45;&gt;ITizzTradingStorage.hasOpenLimitOrder -->
+<g id="edge105" class="edge" data-name="TizzTrading._handleExecuteNftOrder-&gt;ITizzOracleRewards.storeTrigger" data-comment="TizzTrading._validateExecuteNftOrder-&gt;ITizzTradingStorage.hasOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M560.63,-3223.68C568.89,-3227.74 576.42,-3233.06 582.5,-3240 621.1,-3284.02 568.28,-3460.94 610.01,-3502 721.17,-3611.38 926.22,-3582.17 1025.99,-3559.37"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1026.61,-3562.82 1035.54,-3557.11 1025,-3556 1026.61,-3562.82"/>
+</g>
+<!-- ITizzBorrowingFees.getTradeLiquidationPrice -->
+<g id="node164" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.getTradeLiquidationPrice">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2503" rx="110" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2498.8" font-family="Times,serif" font-size="14.00">getTradeLiquidationPrice</text>
+</g>
+<!-- TizzTrading._validateExecuteNftOrder&#45;&gt;ITizzBorrowingFees.getTradeLiquidationPrice -->
+<g id="edge106" class="edge" data-name="TizzTrading._checkNoPendingTrigger-&gt;ITizzOracleRewards.TriggeredLimitId" data-comment="TizzTrading._validateExecuteNftOrder-&gt;ITizzBorrowingFees.getTradeLiquidationPrice">
+
+<path fill="none" stroke="white" stroke-width="2" d="M830.18,-3341.6C855.78,-3345.95 884.33,-3350.74 910.48,-3355 940.93,-3359.96 974.44,-3365.23 1003.78,-3369.78"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1003.1,-3373.22 1013.52,-3371.29 1004.18,-3366.3 1003.1,-3373.22"/>
+</g>
+<!-- ITizzBorrowingFees.LiqPriceInput -->
+<g id="node165" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.LiqPriceInput">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2449" rx="64.85" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2444.8" font-family="Times,serif" font-size="14.00">LiqPriceInput</text>
+</g>
+<!-- TizzTrading._validateExecuteNftOrder&#45;&gt;ITizzBorrowingFees.LiqPriceInput -->
+<g id="edge107" class="edge" data-name="TizzTrading._checkNoPendingTrigger-&gt;ITizzOracleRewards.triggered" data-comment="TizzTrading._validateExecuteNftOrder-&gt;ITizzBorrowingFees.LiqPriceInput">
+
+<path fill="none" stroke="white" stroke-width="2" d="M861.89,-3328C916.36,-3328 979.81,-3328 1024.84,-3328"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1024.58,-3331.5 1034.58,-3328 1024.58,-3324.5 1024.58,-3331.5"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;TizzTrading._checkNoPendingTrigger -->
+
+<!-- TizzTrading._getPriceNftOrder -->
+<g id="node21" class="node" pointer-events="visible" data-name="TizzTrading._getPriceNftOrder">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3157" rx="82.8" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3152.8" font-family="Times,serif" font-size="14.00">_getPriceNftOrder</text>
+</g><g id="edge108" class="edge" data-name="TizzTrading._checkNoPendingTrigger-&gt;ITizzOracleRewards.timedOut" data-comment="TizzTrading._getPriceNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M853.8,-3335.23C867.17,-3339.65 879.87,-3346 890.48,-3355 909.99,-3371.56 890.67,-3392.8 910.48,-3409 941.92,-3434.71 987.67,-3440.94 1024.23,-3441.02"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1024.28,-3444.52 1034.22,-3440.85 1024.16,-3437.52 1024.28,-3444.52"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;TizzTrading._getPriceNftOrder -->
+<g id="edge110" class="edge" data-name="TizzTrading._getPriceNftOrder-&gt;ITizzTradingStorage.priceAggregator" data-comment="TizzTrading._handleExecuteNftOrder-&gt;TizzTrading._getPriceNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M666.32,-3157.57C637.92,-3152.82 609.94,-3141.31 596.26,-3116 584.34,-3093.96 584.34,-1334.04 596.26,-1312 609.51,-1287.5 636.44,-1276.76 664.13,-1272.73"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="664.3,-1276.23 673.85,-1271.66 663.53,-1269.27 664.3,-1276.23"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;TizzTrading._msgSender -->
+<g id="edge109" class="edge" data-name="TizzTrading._getPriceNftOrder-&gt;ITizzTradingStorage.callbacks" data-comment="TizzTrading._handleExecuteNftOrder-&gt;TizzTrading._msgSender">
+
+<path fill="none" stroke="white" stroke-width="2" d="M666.32,-3157.57C637.92,-3152.82 609.94,-3141.31 596.26,-3116 586.48,-3097.92 586.48,-1654.08 596.26,-1636 613.82,-1603.52 655.43,-1595.23 690.97,-1594.68"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="690.67,-1598.18 700.7,-1594.77 690.74,-1591.18 690.67,-1598.18"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzTradingStorage.priceAggregator -->
+<g id="edge112" class="edge" data-name="TizzTrading._getPriceNftOrder-&gt;ITizzTradingStorage.PendingMarketOrder" data-comment="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.priceAggregator">
+
+<path fill="none" stroke="white" stroke-width="2" d="M666.32,-3157.57C637.92,-3152.82 609.94,-3141.31 596.26,-3116 582.56,-3090.66 582.56,-1067.34 596.26,-1042 606.15,-1023.7 623.68,-1013.08 643.46,-1007.2"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="644.19,-1010.62 653.07,-1004.84 642.53,-1003.82 644.19,-1010.62"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzTradingStorage.PendingNftOrder -->
+<g id="edge113" class="edge" data-name="TizzTrading._getPriceNftOrder-&gt;ITizzTradingStorage.Trade" data-comment="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.PendingNftOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M666.32,-3157.57C637.92,-3152.82 609.94,-3141.31 596.26,-3116 583.27,-3091.98 583.27,-1174.02 596.26,-1150 615.94,-1113.6 665.83,-1107.58 703.53,-1108.79"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="703.09,-1112.27 713.26,-1109.32 703.47,-1105.28 703.09,-1112.27"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzTradingStorage.openTrades -->
+<g id="edge111" class="edge" data-name="TizzTrading._getPriceNftOrder-&gt;ITizzPriceAggregator.getPrice" data-comment="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.openTrades">
+
+<path fill="none" stroke="white" stroke-width="2" d="M798.15,-3141.09C827.23,-3129.49 863.95,-3111.51 890.48,-3087 903.08,-3075.36 896.23,-3063.55 910.48,-3054 944.9,-3030.94 991.7,-3024.78 1027.95,-3024.06"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1027.77,-3027.56 1037.76,-3024.03 1027.75,-3020.56 1027.77,-3027.56"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzTradingStorage.openTradesInfo -->
+
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzTradingStorage.getOpenLimitOrder -->
+<g id="edge114" class="edge" data-name="TizzTrading._checkOnlyGove-&gt;ITizzMultiCollatDiamond.hasRole" data-comment="TizzTrading._handleExecuteNftOrder-&gt;ITizzTradingStorage.getOpenLimitOrder">
+
+<path fill="none" stroke="white" stroke-width="2" d="M516.71,-3561.4C540.64,-3550.83 567.79,-3534.29 582.5,-3510 638.91,-3416.92 546.3,-3109.24 610.01,-3021 629.71,-2993.71 665.11,-2979.96 695.29,-2973.03"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="695.78,-2976.5 704.87,-2971.06 694.37,-2969.64 695.78,-2976.5"/>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzMultiCollatDiamond.getTradePriceImpact -->
+
+<!-- ITizzOracleRewards.storeTrigger -->
+<g id="node170" class="node" pointer-events="visible" data-name="ITizzOracleRewards.storeTrigger">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3544" rx="58.53" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3539.8" font-family="Times,serif" font-size="14.00">storeTrigger</text>
+</g>
+<!-- TizzTrading._handleExecuteNftOrder&#45;&gt;ITizzOracleRewards.storeTrigger -->
+<g id="edge115" class="edge" data-name="Initializable.initializer-&gt;AddressUpgradeable.isContract" data-comment="TizzTrading._handleExecuteNftOrder-&gt;ITizzOracleRewards.storeTrigger">
+
+<path fill="none" stroke="white" stroke-width="2" d="M807.51,-4089.41C836.15,-4087.05 869.3,-4079.06 890.48,-4057 925.19,-4020.84 878.29,-3984.42 910.48,-3946 938.02,-3913.13 984.07,-3897.14 1021.75,-3889.36"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1022.01,-3892.87 1031.19,-3887.58 1020.71,-3885.99 1022.01,-3892.87"/>
+</g>
+<!-- ITizzOracleRewards.TriggeredLimitId -->
+<g id="node171" class="node" pointer-events="visible" data-name="ITizzOracleRewards.TriggeredLimitId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1084.52" cy="-3382" rx="78.72" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3377.8" font-family="Times,serif" font-size="14.00">TriggeredLimitId</text>
+</g>
+<!-- TizzTrading._checkNoPendingTrigger&#45;&gt;ITizzOracleRewards.TriggeredLimitId -->
+
+<!-- ITizzOracleRewards.triggered -->
+<g id="node172" class="node" pointer-events="visible" data-name="ITizzOracleRewards.triggered">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3328" rx="45.78" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3323.8" font-family="Times,serif" font-size="14.00">triggered</text>
+</g>
+<!-- TizzTrading._checkNoPendingTrigger&#45;&gt;ITizzOracleRewards.triggered -->
+
+<!-- ITizzOracleRewards.timedOut -->
+<g id="node173" class="node" pointer-events="visible" data-name="ITizzOracleRewards.timedOut">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3436" rx="47.53" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3431.8" font-family="Times,serif" font-size="14.00">timedOut</text>
+</g><g id="edge116" class="edge" data-name="Initializable._disableInitializers-&gt;Initializable.type" data-comment="ITizzOracleRewards.timedOut">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M820.5,-4258.79C888.53,-4255.13 989.87,-4255.85 1044.78,-4260.95"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1044.37,-4264.43 1054.68,-4262.02 1045.12,-4257.47 1044.37,-4264.43"/>
+</g>
+<!-- TizzTrading._checkNoPendingTrigger&#45;&gt;ITizzOracleRewards.timedOut -->
+
+<!-- TizzTrading._getPriceNftOrder&#45;&gt;ITizzTradingStorage.priceAggregator -->
+
+<!-- TizzTrading._getPriceNftOrder&#45;&gt;ITizzTradingStorage.callbacks -->
+
+<!-- TizzTrading._getPriceNftOrder&#45;&gt;ITizzTradingStorage.PendingMarketOrder -->
+
+<!-- TizzTrading._getPriceNftOrder&#45;&gt;ITizzTradingStorage.Trade -->
+
+<!-- TizzTrading._getPriceNftOrder&#45;&gt;ITizzPriceAggregator.getPrice -->
+
+<!-- ITizzMultiCollatDiamond.hasRole -->
+<g id="node102" class="node" pointer-events="visible" data-name="ITizzMultiCollatDiamond.hasRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-2966" rx="42.3" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2961.8" font-family="Times,serif" font-size="14.00">hasRole</text>
+</g>
+<!-- TizzTrading._checkOnlyGove&#45;&gt;ITizzMultiCollatDiamond.hasRole -->
+<g id="edge119" class="edge" data-name="AddressUpgradeable.functionCall-&gt;AddressUpgradeable.functionCallWithValue" data-comment="TizzTrading._checkOnlyGove-&gt;ITizzMultiCollatDiamond.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.16,-3838.61C273.17,-3842.6 335.7,-3849.93 385.64,-3856.97"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="384.99,-3860.41 395.38,-3858.37 385.98,-3853.48 384.99,-3860.41"/>
+</g>
+<!-- Initializable.initializer -->
+<g id="node27" class="node" pointer-events="visible" data-name="Initializable.initializer">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="802.24,-4080.54 802.24,-4095.46 771.78,-4106 728.71,-4106 698.25,-4095.46 698.25,-4080.54 728.71,-4070 771.78,-4070 802.24,-4080.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="806.24,-4077.7 806.24,-4098.3 772.45,-4110 728.04,-4110 694.25,-4098.3 694.25,-4077.7 728.04,-4066 772.45,-4066 806.24,-4077.7"/>
+<text text-anchor="middle" x="750.25" y="-4083.8" font-family="Times,serif" font-size="14.00">initializer</text>
+</g>
+<!-- AddressUpgradeable.isContract -->
+<g id="node34" class="node" pointer-events="visible" data-name="AddressUpgradeable.isContract">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="1084.52" cy="-3882" rx="50.96" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3877.8" font-family="Times,serif" font-size="14.00">isContract</text>
+</g><g id="edge121" class="edge" data-name="AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.functionCallWithValue" data-comment="AddressUpgradeable.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M419.27,-3890.04C409.1,-3899.86 425.71,-3909 469.09,-3909 492.14,-3909 507.63,-3906.42 515.56,-3902.53"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="518.92,-3903.53 518.13,-3892.96 512.16,-3901.71 518.92,-3903.53"/>
+</g>
+<!-- Initializable.initializer&#45;&gt;AddressUpgradeable.isContract -->
+
+<!-- Initializable.reinitializer --><!-- AddressUpgradeable.functionCallWithValue&#45;&gt;AddressUpgradeable.verifyCallResultFromTarget -->
+<g id="node28" class="node" pointer-events="visible" data-name="Initializable.reinitializer" data-comment="AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.verifyCallResultFromTarget">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="810.47,-4204.54 810.47,-4219.46 775.19,-4230 725.3,-4230 690.02,-4219.46 690.02,-4204.54 725.3,-4194 775.19,-4194 810.47,-4204.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="814.48,-4201.57 814.48,-4222.43 775.78,-4234 724.71,-4234 686.01,-4222.43 686.01,-4201.57 724.71,-4190 775.78,-4190 814.48,-4201.57"/>
+<text text-anchor="middle" x="750.25" y="-4207.8" font-family="Times,serif" font-size="14.00">reinitializer</text>
+</g><g id="edge122" class="edge" data-name="AddressUpgradeable.functionCallWithValue-&gt;AddressUpgradeable.verifyCallResultFromTarget">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M572.06,-3873C586.15,-3873 600.8,-3873 615.36,-3873"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="615.1,-3876.5 625.1,-3873 615.1,-3869.5 615.1,-3876.5"/>
+</g>
+<!-- Initializable.onlyInitializing --><!-- AddressUpgradeable.functionStaticCall -->
+<g id="node29" class="node" pointer-events="visible" data-name="Initializable.onlyInitializing" data-comment="AddressUpgradeable.functionStaticCall">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="826.53,-4142.54 826.53,-4157.46 781.84,-4168 718.65,-4168 673.96,-4157.46 673.96,-4142.54 718.65,-4132 781.84,-4132 826.53,-4142.54"/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="830.53,-4139.38 830.53,-4160.62 782.31,-4172 718.18,-4172 669.96,-4160.62 669.96,-4139.38 718.18,-4128 782.31,-4128 830.53,-4139.38"/>
+<text text-anchor="middle" x="750.25" y="-4145.8" font-family="Times,serif" font-size="14.00">onlyInitializing</text>
+</g>
+<!-- Initializable._disableInitializers --><!-- AddressUpgradeable.functionStaticCall&#45;&gt;AddressUpgradeable.functionStaticCall -->
+<g id="node30" class="node" pointer-events="visible" data-name="Initializable._disableInitializers" data-comment="AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.functionStaticCall">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-4270" rx="84.52" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-4265.8" font-family="Times,serif" font-size="14.00">_disableInitializers</text>
+</g><g id="edge123" class="edge" data-name="AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.functionStaticCall">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M421.02,-3816.54C407.49,-3826.91 423.51,-3837 469.09,-3837 494.02,-3837 510.1,-3833.98 517.35,-3829.55"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="520.85,-3829.52 517.21,-3819.57 513.85,-3829.62 520.85,-3829.52"/>
+</g>
+<!-- Initializable.type --><!-- AddressUpgradeable.functionStaticCall&#45;&gt;AddressUpgradeable.verifyCallResultFromTarget -->
+<g id="node33" class="node" pointer-events="visible" data-name="Initializable.type" data-comment="AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.verifyCallResultFromTarget">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1084.52" cy="-4270" rx="27.83" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-4265.8" font-family="Times,serif" font-size="14.00">type</text>
+</g><g id="edge125" class="edge" data-name="AddressUpgradeable.functionStaticCall-&gt;AddressUpgradeable.verifyCallResultFromTarget">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.38,-3817.08C542.58,-3826.36 578,-3837.78 610.01,-3846 624.36,-3849.68 639.65,-3853.13 654.65,-3856.24"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="653.69,-3859.62 664.19,-3858.17 655.09,-3852.76 653.69,-3859.62"/>
+</g>
+<!-- Initializable._disableInitializers&#45;&gt;Initializable.type --><!-- target.staticcall -->
+
+<!-- Initializable._disableInitializers&#45;&gt;Initializable.type --><!-- AddressUpgradeable.functionStaticCall&#45;&gt;target.staticcall -->
+<g id="edge124" class="edge" data-name="AddressUpgradeable.functionStaticCall-&gt;target.staticcall">
+
+<path fill="none" stroke="white" stroke-width="2" d="M520.32,-3785.71C571.26,-3770.2 649.58,-3746.35 700.12,-3730.96"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="700.89,-3734.38 709.44,-3728.12 698.86,-3727.68 700.89,-3734.38"/>
+</g><g id="edge117" class="edge" data-name="Initializable._disableInitializers-&gt;Initializable.type" data-comment="AddressUpgradeable.functionStaticCall-&gt;target.staticcall">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M835.95,-4270C902.14,-4270 991.24,-4270 1042.52,-4270" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1042.29,-4273.5 1052.29,-4270 1042.29,-4266.5 1042.29,-4273.5"/>
+</g>
+<!-- Initializable._disableInitializers&#45;&gt;Initializable.type --><!-- AddressUpgradeable.verifyCallResultFromTarget&#45;&gt;AddressUpgradeable.isContract -->
+<g id="edge126" class="edge" data-name="AddressUpgradeable.verifyCallResultFromTarget-&gt;AddressUpgradeable.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M870.73,-3876.24C921.04,-3877.6 977.55,-3879.13 1019.69,-3880.27"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1019.45,-3883.77 1029.54,-3880.54 1019.63,-3876.77 1019.45,-3883.77"/>
+</g><g id="edge118" class="edge" data-name="Initializable._disableInitializers-&gt;Initializable.type" data-comment="AddressUpgradeable.verifyCallResultFromTarget-&gt;AddressUpgradeable.isContract">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M820.5,-4281.21C888.53,-4284.87 989.87,-4284.15 1044.78,-4279.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1045.12,-4282.53 1054.68,-4277.98 1044.37,-4275.57 1045.12,-4282.53"/>
+</g>
+<!-- Initializable._getInitializedVersion --><!-- AddressUpgradeable._revert -->
+<g id="node31" class="node" pointer-events="visible" data-name="Initializable._getInitializedVersion" data-comment="AddressUpgradeable._revert">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-4030" rx="97.27" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-4025.8" font-family="Times,serif" font-size="14.00">_getInitializedVersion</text>
+</g>
+<!-- Initializable._isInitializing --><!-- AddressUpgradeable.verifyCallResultFromTarget&#45;&gt;AddressUpgradeable._revert -->
+<g id="node32" class="node" pointer-events="visible" data-name="Initializable._isInitializing" data-comment="AddressUpgradeable.verifyCallResultFromTarget-&gt;AddressUpgradeable._revert">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-3976" rx="64.86" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3971.8" font-family="Times,serif" font-size="14.00">_isInitializing</text>
+</g><g id="edge127" class="edge" data-name="AddressUpgradeable.verifyCallResultFromTarget-&gt;AddressUpgradeable._revert">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M840.29,-3859.87C902.36,-3850.72 982.88,-3838.84 1033.89,-3831.32"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1034.13,-3834.82 1043.51,-3829.9 1033.11,-3827.9 1034.13,-3834.82"/>
+</g>
+<!-- AddressUpgradeable.sendValue --><!-- AddressUpgradeable.verifyCallResult -->
+<g id="node35" class="node" pointer-events="visible" data-name="AddressUpgradeable.sendValue" data-comment="AddressUpgradeable.verifyCallResult">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="168.09" cy="-3891" rx="51.59" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3886.8" font-family="Times,serif" font-size="14.00">sendValue</text>
+</g>
+<!-- AddressUpgradeable.functionCall --><!-- AddressUpgradeable.verifyCallResult&#45;&gt;AddressUpgradeable._revert -->
+<g id="node36" class="node" pointer-events="visible" data-name="AddressUpgradeable.functionCall" data-comment="AddressUpgradeable.verifyCallResult-&gt;AddressUpgradeable._revert">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="168.09" cy="-3837" rx="59.12" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3832.8" font-family="Times,serif" font-size="14.00">functionCall</text>
+</g><g id="edge128" class="edge" data-name="AddressUpgradeable.verifyCallResult-&gt;AddressUpgradeable._revert">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M826.23,-3820.13C889,-3821.07 976.92,-3822.4 1032.02,-3823.23"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1031.87,-3826.72 1041.92,-3823.37 1031.97,-3819.72 1031.87,-3826.72"/>
+</g>
+<!-- AddressUpgradeable.functionCallWithValue --><!-- IERC20.burn -->
+<g id="node37" class="node" pointer-events="visible" data-name="AddressUpgradeable.functionCallWithValue" data-comment="IERC20.burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3873" rx="101.86" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3868.8" font-family="Times,serif" font-size="14.00">functionCallWithValue</text>
+</g>
+<!-- AddressUpgradeable.functionCall&#45;&gt;AddressUpgradeable.functionCallWithValue --><!-- IERC20.mint -->
+
+<!-- AddressUpgradeable.functionCall&#45;&gt;AddressUpgradeable.functionCallWithValue --><!-- IERC20.hasRole -->
+<g id="edge120" class="edge" data-name="AddressUpgradeable.functionCall-&gt;AddressUpgradeable.functionCallWithValue" data-comment="IERC20.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M217.79,-3848C255.54,-3854.01 309.34,-3860.95 357.39,-3866.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="356.79,-3869.67 367.11,-3867.26 357.54,-3862.71 356.79,-3869.67"/>
+</g>
+<!-- AddressUpgradeable.functionCallWithValue&#45;&gt;AddressUpgradeable.functionCallWithValue --><!-- IERC20.totalSupply -->
+
+<!-- AddressUpgradeable.verifyCallResultFromTarget --><!-- IERC20.balanceOf -->
+<g id="node39" class="node" pointer-events="visible" data-name="AddressUpgradeable.verifyCallResultFromTarget" data-comment="IERC20.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3873" rx="120.99" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3868.8" font-family="Times,serif" font-size="14.00">verifyCallResultFromTarget</text>
+</g>
+<!-- IERC20.transfer -->
+
+<!-- IERC20.allowance -->
+<g id="node38" class="node" pointer-events="visible" data-name="AddressUpgradeable.functionStaticCall" data-comment="IERC20.allowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-3801" rx="81.11" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-3796.8" font-family="Times,serif" font-size="14.00">functionStaticCall</text>
+</g>
+<g id="node203" class="node" pointer-events="visible" data-name="target.staticcall" data-comment="IERC20.allowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-3716" rx="45.21" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3711.8" font-family="Times,serif" font-size="14.00">staticcall</text>
+</g><g id="node41" class="node" pointer-events="visible" data-name="AddressUpgradeable._revert" data-comment="IERC20.allowance">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1084.52" cy="-3824" rx="38.26" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3819.8" font-family="Times,serif" font-size="14.00">_revert</text>
+</g><g id="node40" class="node" pointer-events="visible" data-name="AddressUpgradeable.verifyCallResult" data-comment="IERC20.allowance">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-3819" rx="74.74" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-3814.8" font-family="Times,serif" font-size="14.00">verifyCallResult</text>
+</g><g id="node42" class="node" pointer-events="visible" data-name="IERC20.burn" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4408" rx="28.98" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4403.8" font-family="Times,serif" font-size="14.00">burn</text>
+</g><g id="node43" class="node" pointer-events="visible" data-name="IERC20.mint" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4354" rx="28.99" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4349.8" font-family="Times,serif" font-size="14.00">mint</text>
+</g><g id="node44" class="node" pointer-events="visible" data-name="IERC20.hasRole" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4300" rx="42.3" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4295.8" font-family="Times,serif" font-size="14.00">hasRole</text>
+</g><g id="node45" class="node" pointer-events="visible" data-name="IERC20.totalSupply" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4246" rx="55.64" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4241.8" font-family="Times,serif" font-size="14.00">totalSupply</text>
+</g><g id="node46" class="node" pointer-events="visible" data-name="IERC20.balanceOf" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4192" rx="50.92" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4187.8" font-family="Times,serif" font-size="14.00">balanceOf</text>
+</g><g id="node47" class="node" pointer-events="visible" data-name="IERC20.transfer" data-comment="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4138" rx="40.55" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4133.8" font-family="Times,serif" font-size="14.00">transfer</text>
+</g><g id="node48" class="node" pointer-events="visible" data-name="IERC20.allowance">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4084" rx="50.36" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4079.8" font-family="Times,serif" font-size="14.00">allowance</text>
+</g><!-- IERC20.approve -->
+<g id="node49" class="node" pointer-events="visible" data-name="IERC20.approve">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4030" rx="42.28" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4025.8" font-family="Times,serif" font-size="14.00">approve</text>
+</g>
+<!-- IERC20.transferFrom -->
+<g id="node50" class="node" pointer-events="visible" data-name="IERC20.transferFrom">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-3976" rx="61.41" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-3971.8" font-family="Times,serif" font-size="14.00">transferFrom</text>
+</g>
+<!-- IERC20Metadata.name -->
+<g id="node51" class="node" pointer-events="visible" data-name="IERC20Metadata.name">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4601" rx="31.9" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4596.8" font-family="Times,serif" font-size="14.00">name</text>
+</g>
+<!-- IERC20Metadata.symbol -->
+<g id="node52" class="node" pointer-events="visible" data-name="IERC20Metadata.symbol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4547" rx="39.45" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4542.8" font-family="Times,serif" font-size="14.00">symbol</text>
+</g>
+<!-- IERC20Metadata.decimals -->
+<g id="node53" class="node" pointer-events="visible" data-name="IERC20Metadata.decimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4493" rx="45.22" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4488.8" font-family="Times,serif" font-size="14.00">decimals</text>
+</g>
+<!-- ITizzTradingStorage.PRECISION -->
+<g id="node78" class="node" pointer-events="visible" data-name="ITizzTradingStorage.PRECISION">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-628" rx="60.88" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-623.8" font-family="Times,serif" font-size="14.00">PRECISION</text>
+</g>
+<!-- ITizzTradingStorage.gov -->
+<g id="node79" class="node" pointer-events="visible" data-name="ITizzTradingStorage.gov">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-574" rx="27" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-569.8" font-family="Times,serif" font-size="14.00">gov</text>
+</g>
+<!-- ITizzTradingStorage.token -->
+<g id="node80" class="node" pointer-events="visible" data-name="ITizzTradingStorage.token">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-520" rx="32.48" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-515.8" font-family="Times,serif" font-size="14.00">token</text>
+</g>
+<!-- ITizzTradingStorage.tokenOracleId -->
+<g id="node81" class="node" pointer-events="visible" data-name="ITizzTradingStorage.tokenOracleId">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-466" rx="66.03" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-461.8" font-family="Times,serif" font-size="14.00">tokenOracleId</text>
+</g>
+<!-- ITizzTradingStorage.vault -->
+<g id="node82" class="node" pointer-events="visible" data-name="ITizzTradingStorage.vault">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-412" rx="30.19" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-407.8" font-family="Times,serif" font-size="14.00">vault</text>
+</g>
+<!-- ITizzTradingStorage.unregisterTrade -->
+<g id="node83" class="node" pointer-events="visible" data-name="ITizzTradingStorage.unregisterTrade">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-358" rx="72.33" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-353.8" font-family="Times,serif" font-size="14.00">unregisterTrade</text>
+</g>
+<!-- ITizzTradingStorage.getOpenLimitOrders -->
+<g id="node84" class="node" pointer-events="visible" data-name="ITizzTradingStorage.getOpenLimitOrders">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-304" rx="91.48" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-299.8" font-family="Times,serif" font-size="14.00">getOpenLimitOrders</text>
+</g>
+<!-- ITizzTradingStorage.spreadReductionsP -->
+<g id="node85" class="node" pointer-events="visible" data-name="ITizzTradingStorage.spreadReductionsP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-250" rx="85.12" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-245.8" font-family="Times,serif" font-size="14.00">spreadReductionsP</text>
+</g>
+<!-- ITizzTradingStorage.firstEmptyTradeIndex -->
+<g id="node86" class="node" pointer-events="visible" data-name="ITizzTradingStorage.firstEmptyTradeIndex">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-196" rx="96.69" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-191.8" font-family="Times,serif" font-size="14.00">firstEmptyTradeIndex</text>
+</g>
+<!-- ITizzTradingStorage.nftSuccessTimelock -->
+<g id="node87" class="node" pointer-events="visible" data-name="ITizzTradingStorage.nftSuccessTimelock">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-142" rx="89.19" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-137.8" font-family="Times,serif" font-size="14.00">nftSuccessTimelock</text>
+</g>
+<!-- ITizzTradingStorage.updateTrade -->
+<g id="node88" class="node" pointer-events="visible" data-name="ITizzTradingStorage.updateTrade">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-88" rx="59.09" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-83.8" font-family="Times,serif" font-size="14.00">updateTrade</text>
+</g>
+<!-- ITizzTradingStorage.storeTrade -->
+<g id="node89" class="node" pointer-events="visible" data-name="ITizzTradingStorage.storeTrade">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-34" rx="52.15" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-29.8" font-family="Times,serif" font-size="14.00">storeTrade</text>
+</g>
+<!-- ITizzPriceAggregator.getCollateralPriceUsd -->
+<g id="node92" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.getCollateralPriceUsd">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2973" rx="96.13" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2968.8" font-family="Times,serif" font-size="14.00">getCollateralPriceUsd</text>
+</g>
+<!-- ITizzPriceAggregator.getCollateralFromUsdNormalizedValue -->
+<g id="node93" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.getCollateralFromUsdNormalizedValue">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2919" rx="166.08" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2914.8" font-family="Times,serif" font-size="14.00">getCollateralFromUsdNormalizedValue</text>
+</g>
+<!-- ITizzPriceAggregator.getTokenPriceUsd -->
+<g id="node94" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.getTokenPriceUsd">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2865" rx="82.81" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2860.8" font-family="Times,serif" font-size="14.00">getTokenPriceUsd</text>
+</g>
+<!-- ITizzPriceAggregator.tokenPriceBaseAsset -->
+<g id="node95" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.tokenPriceBaseAsset">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2811" rx="92.63" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2806.8" font-family="Times,serif" font-size="14.00">tokenPriceBaseAsset</text>
+</g>
+<!-- ITizzPriceAggregator.updateCollateralPairId -->
+<g id="node96" class="node" pointer-events="visible" data-name="ITizzPriceAggregator.updateCollateralPairId">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2757" rx="98.41" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2752.8" font-family="Times,serif" font-size="14.00">updateCollateralPairId</text>
+</g>
+<!-- IAddressStoreUtils.hasRole -->
+<g id="node103" class="node" pointer-events="visible" data-name="IAddressStoreUtils.hasRole">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4686" rx="42.3" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4681.8" font-family="Times,serif" font-size="14.00">hasRole</text>
+</g>
+<!-- IPairsStorageUtils.pairJob -->
+<g id="node104" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairJob">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5365" rx="39.43" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5360.8" font-family="Times,serif" font-size="14.00">pairJob</text>
+</g>
+<!-- IPairsStorageUtils.pairIdByJob -->
+<g id="node105" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairIdByJob">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5311" rx="58.56" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5306.8" font-family="Times,serif" font-size="14.00">pairIdByJob</text>
+</g>
+<!-- IPairsStorageUtils.pairFeed -->
+<g id="node106" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairFeed">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5257" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5252.8" font-family="Times,serif" font-size="14.00">pairFeed</text>
+</g>
+<!-- IPairsStorageUtils.pairSpreadP -->
+<g id="node107" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairSpreadP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5203" rx="58.47" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5198.8" font-family="Times,serif" font-size="14.00">pairSpreadP</text>
+</g>
+<!-- IPairsStorageUtils.pairMinLeverage -->
+<g id="node108" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairMinLeverage">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5149" rx="78.13" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5144.8" font-family="Times,serif" font-size="14.00">pairMinLeverage</text>
+</g>
+<!-- IPairsStorageUtils.pairMaxLeverage -->
+<g id="node109" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairMaxLeverage">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5095" rx="79.84" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5090.8" font-family="Times,serif" font-size="14.00">pairMaxLeverage</text>
+</g>
+<!-- IPairsStorageUtils.pairOpenFeeP -->
+<g id="node110" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairOpenFeeP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5041" rx="66.06" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5036.8" font-family="Times,serif" font-size="14.00">pairOpenFeeP</text>
+</g>
+<!-- IPairsStorageUtils.pairCloseFeeP -->
+<g id="node111" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairCloseFeeP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4987" rx="67.22" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4982.8" font-family="Times,serif" font-size="14.00">pairCloseFeeP</text>
+</g>
+<!-- IPairsStorageUtils.pairOracleFeeP -->
+<g id="node112" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairOracleFeeP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4933" rx="71.19" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4928.8" font-family="Times,serif" font-size="14.00">pairOracleFeeP</text>
+</g>
+<!-- IPairsStorageUtils.pairNftLimitOrderFeeP -->
+<g id="node113" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairNftLimitOrderFeeP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4879" rx="102.43" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4874.8" font-family="Times,serif" font-size="14.00">pairNftLimitOrderFeeP</text>
+</g>
+<!-- IPairsStorageUtils.pairMinLevPosUsd -->
+<g id="node114" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairMinLevPosUsd">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4825" rx="86.86" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4820.8" font-family="Times,serif" font-size="14.00">pairMinLevPosUsd</text>
+</g>
+<!-- IPairsStorageUtils.pairsCount -->
+<g id="node115" class="node" pointer-events="visible" data-name="IPairsStorageUtils.pairsCount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-4771" rx="53.34" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-4766.8" font-family="Times,serif" font-size="14.00">pairsCount</text>
+</g>
+<!-- IReferralsUtils.registerPotentialReferrer -->
+<g id="node116" class="node" pointer-events="visible" data-name="IReferralsUtils.registerPotentialReferrer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5612" rx="106.48" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5607.8" font-family="Times,serif" font-size="14.00">registerPotentialReferrer</text>
+</g>
+<!-- IReferralsUtils.distributeReferralReward -->
+<g id="node117" class="node" pointer-events="visible" data-name="IReferralsUtils.distributeReferralReward">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5558" rx="109.35" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5553.8" font-family="Times,serif" font-size="14.00">distributeReferralReward</text>
+</g>
+<!-- IReferralsUtils.getReferralsPercentOfOpenFeeP -->
+<g id="node118" class="node" pointer-events="visible" data-name="IReferralsUtils.getReferralsPercentOfOpenFeeP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5504" rx="137.7" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5499.8" font-family="Times,serif" font-size="14.00">getReferralsPercentOfOpenFeeP</text>
+</g>
+<!-- IReferralsUtils.getTraderReferrer -->
+<g id="node119" class="node" pointer-events="visible" data-name="IReferralsUtils.getTraderReferrer">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5450" rx="80.96" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5445.8" font-family="Times,serif" font-size="14.00">getTraderReferrer</text>
+</g>
+<!-- IFeeTiersUtils.updateTraderPoints -->
+<g id="node120" class="node" pointer-events="visible" data-name="IFeeTiersUtils.updateTraderPoints">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5751" rx="86.82" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5746.8" font-family="Times,serif" font-size="14.00">updateTraderPoints</text>
+</g>
+<!-- IFeeTiersUtils.calculateFeeAmount -->
+<g id="node121" class="node" pointer-events="visible" data-name="IFeeTiersUtils.calculateFeeAmount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5697" rx="90.88" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5692.8" font-family="Times,serif" font-size="14.00">calculateFeeAmount</text>
+</g>
+<!-- IPriceImpactUtils.addPriceImpactOpenInterest -->
+<g id="node122" class="node" pointer-events="visible" data-name="IPriceImpactUtils.addPriceImpactOpenInterest">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5944" rx="121.51" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5939.8" font-family="Times,serif" font-size="14.00">addPriceImpactOpenInterest</text>
+</g>
+<!-- IPriceImpactUtils.removePriceImpactOpenInterest -->
+<g id="node123" class="node" pointer-events="visible" data-name="IPriceImpactUtils.removePriceImpactOpenInterest">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5890" rx="136.54" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5885.8" font-family="Times,serif" font-size="14.00">removePriceImpactOpenInterest</text>
+</g>
+<!-- IPriceImpactUtils.getTradePriceImpact -->
+<g id="node124" class="node" pointer-events="visible" data-name="IPriceImpactUtils.getTradePriceImpact">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-5836" rx="92.01" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-5831.8" font-family="Times,serif" font-size="14.00">getTradePriceImpact</text>
+</g>
+<!-- ITizzTradingCallbacks.openTradeMarketCallback -->
+<g id="node125" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.openTradeMarketCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6407" rx="114.57" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6402.8" font-family="Times,serif" font-size="14.00">openTradeMarketCallback</text>
+</g>
+<!-- ITizzTradingCallbacks.closeTradeMarketCallback -->
+<g id="node126" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.closeTradeMarketCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6353" rx="115.71" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6348.8" font-family="Times,serif" font-size="14.00">closeTradeMarketCallback</text>
+</g>
+<!-- ITizzTradingCallbacks.executeNftOpenOrderCallback -->
+<g id="node127" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.executeNftOpenOrderCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6299" rx="131.31" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6294.8" font-family="Times,serif" font-size="14.00">executeNftOpenOrderCallback</text>
+</g>
+<!-- ITizzTradingCallbacks.executeNftCloseOrderCallback -->
+<g id="node128" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.executeNftCloseOrderCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6245" rx="132.47" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6240.8" font-family="Times,serif" font-size="14.00">executeNftCloseOrderCallback</text>
+</g>
+<!-- ITizzTradingCallbacks.getTradeLastUpdated -->
+<g id="node129" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.getTradeLastUpdated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-6191" rx="94.88" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6186.8" font-family="Times,serif" font-size="14.00">getTradeLastUpdated</text>
+</g>
+<!-- ITizzTradingCallbacks.setTradeLastUpdated -->
+<g id="node130" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.setTradeLastUpdated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-5975" rx="93.74" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-5970.8" font-family="Times,serif" font-size="14.00">setTradeLastUpdated</text>
+</g>
+<!-- ITizzTradingCallbacks.setTradeData -->
+<g id="node131" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.setTradeData">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6083" rx="62.52" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6078.8" font-family="Times,serif" font-size="14.00">setTradeData</text>
+</g>
+<!-- ITizzTradingCallbacks.canExecuteTimeout -->
+<g id="node132" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.canExecuteTimeout">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-6029" rx="88.01" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6024.8" font-family="Times,serif" font-size="14.00">canExecuteTimeout</text>
+</g>
+<!-- ITizzTradingCallbacks.SimplifiedTradeId -->
+<g id="node133" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.SimplifiedTradeId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-6137" rx="82.24" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-6132.8" font-family="Times,serif" font-size="14.00">SimplifiedTradeId</text>
+</g>
+<!-- ITizzTradingCallbacks.LastUpdated -->
+<g id="node134" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.LastUpdated">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-5867" rx="60.26" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-5862.8" font-family="Times,serif" font-size="14.00">LastUpdated</text>
+</g>
+<!-- ITizzTradingCallbacks.TradeData -->
+<g id="node135" class="node" pointer-events="visible" data-name="ITizzTradingCallbacks.TradeData">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="750.25" cy="-5921" rx="51.56" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-5916.8" font-family="Times,serif" font-size="14.00">TradeData</text>
+</g>
+<!-- IUniswapV3PoolImmutables.factory -->
+<g id="node136" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.factory">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6546" rx="38.26" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6541.8" font-family="Times,serif" font-size="14.00">factory</text>
+</g>
+<!-- IUniswapV3PoolImmutables.token0 -->
+<g id="node137" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.token0">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6492" rx="37.14" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6487.8" font-family="Times,serif" font-size="14.00">token0</text>
+</g>
+<!-- IUniswapV3PoolImmutables.token1 -->
+<g id="node138" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.token1">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6438" rx="37.14" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6433.8" font-family="Times,serif" font-size="14.00">token1</text>
+</g>
+<!-- IUniswapV3PoolImmutables.fee -->
+<g id="node139" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.fee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6384" rx="27" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6379.8" font-family="Times,serif" font-size="14.00">fee</text>
+</g>
+<!-- IUniswapV3PoolImmutables.tickSpacing -->
+<g id="node140" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.tickSpacing">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6330" rx="56.76" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6325.8" font-family="Times,serif" font-size="14.00">tickSpacing</text>
+</g>
+<!-- IUniswapV3PoolImmutables.maxLiquidityPerTick -->
+<g id="node141" class="node" pointer-events="visible" data-name="IUniswapV3PoolImmutables.maxLiquidityPerTick">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6276" rx="94.35" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6271.8" font-family="Times,serif" font-size="14.00">maxLiquidityPerTick</text>
+</g>
+<!-- IUniswapV3PoolState.slot0 -->
+<g id="node142" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.slot0">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7063" rx="29.64" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7058.8" font-family="Times,serif" font-size="14.00">slot0</text>
+</g>
+<!-- IUniswapV3PoolState.feeGrowthGlobal0X128 -->
+<g id="node143" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.feeGrowthGlobal0X128">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7009" rx="104.8" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7004.8" font-family="Times,serif" font-size="14.00">feeGrowthGlobal0X128</text>
+</g>
+<!-- IUniswapV3PoolState.feeGrowthGlobal1X128 -->
+<g id="node144" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.feeGrowthGlobal1X128">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6955" rx="104.8" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6950.8" font-family="Times,serif" font-size="14.00">feeGrowthGlobal1X128</text>
+</g>
+<!-- IUniswapV3PoolState.protocolFees -->
+<g id="node145" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.protocolFees">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6901" rx="60.84" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6896.8" font-family="Times,serif" font-size="14.00">protocolFees</text>
+</g>
+<!-- IUniswapV3PoolState.liquidity -->
+<g id="node146" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.liquidity">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6847" rx="43.53" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6842.8" font-family="Times,serif" font-size="14.00">liquidity</text>
+</g>
+<!-- IUniswapV3PoolState.ticks -->
+<g id="node147" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.ticks">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6793" rx="29.05" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6788.8" font-family="Times,serif" font-size="14.00">ticks</text>
+</g>
+<!-- IUniswapV3PoolState.tickBitmap -->
+<g id="node148" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.tickBitmap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6739" rx="53.9" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6734.8" font-family="Times,serif" font-size="14.00">tickBitmap</text>
+</g>
+<!-- IUniswapV3PoolState.positions -->
+<g id="node149" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.positions">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6685" rx="45.83" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6680.8" font-family="Times,serif" font-size="14.00">positions</text>
+</g>
+<!-- IUniswapV3PoolState.observations -->
+<g id="node150" class="node" pointer-events="visible" data-name="IUniswapV3PoolState.observations">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6631" rx="59.7" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6626.8" font-family="Times,serif" font-size="14.00">observations</text>
+</g>
+<!-- IUniswapV3PoolDerivedState.observe -->
+<g id="node151" class="node" pointer-events="visible" data-name="IUniswapV3PoolDerivedState.observe">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7202" rx="41.14" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7197.8" font-family="Times,serif" font-size="14.00">observe</text>
+</g>
+<!-- IUniswapV3PoolDerivedState.snapshotCumulativesInside -->
+<g id="node152" class="node" pointer-events="visible" data-name="IUniswapV3PoolDerivedState.snapshotCumulativesInside">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7148" rx="117.01" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7143.8" font-family="Times,serif" font-size="14.00">snapshotCumulativesInside</text>
+</g>
+<!-- IUniswapV3PoolActions.initialize -->
+<g id="node153" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.initialize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7611" rx="44.64" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7606.8" font-family="Times,serif" font-size="14.00">initialize</text>
+</g>
+<!-- IUniswapV3PoolActions.mint -->
+<g id="node154" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.mint">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7557" rx="28.99" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7552.8" font-family="Times,serif" font-size="14.00">mint</text>
+</g>
+<!-- IUniswapV3PoolActions.collect -->
+<g id="node155" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.collect">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7503" rx="36.55" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7498.8" font-family="Times,serif" font-size="14.00">collect</text>
+</g>
+<!-- IUniswapV3PoolActions.burn -->
+<g id="node156" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.burn">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7449" rx="28.98" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7444.8" font-family="Times,serif" font-size="14.00">burn</text>
+</g>
+<!-- IUniswapV3PoolActions.swap -->
+<g id="node157" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.swap">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7395" rx="30.77" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7390.8" font-family="Times,serif" font-size="14.00">swap</text>
+</g>
+<!-- IUniswapV3PoolActions.flash -->
+<g id="node158" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.flash">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7341" rx="29.62" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7336.8" font-family="Times,serif" font-size="14.00">flash</text>
+</g>
+<!-- IUniswapV3PoolActions.increaseObservationCardinalityNext -->
+<g id="node159" class="node" pointer-events="visible" data-name="IUniswapV3PoolActions.increaseObservationCardinalityNext">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7287" rx="152.17" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7282.8" font-family="Times,serif" font-size="14.00">increaseObservationCardinalityNext</text>
+</g>
+<!-- IUniswapV3PoolOwnerActions.setFeeProtocol -->
+<g id="node160" class="node" pointer-events="visible" data-name="IUniswapV3PoolOwnerActions.setFeeProtocol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7750" rx="68.36" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7745.8" font-family="Times,serif" font-size="14.00">setFeeProtocol</text>
+</g>
+<!-- IUniswapV3PoolOwnerActions.collectProtocol -->
+<g id="node161" class="node" pointer-events="visible" data-name="IUniswapV3PoolOwnerActions.collectProtocol">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7696" rx="69.49" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7691.8" font-family="Times,serif" font-size="14.00">collectProtocol</text>
+</g>
+<!-- ITizzBorrowingFees.getTradeBorrowingFee -->
+<g id="node166" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.getTradeBorrowingFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2395" rx="101.27" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2390.8" font-family="Times,serif" font-size="14.00">getTradeBorrowingFee</text>
+</g>
+<!-- ITizzBorrowingFees.handleTradeAction -->
+<g id="node167" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.handleTradeAction">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2341" rx="85.65" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2336.8" font-family="Times,serif" font-size="14.00">handleTradeAction</text>
+</g>
+<!-- ITizzBorrowingFees.getPairMaxOi -->
+<g id="node168" class="node" pointer-events="visible" data-name="ITizzBorrowingFees.getPairMaxOi">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="750.25" cy="-2287" rx="66" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2282.8" font-family="Times,serif" font-size="14.00">getPairMaxOi</text>
+</g>
+<!-- ITizzOracleRewards.unregisterTrigger -->
+<g id="node174" class="node" pointer-events="visible" data-name="ITizzOracleRewards.unregisterTrigger">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3274" rx="78.71" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3269.8" font-family="Times,serif" font-size="14.00">unregisterTrigger</text>
+</g>
+<!-- ITizzOracleRewards.distributeOracleReward -->
+<g id="node175" class="node" pointer-events="visible" data-name="ITizzOracleRewards.distributeOracleReward">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3220" rx="103.06" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3215.8" font-family="Times,serif" font-size="14.00">distributeOracleReward</text>
+</g>
+<!-- ITizzOracleRewards.openLimitOrderTypes -->
+<g id="node176" class="node" pointer-events="visible" data-name="ITizzOracleRewards.openLimitOrderTypes">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-3166" rx="97.28" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-3161.8" font-family="Times,serif" font-size="14.00">openLimitOrderTypes</text>
+</g>
+<!-- IWBTC.deposit -->
+<g id="node177" class="node" pointer-events="visible" data-name="IWBTC.deposit">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="168.09" cy="-7889" rx="38.86" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7884.8" font-family="Times,serif" font-size="14.00">deposit</text>
+</g>
+<!-- IWBTC.withdraw -->
+<g id="node178" class="node" pointer-events="visible" data-name="IWBTC.withdraw">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7835" rx="47.52" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7830.8" font-family="Times,serif" font-size="14.00">withdraw</text>
+</g>
+<!-- IArbSys.arbBlockNumber -->
+<g id="node183" class="node" pointer-events="visible" data-name="IArbSys.arbBlockNumber">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="1084.52" cy="-2063" rx="78.16" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2058.8" font-family="Times,serif" font-size="14.00">arbBlockNumber</text>
+</g>
+<!-- ChainUtils.getBlockNumber&#45;&gt;IArbSys.arbBlockNumber -->
+<g id="edge129" class="edge" data-name="ChainUtils.getBlockNumber-&gt;IArbSys.arbBlockNumber">
+
+<path fill="none" stroke="white" stroke-width="2" d="M811.75,-2135.86C836.28,-2130.71 864.81,-2124.41 890.48,-2118 934.67,-2106.96 984.07,-2092.85 1021.83,-2081.69"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="1022.67,-2085.09 1031.26,-2078.89 1020.68,-2078.38 1022.67,-2085.09"/>
+</g>
+<!-- ChainUtils.getUint48BlockNumber -->
+<g id="node180" class="node" pointer-events="visible" data-name="ChainUtils.getUint48BlockNumber">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="750.25" cy="-2202" rx="104.24" ry="18"/>
+<text text-anchor="middle" x="750.25" y="-2197.8" font-family="Times,serif" font-size="14.00">getUint48BlockNumber</text>
+</g>
+<!-- ChainUtils.type -->
+<g id="node181" class="node" pointer-events="visible" data-name="ChainUtils.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1084.52" cy="-2202" rx="27.83" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2197.8" font-family="Times,serif" font-size="14.00">type</text>
+</g>
+<!-- ChainUtils.getUint48BlockNumber&#45;&gt;ChainUtils.type -->
+<g id="edge130" class="edge" data-name="ChainUtils.getUint48BlockNumber-&gt;ChainUtils.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M855.92,-2202C919.29,-2202 996.54,-2202 1042.79,-2202"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1042.51,-2205.5 1052.51,-2202 1042.51,-2198.5 1042.51,-2205.5"/>
+</g>
+<!-- ChainUtils.Overflow -->
+<g id="node182" class="node" pointer-events="visible" data-name="ChainUtils.Overflow">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="1084.52" cy="-2148" rx="48.08" ry="18"/>
+<text text-anchor="middle" x="1084.52" y="-2143.8" font-family="Times,serif" font-size="14.00">Overflow</text>
+</g>
+<!-- ChainUtils.getUint48BlockNumber&#45;&gt;ChainUtils.Overflow -->
+<g id="edge131" class="edge" data-name="ChainUtils.getUint48BlockNumber-&gt;ChainUtils.Overflow">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M827.75,-2188.82C853.97,-2184.36 883.5,-2179.39 910.48,-2175 948.76,-2168.77 991.86,-2162.04 1025.47,-2156.86"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="1025.97,-2160.33 1035.32,-2155.35 1024.91,-2153.41 1025.97,-2160.33"/>
+</g>
+<!-- TradeUtils._getTradeLastUpdated -->
+<g id="node184" class="node" pointer-events="visible" data-name="TradeUtils._getTradeLastUpdated">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="469.09" cy="-6191" rx="99.54" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-6186.8" font-family="Times,serif" font-size="14.00">_getTradeLastUpdated</text>
+</g>
+<!-- TradeUtils._getTradeLastUpdated&#45;&gt;ITizzTradingCallbacks.getTradeLastUpdated -->
+<g id="edge132" class="edge" data-name="TradeUtils._getTradeLastUpdated-&gt;ITizzTradingCallbacks.getTradeLastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M570.08,-6191C593.18,-6191 617.86,-6191 641.28,-6191"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="641.12,-6194.5 651.12,-6191 641.12,-6187.5 641.12,-6194.5"/>
+</g>
+<!-- TradeUtils._getTradeLastUpdated&#45;&gt;ITizzTradingCallbacks.SimplifiedTradeId -->
+<g id="edge133" class="edge" data-name="TradeUtils._getTradeLastUpdated-&gt;ITizzTradingCallbacks.SimplifiedTradeId">
+
+<path fill="none" stroke="white" stroke-width="2" d="M540.89,-6177.3C581.21,-6169.51 631.73,-6159.73 672.93,-6151.76"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="673.54,-6155.21 682.7,-6149.87 672.21,-6148.34 673.54,-6155.21"/>
+</g>
+<!-- TradeUtils.setTradeLastUpdated -->
+<g id="node185" class="node" pointer-events="visible" data-name="TradeUtils.setTradeLastUpdated">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6029" rx="93.74" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6024.8" font-family="Times,serif" font-size="14.00">setTradeLastUpdated</text>
+</g>
+<!-- TradeUtils.setTradeLastUpdated&#45;&gt;ITizzTradingCallbacks.setTradeLastUpdated -->
+<g id="edge134" class="edge" data-name="TradeUtils.setTradeLastUpdated-&gt;ITizzTradingCallbacks.setTradeLastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M262.76,-6027.34C286.24,-6022.88 309.91,-6014.4 328.17,-5999 354.99,-5976.38 326.87,-5945.03 355.68,-5925 438.45,-5867.46 487.74,-5890.6 582.5,-5925 597.48,-5930.44 595.62,-5941.16 610.01,-5948 623.56,-5954.44 638.55,-5959.35 653.52,-5963.09"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="652.59,-5966.46 663.12,-5965.28 654.15,-5959.64 652.59,-5966.46"/>
+</g>
+<!-- TradeUtils.setTradeLastUpdated&#45;&gt;ITizzTradingCallbacks.SimplifiedTradeId -->
+<g id="edge135" class="edge" data-name="TradeUtils.setTradeLastUpdated-&gt;ITizzTradingCallbacks.SimplifiedTradeId">
+
+<path fill="none" stroke="white" stroke-width="2" d="M263,-6027.66C349.51,-6029.73 479.67,-6041.34 582.5,-6087 597.07,-6093.47 595.62,-6103.16 610.01,-6110 625.76,-6117.49 643.44,-6122.9 660.8,-6126.81"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="659.87,-6130.2 670.37,-6128.79 661.29,-6123.34 659.87,-6130.2"/>
+</g>
+<!-- TradeUtils.setTradeLastUpdated&#45;&gt;ITizzTradingCallbacks.LastUpdated -->
+<g id="edge136" class="edge" data-name="TradeUtils.setTradeLastUpdated-&gt;ITizzTradingCallbacks.LastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M263.2,-6028.92C286.95,-6024.51 310.65,-6015.66 328.17,-5999 365.94,-5963.08 315.48,-5918.17 355.68,-5885 451.3,-5806.1 608.81,-5829.9 692.63,-5850.53"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="691.7,-5853.9 702.25,-5852.98 693.43,-5847.12 691.7,-5853.9"/>
+</g>
+<!-- TradeUtils.setSlLastUpdated -->
+<g id="node186" class="node" pointer-events="visible" data-name="TradeUtils.setSlLastUpdated">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6191" rx="79.32" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6186.8" font-family="Times,serif" font-size="14.00">setSlLastUpdated</text>
+</g>
+<!-- TradeUtils.setSlLastUpdated&#45;&gt;ITizzTradingCallbacks.setTradeLastUpdated -->
+<g id="edge138" class="edge" data-name="TradeUtils.setSlLastUpdated-&gt;ITizzTradingCallbacks.setTradeLastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M248.76,-6191.67C276.09,-6188.42 305.49,-6180.68 328.17,-6164 349.87,-6148.05 334.48,-6126.61 355.68,-6110 437.17,-6046.15 501.25,-6121.15 582.5,-6057 603.96,-6040.06 588.24,-6018.53 610.01,-6002 620.82,-5993.79 633.43,-5987.87 646.57,-5983.62"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="647.16,-5987.09 655.83,-5981.01 645.25,-5980.36 647.16,-5987.09"/>
+</g>
+<!-- TradeUtils.setSlLastUpdated&#45;&gt;TradeUtils._getTradeLastUpdated -->
+<g id="edge137" class="edge" data-name="TradeUtils.setSlLastUpdated-&gt;TradeUtils._getTradeLastUpdated">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M248.82,-6191C281.49,-6191 319.88,-6191 355.33,-6191"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="355.22,-6194.5 365.22,-6191 355.22,-6187.5 355.22,-6194.5"/>
+</g>
+<!-- TradeUtils.setTpLastUpdated -->
+<g id="node187" class="node" pointer-events="visible" data-name="TradeUtils.setTpLastUpdated">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6137" rx="81.66" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6132.8" font-family="Times,serif" font-size="14.00">setTpLastUpdated</text>
+</g>
+<!-- TradeUtils.setTpLastUpdated&#45;&gt;ITizzTradingCallbacks.setTradeLastUpdated -->
+<g id="edge140" class="edge" data-name="TradeUtils.setTpLastUpdated-&gt;ITizzTradingCallbacks.setTradeLastUpdated">
+
+<path fill="none" stroke="white" stroke-width="2" d="M250.11,-6134.32C276.37,-6130.63 304.74,-6123.48 328.17,-6110 344.72,-6100.48 339.72,-6087.49 355.68,-6077 454.17,-6012.28 495.52,-6029.92 610.01,-6002 627.71,-5997.68 646.81,-5993.61 665.02,-5989.99"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="665.66,-5993.44 674.8,-5988.09 664.32,-5986.56 665.66,-5993.44"/>
+</g>
+<!-- TradeUtils.setTpLastUpdated&#45;&gt;TradeUtils._getTradeLastUpdated -->
+<g id="edge139" class="edge" data-name="TradeUtils.setTpLastUpdated-&gt;TradeUtils._getTradeLastUpdated">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M236.1,-6148.03C264.52,-6152.8 297.99,-6158.53 328.17,-6164 346.66,-6167.35 366.5,-6171.09 385.26,-6174.7"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="384.59,-6178.13 395.07,-6176.59 385.92,-6171.26 384.59,-6178.13"/>
+</g>
+<!-- TradeUtils.setLimitMaxSlippageP -->
+<g id="node188" class="node" pointer-events="visible" data-name="TradeUtils.setLimitMaxSlippageP">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-6083" rx="100.18" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-6078.8" font-family="Times,serif" font-size="14.00">setLimitMaxSlippageP</text>
+</g>
+<!-- TradeUtils.setLimitMaxSlippageP&#45;&gt;ITizzTradingCallbacks.SimplifiedTradeId -->
+<g id="edge142" class="edge" data-name="TradeUtils.setLimitMaxSlippageP-&gt;ITizzTradingCallbacks.SimplifiedTradeId">
+
+<path fill="none" stroke="white" stroke-width="2" d="M267.47,-6086.78C351.38,-6090.64 475.12,-6097.83 582.5,-6110 611.82,-6113.32 643.84,-6118.2 671.91,-6122.9"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="671.08,-6126.31 681.53,-6124.54 672.26,-6119.41 671.08,-6126.31"/>
+</g>
+<!-- TradeUtils.setLimitMaxSlippageP&#45;&gt;ITizzTradingCallbacks.TradeData -->
+
+<g id="edge143" class="edge" data-name="TradeUtils.setLimitMaxSlippageP-&gt;ITizzTradingCallbacks.TradeData">
+
+<path fill="none" stroke="white" stroke-width="2" d="M251.92,-6072.12C276.67,-6068.02 303.72,-6062.69 328.17,-6056 457.56,-6020.6 481.04,-5984.91 610.01,-5948 635.29,-5940.76 663.72,-5934.87 688.26,-5930.45"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="688.84,-5933.9 698.09,-5928.73 687.64,-5927.01 688.84,-5933.9"/>
+</g>
+
+<!-- TradeUtils.type -->
+
+<g id="node189" class="node" pointer-events="visible" data-name="TradeUtils.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="469.09" cy="-6137" rx="27.83" ry="18"/>
+<text text-anchor="middle" x="469.09" y="-6132.8" font-family="Times,serif" font-size="14.00">type</text>
+</g>
+
+<!-- TradeUtils.setLimitMaxSlippageP&#45;&gt;TradeUtils.type -->
+
+<g id="edge141" class="edge" data-name="TradeUtils.setLimitMaxSlippageP-&gt;TradeUtils.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.21,-6095.56C271.51,-6100 301.16,-6105.1 328.17,-6110 362.11,-6116.15 400.58,-6123.61 428.58,-6129.13"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.58,-6132.5 438.07,-6131.01 428.94,-6125.63 427.58,-6132.5"/>
+</g>
+
+<!-- PackingUtils.pack -->
+
+<g id="node190" class="node" pointer-events="visible" data-name="PackingUtils.pack">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8190" rx="29.03" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8185.8" font-family="Times,serif" font-size="14.00">pack</text>
+</g>
+
+<!-- PackingUtils.unpack -->
+
+<g id="node191" class="node" pointer-events="visible" data-name="PackingUtils.unpack">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8136" rx="38.85" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8131.8" font-family="Times,serif" font-size="14.00">unpack</text>
+</g>
+
+<!-- PackingUtils.unpack256To64 -->
+
+<g id="node192" class="node" pointer-events="visible" data-name="PackingUtils.unpack256To64">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8082" rx="73.59" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8077.8" font-family="Times,serif" font-size="14.00">unpack256To64</text>
+</g>
+
+<!-- PackingUtils.unpackExecuteNftOrder -->
+
+<g id="node193" class="node" pointer-events="visible" data-name="PackingUtils.unpackExecuteNftOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8028" rx="105.33" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8023.8" font-family="Times,serif" font-size="14.00">unpackExecuteNftOrder</text>
+</g>
+
+<!-- PackingUtils.packExecuteNftOrder -->
+
+<g id="node194" class="node" pointer-events="visible" data-name="PackingUtils.packExecuteNftOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-7974" rx="95.51" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-7969.8" font-family="Times,serif" font-size="14.00">packExecuteNftOrder</text>
+</g>
+
+<!-- Delegatable.setDelegate -->
+
+<g id="node196" class="node" pointer-events="visible" data-name="Delegatable.setDelegate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8437" rx="56.15" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8432.8" font-family="Times,serif" font-size="14.00">setDelegate</text>
+</g>
+
+<!-- Delegatable.removeDelegate -->
+
+<g id="node197" class="node" pointer-events="visible" data-name="Delegatable.removeDelegate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8383" rx="74.11" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8378.8" font-family="Times,serif" font-size="14.00">removeDelegate</text>
+</g>
+
+<!-- Delegatable.delegatedAction -->
+
+<g id="node198" class="node" pointer-events="visible" data-name="Delegatable.delegatedAction">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="168.09" cy="-8329" rx="74.13" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8324.8" font-family="Times,serif" font-size="14.00">delegatedAction</text>
+</g>
+
+<!-- Delegatable._msgSender -->
+
+<g id="node199" class="node" pointer-events="visible" data-name="Delegatable._msgSender">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="168.09" cy="-8275" rx="58.56" ry="18"/>
+<text text-anchor="middle" x="168.09" y="-8270.8" font-family="Times,serif" font-size="14.00">_msgSender</text>
+</g>
+
+<!-- key -->
+
+<g id="node204" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="233.09,-8592 103.09,-8592 103.09,-8504 233.09,-8504 233.09,-8592"/>
+<text text-anchor="start" x="152.72" y="-8573.4" font-family="Times,serif" font-size="14.00">Internal Call</text>
+<text text-anchor="start" x="148.83" y="-8553.4" font-family="Times,serif" font-size="14.00">External Call</text>
+<text text-anchor="start" x="126.29" y="-8533.4" font-family="Times,serif" font-size="14.00">Defined Contract</text>
+<text text-anchor="start" x="112.69" y="-8513.4" font-family="Times,serif" font-size="14.00">Undefined Contract</text>
+</g>
+
+<!-- key2 -->
+
+<g id="node205" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="496.09,-8592 442.09,-8592 442.09,-8504 496.09,-8504 496.09,-8592"/>
+<text text-anchor="start" x="459.09" y="-8573.4" font-family="Times,serif" font-size="14.00">   </text>
+<text text-anchor="start" x="459.09" y="-8553.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="#445773" stroke="none" points="457.09,-8528 457.09,-8548 482.09,-8548 482.09,-8528 457.09,-8528"/>
+<text text-anchor="start" x="459.09" y="-8533.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="none" stroke="#e8726d" points="459.09,-8510 459.09,-8526 480.09,-8526 480.09,-8510 459.09,-8510"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+<g id="edge144" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M226.09,-8578C323.92,-8578 351.53,-8578 443.33,-8578"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="443.06,-8581.5 453.06,-8578 443.06,-8574.5 443.06,-8581.5"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+
+<g id="edge145" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M226.09,-8558C323.92,-8558 351.53,-8558 443.33,-8558" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="443.06,-8561.5 453.06,-8558 443.06,-8554.5 443.06,-8561.5"/>
+</g>
+</g>
+</svg>

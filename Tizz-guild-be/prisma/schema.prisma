@@ -1,0 +1,306 @@
+// schema.prisma
+
+datasource db {
+   provider = "mysql"
+   url      = env("DATABASE_URL")
+}
+
+generator client {
+   provider = "prisma-client-js"
+}
+
+model User {
+   id                         Int                          @id @default(autoincrement())
+   wallet_address             String                       @unique
+   ensName                    String?                      @unique
+   signature                  String?
+   bio                        String?
+   telegram                   String?
+   twitter                    String?
+   discord                    String?
+   github                     String?
+   website                    String?
+   pfp                        String?
+   rank                       Int?
+   is_suspended               Boolean                      @default(false)
+   role                       String                       @default("user")
+   created_at                 DateTime                     @default(now())
+   updated_at                 DateTime                     @default(now()) @updatedAt
+   ownedGuilds                Guild[]
+   guildMembers               GuildMembers[]
+   tradingActivities          UserTradingActivity[]
+   notifications              Notification[]
+   ownershipTransfersOldOwner GuildOwnershipTransfers[]    @relation("oldOwner")
+   ownershipTransfersNewOwner GuildOwnershipTransfers[]    @relation("newOwner")
+   membershipActions          GuildMembershipActions[]     @relation("MembershipUser")
+   initiatedMembershipActions GuildMembershipActions[]     @relation("MembershipInitiatedBy")
+   UserTaskParticipation      UserTaskParticipation[]
+   UserWins                   UserWins[]
+   GeneralTradingActivity     UserGeneralTradingActivity[]
+   UserOverAllWins            UserOverAllWins[]
+   RefreshToken               RefreshToken[]
+
+   @@map("Users")
+}
+
+model AdminActionApproval {
+   id          Int      @id @default(autoincrement())
+   actionType  String // e.g., 'REMOVE_USER', 'SUSPEND_USER', etc.
+   entityId    Int // e.g., User ID for remove/suspend/activate, Round ID for trading actions
+   initiatedBy Int // Admin ID who initiated the action
+   status      String // e.g., 'PENDING', 'APPROVED', 'REJECTED'
+   createdAt   DateTime @default(now())
+   updatedAt   DateTime @default(now()) @updatedAt
+
+   @@index([actionType, entityId, status], name: "action_entity_status_idx")
+}
+
+model Guild {
+   guild_id               Int                       @id @default(autoincrement())
+   name                   String                    @unique
+   description            String?
+   telegram               String?
+   twitter                String?
+   discord                String?
+   website                String?
+   picture                String?                   @db.VarChar(520)
+   rank                   Int?
+   owner_user_id          Int
+   owner                  User                      @relation(fields: [owner_user_id], references: [id])
+   created_at             DateTime                  @default(now())
+   updated_at             DateTime                  @default(now()) @updatedAt
+   guildMembers           GuildMembers[]
+   // tradingActivities      GuildTradingActivity[]
+   ownershipTransfers     GuildOwnershipTransfers[]
+   GuildMembershipActions GuildMembershipActions[]
+   GuildTaskParticipation GuildTaskParticipation[]
+
+   @@map("Guilds")
+}
+
+model GuildOwnershipTransfers {
+   transfer_id  Int       @id @default(autoincrement())
+   guild_id     Int
+   old_owner_id Int
+   new_owner_id Int
+   status       Status    @default(PENDING)
+   requested_at DateTime  @default(now())
+   responded_at DateTime?
+   guild        Guild     @relation(fields: [guild_id], references: [guild_id])
+   oldOwner     User      @relation("oldOwner", fields: [old_owner_id], references: [id])
+   newOwner     User      @relation("newOwner", fields: [new_owner_id], references: [id])
+}
+
+model GuildMembers {
+   guild_member_id Int      @id @default(autoincrement())
+   guild_id        Int
+   user_id         Int
+   joined_at       DateTime @default(now())
+   is_active       Boolean  @default(false)
+   guild           Guild    @relation(fields: [guild_id], references: [guild_id])
+   user            User     @relation(fields: [user_id], references: [id])
+
+   @@unique([guild_id, user_id], name: "guild_id_user_id")
+}
+
+model GuildMembershipActions {
+   action_id       Int        @id @default(autoincrement())
+   guild_id        Int
+   user_id         Int // The user making the request or being invited
+   action_type     ActionType // "REQUEST_TO_JOIN", "INVITATION"
+   status          Status // "PENDING", "ACCEPTED", "REJECTED"
+   initiated_by_id Int // The user who initiated the action (e.g., guild owner for invitations)
+   created_at      DateTime   @default(now())
+   updated_at      DateTime   @default(now()) @updatedAt
+   guild           Guild      @relation(fields: [guild_id], references: [guild_id])
+   user            User       @relation(name: "MembershipUser", fields: [user_id], references: [id])
+   initiatedBy     User       @relation(name: "MembershipInitiatedBy", fields: [initiated_by_id], references: [id])
+
+   @@index([guild_id, user_id, action_type, status], name: "guild_user_action_status_idx")
+}
+
+model Notification {
+   id        Int      @id @default(autoincrement())
+   userId    Int
+   message   String
+   type      String
+   isRead    Boolean  @default(false)
+   createdAt DateTime @default(now())
+   user      User     @relation(fields: [userId], references: [id])
+
+   @@map("notifications")
+}
+
+model TradingRounds {
+   round_id       Int                   @id @default(autoincrement())
+   start_time     DateTime
+   end_time       DateTime
+   is_active      Boolean               @default(false)
+   created_at     DateTime              @default(now())
+   userActivities UserTradingActivity[]
+   userWins       UserWins[]
+   // guildActivities GuildTradingActivity[]
+}
+
+model UserTradingActivity {
+   activity_id        Int           @id @default(autoincrement())
+   user_id            Int
+   round_id           Int
+   volume             String        @db.VarChar(256)
+   pnl                String        @db.VarChar(256)
+   points             Int
+   type               String
+   leverage           Float
+   collateralPriceUsd Float
+   pair               String
+   timestamp          DateTime
+   tradeID            String        @unique
+   created_at         DateTime      @default(now())
+   user               User          @relation(fields: [user_id], references: [id])
+   round              TradingRounds @relation(fields: [round_id], references: [round_id])
+}
+
+model UserGeneralTradingActivity {
+   activity_id Int      @id @default(autoincrement())
+   user_id     Int
+   volume      String   @db.VarChar(256)
+   pnl         String   @db.VarChar(256)
+   points      Int
+   type        String
+   leverage    Float
+   pair        String
+   timestamp   DateTime
+   tradeID     String   @unique
+   created_at  DateTime @default(now())
+   user        User     @relation(fields: [user_id], references: [id])
+}
+
+model LastProcessedTimestamp {
+   id                Int       @id @default(autoincrement())
+   timestamp         DateTime  @default(now())
+   timeStampUserWins DateTime? @default(now())
+}
+
+model UserWins {
+   id         Int           @id @default(autoincrement())
+   user_id    Int
+   round_id   Int
+   wins       Int
+   tradeCount Int
+   volume     String        @db.VarChar(256)
+   pnl        String        @db.VarChar(256)
+   created_at DateTime      @default(now())
+   user       User          @relation(fields: [user_id], references: [id])
+   round      TradingRounds @relation(fields: [round_id], references: [round_id])
+
+   @@unique([user_id, round_id], name: "user_round_unique")
+   @@index([user_id, round_id], name: "user_round_idx")
+}
+
+model UserOverAllWins {
+   id         Int      @id @default(autoincrement())
+   user_id    Int      @unique
+   wins       Int
+   tradeCount Int
+   volume     String   @db.VarChar(256)
+   pnl        String   @db.VarChar(256)
+   created_at DateTime @default(now())
+   user       User     @relation(fields: [user_id], references: [id])
+
+   @@index([user_id], name: "user_idx")
+}
+
+// model GuildTradingActivity {
+//    activity_id Int           @id @default(autoincrement())
+//    guild_id    Int
+//    round_id    Int
+//    volume      Float
+//    pnl         Float
+//    created_at  DateTime      @default(now())
+//    guild       Guild         @relation(fields: [guild_id], references: [guild_id])
+//    round       TradingRounds @relation(fields: [round_id], references: [round_id])
+// }
+
+model Event {
+   id           Int          @id @default(autoincrement())
+   name         String
+   description  String
+   eventType    EventType    @default(USER) // USER or GUILD
+   categoryType CategoryType @default(Nectar) // Nectar or Pollen
+   createdAt    DateTime     @default(now())
+   Task         Task[]
+}
+
+model Task {
+   id          Int                      @id @default(autoincrement())
+   eventId     Int
+   name        String
+   description String
+   points      Int // Points awarded for completing this task
+   createdAt   DateTime                 @default(now())
+   event       Event                    @relation(fields: [eventId], references: [id])
+   userTasks   UserTaskParticipation[]
+   guildTasks  GuildTaskParticipation[]
+}
+
+model UserTaskParticipation {
+   id            Int      @id @default(autoincrement())
+   userId        Int
+   taskId        Int
+   completed     Boolean  @default(false)
+   pointsAwarded Int?
+   createdAt     DateTime @default(now())
+
+   task Task @relation(fields: [taskId], references: [id])
+   user User @relation(fields: [userId], references: [id])
+
+   @@unique([userId, taskId])
+}
+
+model GuildTaskParticipation {
+   id            Int      @id @default(autoincrement())
+   guildId       Int
+   taskId        Int
+   completed     Boolean  @default(false)
+   pointsAwarded Int?
+   createdAt     DateTime @default(now())
+
+   task  Task  @relation(fields: [taskId], references: [id])
+   guild Guild @relation(fields: [guildId], references: [guild_id])
+
+   @@unique([guildId, taskId])
+}
+
+model RefreshToken {
+   id        Int      @id @default(autoincrement())
+   userId    Int
+   user      User     @relation(fields: [userId], references: [id])
+   token     String   @unique
+   createdAt DateTime @default(now())
+   expiresAt DateTime
+
+   @@map("RefreshTokens")
+}
+
+// enums
+
+enum Status {
+   PENDING
+   ACCEPTED
+   REJECTED
+}
+
+enum ActionType {
+   REQUEST_TO_JOIN
+   INVITATION
+}
+
+enum EventType {
+   USER
+   GUILD
+}
+
+enum CategoryType {
+   Nectar
+   Pollen
+}

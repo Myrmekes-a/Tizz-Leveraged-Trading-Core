@@ -1,0 +1,10 @@
+[
+  "event Initialized(uint8 version)",
+  "event OwnershipTransferStarted(address indexed previousOwner, address indexed newOwner)",
+  "event OwnershipTransferred(address indexed previousOwner, address indexed newOwner)",
+  "function acceptOwnership()",
+  "function owner() view returns (address)",
+  "function pendingOwner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address newOwner)"
+]

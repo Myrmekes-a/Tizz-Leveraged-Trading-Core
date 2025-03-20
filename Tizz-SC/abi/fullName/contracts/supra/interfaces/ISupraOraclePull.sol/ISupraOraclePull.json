@@ -1,0 +1,3 @@
+[
+  "function verifyOracleProof(bytes _bytesproof) returns (tuple(uint256[] pairs, uint256[] prices, uint256[] decimals))"
+]

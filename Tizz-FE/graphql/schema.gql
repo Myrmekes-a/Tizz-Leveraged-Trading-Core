@@ -1,0 +1,101 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type User {
+  id: String!
+  address: String!
+  since: Float!
+  total_bets: Float
+  total_bet_amount: Float
+  bull_bet_amount: Float
+  bear_bet_amount: Float
+  win_bets: Float
+  claimed_amount: Float
+  bets: [Bet!]
+}
+
+type Round {
+  id: String!
+  market: String!
+  epoch: Float!
+  started_at: Float!
+  locked_at: Float!
+  ended_at: Float!
+  lock_price: Float
+  end_price: Float
+  total_bet_amount: Float
+  bull_bet_amount: Float
+  bear_bet_amount: Float
+  total_users: Float
+  bull_users: Float
+  bear_users: Float
+  bets: [Bet!]
+}
+
+type Bet {
+  id: String!
+  market: String!
+  user: User!
+  round: Round!
+  amount: Float!
+  position: Float!
+  claimed: Boolean
+  claimedAmount: Float
+  hash: String!
+}
+
+type Query {
+  users(where: UserFilterInput, orderBy: OrderByInput): [User!]!
+  user(id: String!): User
+  bets(where: BetFilterInput): [Bet!]!
+  bet(id: String!): Bet!
+  rounds(where: RoundFilterInput): [Round!]!
+  round(id: String!): Round!
+}
+
+input UserFilterInput {
+  id: ID
+  address: String
+  since: Float
+  since_gt: Float
+  since_gte: Float
+  since_lt: Float
+  since_lte: Float
+}
+
+input OrderByInput {
+  field: String!
+  direction: OrderDirection!
+}
+
+"""
+Sorting order direction
+"""
+enum OrderDirection {
+  ASC
+  DESC
+}
+
+input BetFilterInput {
+  id: ID
+  user: String
+  round: Int
+  position: Int
+  claimed: Boolean
+}
+
+input RoundFilterInput {
+  id: ID
+  epoch: Int
+  epoch_gt: Float
+  epoch_gte: Float
+  epoch_lt: Float
+  epoch_lte: Float
+}
+
+type Subscription {
+  newUser: User!
+  newBet: Bet!
+  newRound: Round!
+}

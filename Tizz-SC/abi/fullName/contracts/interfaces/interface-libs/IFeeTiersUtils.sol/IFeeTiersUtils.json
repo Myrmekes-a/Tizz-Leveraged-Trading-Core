@@ -1,0 +1,11 @@
+[
+  "event FeeTiersUpdated(uint256[] feeTiersIndices, tuple(uint32 feeMultiplier, uint32 pointsThreshold)[] feeTiers)",
+  "event GroupVolumeMultipliersUpdated(uint256[] groupIndices, uint256[] groupVolumeMultipliers)",
+  "event TraderDailyPointsIncreased(address indexed trader, uint32 indexed day, uint224 points)",
+  "event TraderFeeMultiplierCached(address indexed trader, uint32 indexed day, uint32 feeMultiplier)",
+  "event TraderInfoFirstUpdate(address indexed trader, uint32 day)",
+  "event TraderInfoUpdated(address indexed trader, tuple(uint32 lastDayUpdated, uint224 trailingPoints) traderInfo)",
+  "event TraderTrailingPointsExpired(address indexed trader, uint32 fromDay, uint32 toDay, uint224 amount)",
+  "function calculateFeeAmount(address trader, uint256 normalFeeAmount) view returns (uint256)",
+  "function updateTraderPoints(address trader, uint256 volumeUsd, uint256 pairIndex)"
+]

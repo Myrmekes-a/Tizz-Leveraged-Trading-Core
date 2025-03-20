@@ -1,0 +1,36 @@
+{
+  "name": "tizz-be",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "sdk:generate-types": "cd ./sdk && yarn generate-types",
+    "build:db": " cd ./database && yarn build",
+    "prebuild": "yarn sdk:generate-types && yarn build:db && cd ./sdk && yarn build",
+    "dev:service": "cd ./service && yarn dev:watch",
+    "dev:api": "cd ./api && yarn dev:watch",
+    "build:service": "yarn prebuild && cd ./service && yarn build",
+    "build:api": "yarn prebuild && cd ./api && yarn build",
+    "prod:service": "cd ./service && yarn start",
+    "prod:supra": "cd ./service && yarn start:supra",
+    "prod:api": "cd ./api && yarn start",
+    "get-version": "cat package.json | jq -r '.version'"
+  },
+  "author": "Leggo Builders",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@tizz/api": "*",
+    "@tizz/database": "*",
+    "@tizz/sdk": "*",
+    "@tizz/service": "*"
+  },
+  "resolutions": {},
+  "workspaces": {
+    "packages": [
+      "api",
+      "database",
+      "sdk",
+      "service"
+    ]
+  }
+}

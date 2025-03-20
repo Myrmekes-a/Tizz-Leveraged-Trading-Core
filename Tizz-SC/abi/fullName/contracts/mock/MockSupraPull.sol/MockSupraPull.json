@@ -1,0 +1,6 @@
+[
+  "constructor(address _supraPull)",
+  "function getLastPriceData() view returns (tuple(uint256[] pairs, uint256[] prices, uint256[] decimals))",
+  "function supraPull() view returns (address)",
+  "function verifyOracleProof(bytes _bytesproof)"
+]

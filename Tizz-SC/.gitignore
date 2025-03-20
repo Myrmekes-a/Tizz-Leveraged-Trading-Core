@@ -1,0 +1,20 @@
+node_modules
+package-lock.json
+.env
+
+# Hardhat files
+/cache
+/artifacts
+/c_artifacts
+/c_abi
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+#bun
+bun.lockb

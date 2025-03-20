@@ -1,0 +1,20 @@
+[
+  "constructor()",
+  "event Initialized(uint8)",
+  "event OwnershipTransferStarted(address indexed,address indexed)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function acceptOwnership()",
+  "function baseAsset() view returns (address)",
+  "function deposit(address) payable returns (uint256)",
+  "function depositWithDiscountAndLock(uint256,address) payable returns (uint256)",
+  "function initialize(address,address)",
+  "function mint(uint256,address) payable returns (uint256)",
+  "function mintWithDiscountAndLock(uint256,uint256,address) payable returns (uint256)",
+  "function owner() view returns (address)",
+  "function pendingOwner() view returns (address)",
+  "function redeem(uint256,address,address) returns (uint256)",
+  "function renounceOwnership()",
+  "function tizzToken() view returns (address)",
+  "function transferOwnership(address)",
+  "function withdraw(uint256,address,address) returns (uint256)"
+]

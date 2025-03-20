@@ -1,0 +1,3 @@
+[
+  "function receiveAssets(address _token, address _user, uint256 _amount)"
+]

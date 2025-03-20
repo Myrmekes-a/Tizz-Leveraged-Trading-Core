@@ -1,0 +1,12 @@
+[
+  "event CallbackExecuted(tuple(uint256 orderId, uint256 price, uint256 spreadP, uint256 open, uint256 high, uint256 low) answer, uint8 orderType)",
+  "event CollateralPriceIdUpdated(uint256 value)",
+  "event PriceReceived(uint256 indexed pairId, bytes bytesproof, uint256 indexed price)",
+  "event SupraOracleStorageUpdated(address indexed value)",
+  "event SupraOracleUpdated(address indexed value)",
+  "function getCollateralFromUsdNormalizedValue(uint256 normalizedValue) view returns (uint256)",
+  "function getCollateralPriceUsd() view returns (uint256)",
+  "function getPrice(uint256 _pairIndex, uint8 _orderType, tuple(tuple(address trader, uint256 pairIndex, uint256 index, uint256 initialPosToken, uint256 positionSizeBaseAsset, uint256 openPrice, bool buy, uint256 leverage, uint256 tp, uint256 sl) trade, uint256 block, uint256 wantedPrice, uint256 slippageP, uint256 spreadReductionP) _pendingOrder, tuple(address nftHolder, uint256 nftId, address trader, uint256 pairIndex, uint256 index, uint8 orderType) _pendingNft, bytes _bytesproof) returns (uint256)",
+  "function getUsdNormalizedValue(uint256 collateralValue) view returns (uint256)",
+  "function updateCollateralPairId(uint256 _newValue)"
+]

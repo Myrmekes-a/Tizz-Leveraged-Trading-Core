@@ -1,0 +1,12 @@
+[
+  "event CallbackExecuted(tuple(uint256,uint256,uint256,uint256,uint256,uint256),uint8)",
+  "event CollateralPriceIdUpdated(uint256)",
+  "event PriceReceived(uint256 indexed,bytes,uint256 indexed)",
+  "event SupraOracleStorageUpdated(address indexed)",
+  "event SupraOracleUpdated(address indexed)",
+  "function getCollateralFromUsdNormalizedValue(uint256) view returns (uint256)",
+  "function getCollateralPriceUsd() view returns (uint256)",
+  "function getPrice(uint256,uint8,tuple(tuple(address,uint256,uint256,uint256,uint256,uint256,bool,uint256,uint256,uint256),uint256,uint256,uint256,uint256),tuple(address,uint256,address,uint256,uint256,uint8),bytes) returns (uint256)",
+  "function getUsdNormalizedValue(uint256) view returns (uint256)",
+  "function updateCollateralPairId(uint256)"
+]

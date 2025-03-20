@@ -1,0 +1,12 @@
+type PricePair @entity {
+  id: ID!
+  chainId: BigInt!
+  decimals: BigInt!
+  baseAsset: String!
+  quoteAsset: String!
+  price: BigDecimal!
+  roundId: BigInt!
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}

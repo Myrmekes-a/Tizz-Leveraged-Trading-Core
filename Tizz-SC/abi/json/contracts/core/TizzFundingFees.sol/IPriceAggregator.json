@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "bytes",
+        "name": "_bytesProof",
+        "type": "bytes"
+      },
+      {
+        "internalType": "uint256",
+        "name": "pair",
+        "type": "uint256"
+      }
+    ],
+    "name": "GetPairPrice",
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

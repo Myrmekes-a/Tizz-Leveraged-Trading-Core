@@ -1,0 +1,15 @@
+[
+  "event RewardDistributed(address indexed,uint256)",
+  "event RewardHarvested(address indexed,address indexed,uint128)",
+  "event RewardHarvestedFromUnlock(address indexed,address indexed,bool,uint256[],uint128)",
+  "event RewardTokenAdded(address,uint256,uint128)",
+  "event TizzClaimed(address indexed,uint256[],uint128)",
+  "event TizzStaked(address indexed,uint128)",
+  "event TizzUnstaked(address indexed,uint128)",
+  "event UnlockManagerUpdated(address indexed,bool)",
+  "event UnlockScheduleRevoked(address indexed,uint256 indexed)",
+  "event UnlockScheduled(address indexed,uint256 indexed,tuple(uint128,uint128,uint128,uint48,uint48,bool,uint8,uint16))",
+  "function createUnlockSchedule(tuple(uint128,uint48,uint48,bool,uint8),address)",
+  "function distributeReward(address,uint256)",
+  "function owner() view returns (address)"
+]

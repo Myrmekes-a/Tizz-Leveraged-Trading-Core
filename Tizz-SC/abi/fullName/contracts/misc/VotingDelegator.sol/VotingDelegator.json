@@ -1,0 +1,3 @@
+[
+  "event Delegated(address indexed asset, address indexed delegatee, bool success)"
+]

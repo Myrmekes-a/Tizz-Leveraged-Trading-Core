@@ -1,0 +1,3 @@
+[
+  "function GetPairPrice(bytes _bytesProof, uint256 pair) returns (uint256)"
+]

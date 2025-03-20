@@ -1,0 +1,7 @@
+[
+  "function pack(uint256[],uint256[]) pure returns (uint256)",
+  "function packTriggerOrder(uint256,uint256,uint256,uint256,uint256,uint256) pure returns (uint256)",
+  "function unpack(uint256,uint256[]) pure returns (uint256[])",
+  "function unpack256To64(uint256) pure returns (uint64, uint64, uint64, uint64)",
+  "function unpackTriggerOrder(uint256) pure returns (uint256, address, uint256, uint256, uint256, uint256)"
+]

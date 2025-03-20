@@ -1,0 +1,12 @@
+[
+  "event FeeAdded(uint256 index, string name)",
+  "event FeeUpdated(uint256 index)",
+  "event GroupAdded(uint256 index, string name)",
+  "event GroupUpdated(uint256 index)",
+  "event PairAdded(uint256 index, string from, string to)",
+  "event PairCustomMaxLeverageUpdated(uint256 indexed index, uint256 maxLeverage)",
+  "event PairUpdated(uint256 index)",
+  "function getFeeIndex(uint256 _pairIndex) view returns (uint256)",
+  "function getSlot() pure returns (uint256)",
+  "function pairMaxLeverage(uint256 _pairIndex) view returns (uint256)"
+]

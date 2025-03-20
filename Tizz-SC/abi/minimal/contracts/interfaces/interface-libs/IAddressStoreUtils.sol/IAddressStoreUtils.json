@@ -1,0 +1,10 @@
+[
+  "error InitError()",
+  "error InvalidInputLength()",
+  "error NotAllowed()",
+  "error WrongAccess()",
+  "error WrongSlot()",
+  "event AccessControlUpdated(address,uint8,bool)",
+  "event AddressesUpdated(tuple(address))",
+  "function hasRole(address,uint8) view returns (bool)"
+]

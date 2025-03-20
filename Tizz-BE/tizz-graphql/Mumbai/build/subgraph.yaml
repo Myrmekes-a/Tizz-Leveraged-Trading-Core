@@ -1,0 +1,66 @@
+specVersion: 1.0.0
+indexerHints:
+  prune: auto
+schema:
+  file: schema.graphql
+dataSources:
+  - kind: ethereum
+    name: EACAggregatorProxyBTCUSDOnMumbai
+    network: mumbai
+    source:
+      address: "0x11E187fd2c832a95BdD78A46DdA774d5821E7569"
+      abi: EACAggregatorProxy
+      startBlock: 28781888
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - PricePair
+      abis:
+        - name: EACAggregatorProxy
+          file: EACAggregatorProxyBTCUSDOnMumbai\abis\AccessControlledAggregator.json
+      eventHandlers:
+        - event: AnswerUpdated(indexed int256,indexed uint256,uint256)
+          handler: handleAnswerUpdated
+      file: EACAggregatorProxyBTCUSDOnMumbai\EACAggregatorProxyBTCUSDOnMumbai.wasm
+  - kind: ethereum
+    name: EACAggregatorProxyETHUSDOnMumbai
+    network: mumbai
+    source:
+      address: "0xB4cCB58dD3d35530E54B631AC0561F0c6D424D38"
+      abi: EACAggregatorProxy
+      startBlock: 28781889
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - PricePair
+      abis:
+        - name: EACAggregatorProxy
+          file: EACAggregatorProxyETHUSDOnMumbai\abis\EACAggregatorProxy.json
+      eventHandlers:
+        - event: AnswerUpdated(indexed int256,indexed uint256,uint256)
+          handler: handleAnswerUpdated
+      file: EACAggregatorProxyBTCUSDOnMumbai\EACAggregatorProxyBTCUSDOnMumbai.wasm
+  - kind: ethereum
+    name: EACAggregatorProxyDAIUSDOnMumbai
+    network: mumbai
+    source:
+      address: "0xe0Ef78E847dc1A6aA410897B053E3C8a2B411828"
+      abi: EACAggregatorProxy
+      startBlock: 28781890
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.7
+      language: wasm/assemblyscript
+      entities:
+        - PricePair
+      abis:
+        - name: EACAggregatorProxy
+          file: EACAggregatorProxyDAIUSDOnMumbai\abis\EACAggregatorProxy.json
+      eventHandlers:
+        - event: AnswerUpdated(indexed int256,indexed uint256,uint256)
+          handler: handleAnswerUpdated
+      file: EACAggregatorProxyBTCUSDOnMumbai\EACAggregatorProxyBTCUSDOnMumbai.wasm

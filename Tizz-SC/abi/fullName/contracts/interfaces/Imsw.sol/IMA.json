@@ -1,0 +1,3 @@
+[
+  "function characters(uint256 tokenId) view returns (uint256 quality, uint256 level, uint256 score)"
+]

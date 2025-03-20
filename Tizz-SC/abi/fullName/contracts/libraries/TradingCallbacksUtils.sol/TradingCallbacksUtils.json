@@ -1,0 +1,11 @@
+[
+  "function correctSl(uint256 _openPrice, uint256 _leverage, uint256 _sl, bool _long) pure returns (uint256)",
+  "function correctTp(uint256 _openPrice, uint256 _leverage, uint256 _tp, bool _long) pure returns (uint256)",
+  "function currentPercentProfit(uint256 _openPrice, uint256 _currentPrice, bool _long, uint256 _leverage) pure returns (int256 p)",
+  "function getTradeValue(tuple(address trader, uint256 pairIndex, uint256 index, uint256 initialPosToken, uint256 positionSizeBaseAsset, uint256 openPrice, bool buy, uint256 leverage, uint256 tp, uint256 sl) _trade, uint256 _currentBaseAssetPos, int256 _percentProfit, uint256 _closingFees, uint128 _collateralPrecisionDelta, ITizzFundingFees _fundingFees) view returns (uint256 value, uint256 fundingFee)",
+  "function getTradeValuePure(uint256 _collateral, int256 _percentProfit, uint256 _fundingFee, uint256 _closingFee, uint128 _collateralPrecisionDelta) pure returns (uint256)",
+  "function handleTradeSlTp(tuple(address trader, uint256 pairIndex, uint256 index, uint256 initialPosToken, uint256 positionSizeBaseAsset, uint256 openPrice, bool buy, uint256 leverage, uint256 tp, uint256 sl) _trade) pure returns (uint256, uint256)",
+  "function marketExecutionPrice(uint256 _price, uint256 _spreadP, bool _long) pure returns (uint256)",
+  "function openTradePrep(tuple(bool isPaused, uint256 executionPrice, uint256 wantedPrice, uint256 marketPrice, uint256 spreadP, bool buy, uint256 pairIndex, uint256 positionSize, uint256 leverage, uint256 maxSlippageP, uint256 tp, uint256 sl) _input, ITizzFundingFees _fundingFees, ITizzTradingStorage _storageT, ITizzMultiCollatDiamond _multiCollatDiamond, ITizzPriceAggregator _aggregator) view returns (uint256 priceImpactP, uint256 priceAfterImpact, ITizzTradingCallbacks.CancelReason cancelReason)",
+  "function withinExposureLimits(uint256 _pairIndex, bool _long, uint256 _positionSizeBaseAsset, uint256 _leverage, ITizzTradingStorage _storageT, ITizzFundingFees _fundingFees) view returns (bool)"
+]

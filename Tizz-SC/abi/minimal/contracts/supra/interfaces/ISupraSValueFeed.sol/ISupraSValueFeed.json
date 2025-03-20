@@ -1,0 +1,6 @@
+[
+  "function getDerivedSvalue(uint256,uint256,uint256) view returns (tuple(int256,uint256,uint256))",
+  "function getSvalue(uint256) view returns (tuple(uint256,uint256,uint256,uint256))",
+  "function getSvalues(uint256[]) view returns (tuple(uint256,uint256,uint256,uint256)[])",
+  "function getTimestamp(uint256) view returns (uint256)"
+]

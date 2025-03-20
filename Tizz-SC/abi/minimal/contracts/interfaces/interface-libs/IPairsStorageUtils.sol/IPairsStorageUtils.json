@@ -1,0 +1,22 @@
+[
+  "event FeeAdded(uint256,string)",
+  "event FeeUpdated(uint256)",
+  "event GroupAdded(uint256,string)",
+  "event GroupUpdated(uint256)",
+  "event PairAdded(uint256,string,string)",
+  "event PairCustomMaxLeverageUpdated(uint256 indexed,uint256)",
+  "event PairUpdated(uint256)",
+  "function pairCloseFeeP(uint256) view returns (uint256)",
+  "function pairFeed(uint256) view returns (tuple(address,address,uint8,uint256))",
+  "function pairIdByJob(uint256) returns (uint256, uint256)",
+  "function pairJob(uint256) returns (string, string, bytes32, uint256)",
+  "function pairMaxLeverage(uint256) view returns (uint256)",
+  "function pairMinLevPosUsd(uint256) view returns (uint256)",
+  "function pairMinLeverage(uint256) view returns (uint256)",
+  "function pairNftLimitOrderFeeP(uint256) view returns (uint256)",
+  "function pairOpenFeeP(uint256) view returns (uint256)",
+  "function pairOracleFeeP(uint256) view returns (uint256)",
+  "function pairSpreadP(uint256) view returns (uint256)",
+  "function pairs(uint256) view returns (tuple(string,string,tuple(address,address,uint8,uint256),uint256,uint256,uint256,uint256))",
+  "function pairsCount() view returns (uint256)"
+]
